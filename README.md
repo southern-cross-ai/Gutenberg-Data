@@ -1,4 +1,4 @@
-Sure, let's go through the steps to create a Scrapy spider for downloading text files from the Project Gutenberg Australia website from scratch..
+Let's go through the steps to create a Scrapy spider for downloading text files from the Project Gutenberg Australia website from scratch..
 
 ### Step-by-Step Guide to Create a Scrapy Spider
 
