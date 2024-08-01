@@ -77,24 +77,7 @@ Ensure the directory for saving the downloaded files exists:
 mkdir -p downloaded_texts
 ```
 
-#### 6. Update Settings (Optional)
-
-If you want to adjust settings such as obeying `robots.txt` or adding download delays, update the `settings.py` file in your project:
-
-```python
-# settings.py
-
-BOT_NAME = 'gutenberg_scraper'
-
-SPIDER_MODULES = ['gutenberg_scraper.spiders']
-NEWSPIDER_MODULE = 'gutenberg_scraper.spiders'
-
-ROBOTSTXT_OBEY = True
-DOWNLOAD_DELAY = 1  # 1 second delay between requests
-CONCURRENT_REQUESTS_PER_DOMAIN = 1
-```
-
-#### 7. Run the Spider
+#### 6. Run the Spider
 
 Navigate back to the project root directory (where `scrapy.cfg` is located) and run the spider:
 
