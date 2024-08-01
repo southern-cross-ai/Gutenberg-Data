@@ -35,4 +35,4 @@ class GutenbergSpider(scrapy.Spider):
         with open(save_path, 'wb') as f:
             f.write(response.body)
         
-        self.log(f'Saved file {file_name}', level=scrapy.log.INFO)
+        self.logger.info(f'Saved file {file_name}')
