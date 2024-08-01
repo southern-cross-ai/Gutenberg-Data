@@ -1,10 +1,25 @@
 # 🧹 Data Collection, Cleaning, and Organization
 
-This repository contains scripts and templates for collecting, cleaning, and organizing data. Each dataset is managed on its own branch. This approach ensures that when you clone the repository, only the files you need for a specific dataset are downloaded. Switch to the relevant branch to access and pull the dataset you need.
-
-**Note:** The project name should refer to the data source being scraped, and proper credit should be given to the original data source in your project documentation.
+This repository contains scripts and templates for collecting, cleaning, and organizing data. 
 
 GitHub Git Large File Storage (Git LFS) is enabled in Southern Cross AI, allowing large files to be pushed and pulled from this repository after the initial scraping of any website. This helps to prevent putting too much pressure on any one website.
+
+---
+
+> **📝 Note:**
+> 
+> Each dataset is managed on its own branch.
+> 
+> - **To check existing datasets:** Browse the branches to see what datasets are already available.
+> - **To add a new dataset:** 
+>   1. Create a new branch.
+>   2. Develop a spider in that branch.
+>   3. Collect and commit the datasets to that branch.
+> - **Project naming:** The project name should refer to the data source being scraped, and proper credit should be given to the original data source in your project documentation.
+> 
+> This format provides clear instructions and emphasizes the steps for adding new datasets. This approach also ensures that when you clone the repository, only the files you need for a specific dataset are downloaded. Switch to the relevant branch to access and pull the dataset you need.
+
+---
 
 ## 🌟 Setting Up a Dataset
 
