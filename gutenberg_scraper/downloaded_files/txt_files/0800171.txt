@@ -1,0 +1,4936 @@
+
+Project Gutenberg Australia
+
+Title: Gems of Chinese Literature: Verse
+Author: Herbert A Giles
+* A Project Gutenberg of Australia eBook *
+eBook No.: 0800171.txt
+Language:  English
+Date first posted: February 2008
+Date most recently updated: February 2008
+
+This eBook was produced by: John Bickers and Dagny
+
+Production notes:
+
+  This text was typed up from the "revised and greatly enlarged" 2nd
+  edition, published in 1923 by Kelly & Walsh, Ltd., Shanghai, also
+  Hongkong--Singapore--Yokohama--Hankow. The book consists of the
+  companion work on prose and this verse volume bound together.
+
+
+Project Gutenberg of Australia eBooks are created from printed editions
+which are in the public domain in Australia, unless a copyright notice
+is included. We do NOT keep any eBooks in compliance with a particular
+paper edition.
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing this
+file.
+
+This eBook is made available at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg of Australia License which may be viewed online at
+http://gutenberg.net.au/licence.html
+
+To contact Project Gutenberg of Australia go to http://gutenberg.net.au
+
+--------------------------------------------------------------------------
+
+Title: Gems of Chinese Literature: Verse
+Author: Herbert A Giles
+
+
+First Published 1883.
+
+Etext prepared by John Bickers, jbickers@ihug.co.nz
+              and Dagny, dagnyj@hotmail.com
+
+
+
+                      GEMS OF CHINESE LITERATURE
+
+                                  BY
+
+               HERBERT A. GILES, Hon. LL.D. (Aberdeen)
+
+         Professor of Chinese in the University of Cambridge
+
+
+
+                           PREPARER'S NOTE
+
+  This text was typed up from the "revised and greatly enlarged" 2nd
+  edition, published in 1923 by Kelly & Walsh, Ltd., Shanghai, also
+  Hongkong--Singapore--Yokohama--Hankow. The book consists of the
+  companion work on prose and this verse volume bound together.
+
+
+
+                               PREFACE
+
+In translating Chinese poetry, so soon as the meaning has been
+secured, there is always open for its reproduction a choice between
+rhymed verse and prose. Personally, I am on the side of the former. It
+is a much more difficult feat to achieve than a prose rendering,
+further involving, as it does, considerable "labour of the file;" that
+is, if the /meaning/, which is essential in both cases, is to be
+retained in approximately all its fullness,--a consummation
+unfortunately denied to the /spirit/, whether the vehicle be verse or
+prose.
+
+All Chinese poetry is lyrical, in the sense that it was originally
+intended to be set to music and sung; and the great bulk of it is also
+lyrical in the later senses of the term, as well as in rhyme.
+Swinburne, in his /Essays and Studies/, 1875, says "Rhyme is the
+native condition of lyric verse in English; a rhymeless lyric is a
+maimed thing." Mr. George Moore in /The Observer/ of 9th June, 1918,
+declares that "verse cannot be translated into verse," and that all
+such attempts are "an amateurish adventure." It will surprise many to
+hear that Conington, Fitzgerald, Rossetti, Burton, and other notable
+translators of verse into verse were mere amateurs; all the same, Mr.
+Moore is entitled to his own opinion. Keats, on the other hand, tells
+us that never did he breathe the pure serene of Homer until he heard
+Chapman speak out loud and bold in his rhymed versions of the Iliad
+and the Odyssey; but there is no record of any one into whose ken the
+accurate prose version of Butcher and Lang has ever swum like a new
+planet.
+
+Herewith a word-for-word translation of "The Chaste Wife's Reply,"
+with which the general reader may compare my rhymed version, and may
+be able to judge how far I have drifted from the meaning of the
+original.
+
+  Sir know handmaid have husband
+  Offer handmaid pair bright pearls
+  Sympathize sir entangle floss purpose
+  Wrap stop red silk vest
+  Handmaid home lofty storey connect park rise
+  Good man hold halberd bright glory inside
+  Know sir use mind like sun moon
+  Serve husband swear intend together live die
+  Return sir bright pearls pair tears drop
+  Hate not mutual meet not marry time
+
+The above is written with five words to each of the first four lines,
+and with seven words to the remaining six. It must not be supposed
+that each Chinese monosyllable presents to the reader the same bald
+front as the English equivalent which I have set down. That is where
+style and spirit come in; neither of them communicable in an alien
+tongue.
+
+Chinese poetry may be written with any number of words from one to
+eleven, or even more, to each line; and it is hoped that the above
+example will show how it is possible to extract sense from a congeries
+of monosyllables unconnected by most of the parts of speech which
+guide, or fail to guide, the reader of an English poem. This feature,
+constant in Chinese poetry, can be produced as a /tour de force/ in
+other languages. A verse, consisting of only one monosyllabic word to
+the line, which yields immediate sense, and one sense only, can easily
+be constructed in English. With apologies for its triviality, I hasten
+to add--
+
+  Boy
+    Jam
+  Joy
+    Cram
+  Ill
+    Bed
+  Pill
+    Dead
+
+The first edition of this work was published in 1898, and has long
+been out of print. The present edition, considerably enlarged, is a
+companion volume to "Gems of Chinese Literature," also in its second
+and enlarged edition, which contains specimens from the great prose
+writers of all ages down to the present day. My best thanks are due to
+my son, Mr. Lancelot Giles, H.B.M. Consul at Ch`ang-sha, who has
+carried out for me the troublesome task of proof-reading.
+
+                                                     Herbert A. Giles.
+
+Cambridge, 1922.
+
+
+
+         Dear Land of Flowers, forgive me!--that I took
+           These snatches from thy glittering wealth of song,
+         And twisted to the uses of a book
+           Strains that to alien harps can ne'er belong.
+
+         Thy gems shine purer in their native bed
+           Concealed, beyond the pry of vulgar eyes;
+         Until, through labyrinths of language led,
+           The patient student grasps the glowing prize.
+
+         Yet many, in their race toward other goals,
+           May joy to feel, albeit at second-hand,
+         Some far faint heart-throb of poetic souls
+           Whose breath makes incense in the Flowery Land.
+
+                                                        H. A. G.
+
+
+
+
+
+                      GEMS OF CHINESE LITERATURE
+
+                                VERSE
+
+
+
+                               THE ODES
+
+  These are some 300 of the old national ballads of China, collected
+  and edited by Confucius, 551-479 B.C. On one occasion, the Master
+  said to his son, "Have you studied the /Odes/?" And on receiving
+  an answer in the negative, Confucius warned him, saying, "If you
+  do not study the /Odes/, you will have no command of language."
+
+                         TO A YOUNG GENTLEMAN
+
+Don't come in, sir, please!
+Don't break my willow-trees!
+Not that /that/ would very much grieve me;
+But alack-a-day! what would my parents say?
+And love you as I may,
+I cannot bear to think what that would be.
+
+Don't cross my wall, sir, please!
+Don't spoil my mulberry-trees!
+Not that /that/ would very much grieve me;
+But alack-a-day! what would my brothers say?
+And love you as I may,
+I cannot bear to think what that would be.
+
+Keep outside, sir, please!
+Don't spoil my sandal-trees!
+Not that /that/ would very much grieve me;
+But alack-a-day! what the world would say!
+And love you as I may,
+I cannot bear to think what that would be.[1]
+                              ----------
+
+                         A MALE LIGHT-OF-LOVE
+
+Away I must run;
+There is work to be done,
+Though I'm thinking to-day
+Of the eldest Miss K.
+In the mulberry-grove
+I shall pour out my love;
+For she's promised to met me
+And as lover to greet me--
+  The eldest Miss K.
+
+Away I must run;
+There is work to be done.
+But to-day I shall be
+With the eldest Miss E.
+In the mulberry-grove
+I shall pour out my love;
+For she's promised to meet me
+And as lover to greet me--
+  The eldest Miss E.
+
+Away I must run;
+There is work to be done.
+But to-day I shall sigh
+For the eldest Miss Y.
+In the mulberry-grove
+I shall pour out my love;
+For she's promised to meet me
+And as lover to greet me--
+  The eldest Miss Y.
+                              ----------
+
+                      "AT BEST A CONTRADICTION"
+
+A clever man will build a town,
+A clever woman pull it down.
+Though woman's wit is sometimes heard,
+She's really an ill-omened bird;
+Her long tongue's like a flight of stairs
+Which leads to miserable cares.
+It is not God who mars our lives,
+The fault is rather with our wives.
+Of all we cannot teach or train,
+Women and eunuchs are our bane.
+                              ----------
+
+                              DESPERATE!
+
+The ripe plums are falling,--
+  One-third of them gone;
+To my lovers I'm calling,
+  "'Tis time to come on!"
+
+The ripe plums are dropping,--
+  Two-thirds are away;
+"'Tis time to be popping!"
+  To my lovers I say.
+
+Down has dropt every plum!
+  In baskets they lie.
+What, will no lover come?
+  "Now or never!" say I.
+                              ----------
+
+                               TO A MAN
+
+You seemed a guileless youth enough,
+Offering for silk your woven stuff;[2]
+But silk was not required by you:
+I was the silk you had in view.
+
+With you I crossed the ford, and while
+We wandered on for many a mile
+I said, "I do not wish delay,
+But friends must fix our wedding-day. . . .
+Oh, do not let my words give pain,
+But with the autumn come again."
+
+And then I used to watch and wait
+To see you passing through the gate;
+And sometimes when I watched in vain,
+My tears would flow like falling rain;
+But when I saw my darling boy,
+I laughed and cried aloud for joy.
+The fortune-tellers, you declared,
+Had all pronounced us duly paired;
+"Then bring a carriage," I replied,
+"And I'll away to be your bride."
+
+The mulberry-leaf, not yet undone
+By autumn chill, shines in the sun.
+O tender dove, I would advise,
+Beware the fruit that tempts thy eyes![3]
+O maiden fair, not yet a spouse,
+List lightly not to lovers' vows!
+A man may do this wrong, and time
+Will fling its shadow o'er his crime;
+A woman who has lost her name
+Is doomed to everlasting shame.
+
+The mulberry-tree upon the ground
+Now sheds its yellow leaves around.
+Three years have slipped away from me,
+Since first I shared your poverty;
+And now again, alas the day!
+Back through the ford I take my way.
+My heart is still unchanged, but you
+Have uttered words now proved untrue;
+And you have left me to deplore
+A love that can be mine no more.
+
+For three long years I was your wife,
+And led in truth a toilsome life;
+Early to rise and late to bed,
+Each day alike passed o'er my head.
+I honestly fulfilled my part;
+And you,--well, you have broke my heart.
+The truth my brothers will not know,
+So all the more their gibes will flow.
+I grieve in silence and repine
+That such a wretched fate is mine.
+
+Ah, hand in hand to face old age!--
+Instead, I turn a bitter page.
+Oh for the river-banks of yore;
+Oh for the much-loved marshy shore;
+The hours of girlhood, with my hair
+Ungathered, as we lingered there.
+The words we spoke, that seemed so true,
+I little thought that I should rue;
+I little thought the vows we swore
+Would some day bind us two no more.
+                              ----------
+
+                             THE CRICKET
+
+The cricket chirrups in the hall,
+  The year is dying fast;
+Now let us hold high festival
+  Ere the days and months be past.
+Yet push not revels to excess
+  That our fair fame be marred;
+Lest pleasures verge to wickedness
+  Let each be on his guard.
+                              ----------
+
+[1] Set to music by Cyril Scott and J. A. Carpenter.
+
+[2] Pieces of stamped linen, used as a circulating medium before the
+    introduction of the bank-note.
+
+[3] The dove is very fond of mulberries, and is said to become
+    intoxicated by them.
+
+
+
+                       ANONYMOUS ANCIENT POETRY
+
+                        THE HUSBANDMAN'S SONG
+
+Work, work,--from the rising sun
+Till sunset comes and the day is done
+  I plough the sod
+  And harrow the clod,
+And meat and drink both come to me,
+So what care I for the powers that be?
+                              ----------
+
+                             YAO'S ADVICE[1]
+
+With trembling heart and cautious steps
+  Walk daily in fear of God. . . .
+Though you never trip over a mountain,
+  You may often trip over a clod.
+                              ----------
+
+                     INSCRIPTION ON A WASH-BASIN
+
+Oh, rather than sink in the world's foul tide
+  I would sink in the bottomless main;
+For he who sinks in the world's foul tide
+  In noisome depths shall for ever abide,
+But he who sinks in the bottomless main
+  May hope to float to the surface again.
+                              ----------
+
+[1] An Emperor of the 3rd millennium B.C., formerly regarded as
+    legendary.
+
+
+
+                       CH`Ü YÜAN OR CH`Ü P`ING
+
+                             332-295 B.C.
+
+  The typical loyal statesman of China. Unable to prevail against
+  the evil policy of his sovereign, he committed suicide by
+  drowning. The modern Dragon-Boat festival is supposed to be a
+  search for his body. See /Gems of Chinese Literature: Prose/.
+
+                              THE BATTLE
+
+We take our trusty spears in hand,
+  We don our coats of mail;[1]
+When chariot-wheels are interlocked,
+  With daggers we assail.
+Standards obscure the light of day,
+  Like rushing clouds their brunt;
+Arrows on both sides fall around;
+  All struggle to the front.
+Our line at last is broken through,
+  Beneath the foeman's heels;
+My own near horse is killed outright,
+  The off horse wounded reels,
+The team becomes a useless mass,
+  Entangled in the wheels.
+With stick of jade I strike the drum,[2]
+  And beat to hurry on,
+For though by God's decree I fell,
+  My ardour was not gone.
+Our best men were all done to death,
+  Their corpses strewed the plain;
+They went out but did not come in,
+  Not to return again,
+And now upon the battle-field,
+  Far from their homes they lie,
+Their long swords still within their grasp,
+  And their stout bows near by.
+A head is here, a body there,
+  And yet they never quailed,
+Being so brave and soldiers too,
+  Nor in their duty failed.
+But now, though lifeless clay, their souls
+  Are with the heavenly hosts,
+To lead once more an army corps
+  Of disembodied ghosts.
+                              ----------
+
+                   COMMEMORATION SERVICE AND AFTER
+
+The funeral rites are over;
+  Now let us beat the drum. . . . . . . . .
+The priest gives up his plantain-wand,[3]
+  And now the dancers come.
+In unison fair maidens sing,
+  "Asters for autumn, orchids for spring"--
+Thus it always is,
+  And thus it has always been.[4]
+                              ----------
+
+[1] Of buffalo-hide; not of rhinoceros-hide, as has been wrongly
+    supposed.
+
+[2] The drum is the signal for advance, the gong for retreat.
+
+[3] Passing it on to the next dancer after his own performance.
+
+[4] Life must go on again as usual, with dance and song and flowers.
+
+
+
+                               SUNG YÜ
+
+                           4th Century B.C.
+
+   Nephew of Ch`ü Yüan, and like his uncle a statesman and a poet.
+
+                             UNPOPULARITY
+
+Among birds the phœnix, among fishes the leviathan
+  holds the chiefest place;
+Cleaving the crimson clouds
+  the phœnix soars apace,
+With only the blue sky above,
+  far into the realms of space;
+But the grandeur of heaven and earth
+  is as naught to the hedge-sparrow race.
+And the leviathan rises in one ocean
+  to go to rest in a second,
+While the depth of a puddle by a humble minnow
+  as the depth of the sea is reckoned.
+And just as with birds and fishes,
+  so too it is with man;
+Here soars a phœnix,
+  there swims a leviathan.
+Behold the philosopher, full of nervous thought,
+  with a fame that never grows dim,
+Dwelling complacently alone,--say,
+  what can the vulgar herd know of him?
+
+
+
+                              MEI SHÊNG
+
+                           2nd Century B.C.
+
+  Statesman and poet, of whose writings only nine short poems
+  remain.
+
+                              NEGLECTED
+
+Green grows the grass upon the bank,
+The willow-shoots are long and lank;
+A lady in a glistening gown
+Opens the casement and looks down.
+The roses on her cheek blush bright,
+Her rounded arm is dazzling white;
+A singing-girl in early life,
+And now a careless roué's wife. . . . . .
+Ah, if he does not mind his own,
+He'll find some day the bird has flown!
+                              ----------
+
+                                PARTED
+
+The red hibiscus and the reed,
+The fragrant flowers of marsh and mead,--
+All these I gather as I stray,
+As though for one now far away.
+I strive to pierce with straining eyes
+The distance that between us lies.
+Alas that hearts which beat as one
+Should thus be parted and undone!
+
+
+
+                        T`AI TSUNG (LIU HÊNG)
+
+                            Died 156 B.C.
+
+  Fourth Emperor of the Han dynasty, and a wise ruler. He is one of
+  the 24 examples of filial piety, having waited on his sick mother
+  for three years without changing his clothes.
+
+                      ON THE DEATH OF HIS FATHER
+
+I look up, the curtains are there as of yore;
+I look down, and there is the mat on the floor;
+These things I behold, but the man is no more.
+
+To the infinite azure his spirit has flown,
+And I am friendless, uncared-for, alone,
+Of solace bereft, save to weep and to moan.
+
+The deer on the hillside caressingly bleat,
+And offer the grass for their young ones to eat,
+While birds of the air to their nestlings bring meat.
+
+But I a poor orphan must ever remain,
+My heart, still so young, overburdened with pain
+For him I shall never set eyes on again.
+
+'Tis a well-worn old saying, which all men allow,
+That grief stamps the deepest of lines on the brow:
+Alas for my hair, it is silvery now!
+
+Alas for my father, cut off in his pride!
+Alas that no more I may stand by his side!
+Oh where were the gods when that great hero died?
+
+
+
+                        SHIH TSUNG (LIU CH`Ê)
+
+                             156-87 B.C.
+
+  Sixth Emperor of the Han dynasty. During his reign copper coins
+  were cast, academical degrees were instituted, Greek music took
+  the place of the old native art, and the calendar was
+  scientifically reformed. Personally, he was a Taoist and made
+  efforts to obtain an elixir of immortality.
+
+                            AMARI ALIQUID
+
+The autumn blast drives the white scud in the sky,
+Leaves fade, and wild geese sweeping south meet the eye;
+The scent of late flowers fills the soft air above,
+My heart full of thoughts of the lady I love.
+In the river the barges for revel-carouse
+Are lined by white waves which break over their bows;
+Their oarsmen keep time to the piping and drumming. . . .
+  Yet joy is naught
+  Alloyed by the thought
+That youth slips away and that old age is coming.
+                              ----------
+
+                                 GONE[1]
+
+The sound of rustling silk is stilled,
+With dust the marble courtyard filled;
+No footfalls echo on the floor,
+Fallen leaves in heaps block up the door . . .
+For she, my pride, my lovely one is lost,
+And I am left, in hopeless anguish tossed.
+                               ----------
+
+[1] Referring to the loss of a favourite concubine.
+
+
+
+                             PAN CHIEH-YÜ
+
+                           1st Century B.C.
+
+  For a long time chief favourite of the Emperor Ch`êng Ti. "Chieh-
+  yü" was a title conferred upon the concubine most distinguished
+  for literary ability.
+
+                            THE AUTUMN FAN[1]
+
+O fair white silk, fresh from the weaver's loom,
+Clear as the frost, bright as the winter snow--
+See! friendship fashions out of thee a fan,
+Round as the round moon shines in heaven above;
+At home, abroad, a close companion thou,
+Stirring at every move the grateful gale;
+And yet I fear, ah me! that autumn chills,
+Cooling the dying summer's torrid rage,
+Will see thee laid neglected on the shelf,
+All thought of by-gone days, like them by-gone.
+                              ----------
+
+[1] This term is now used of a deserted wife.
+
+
+
+                              ANONYMOUS
+
+                           1st Century B.C.
+
+                              CARPE DIEM
+
+Man reaches scarce a hundred, yet his tears
+Would fill a lifetime of a thousand years.
+When days are short and night's long hours move slow,
+Why not with lamp in search of pleasure go?
+This day alone gives sure enjoyment--this!
+Why then await to-morrow's doubtful bliss?
+Fools grudge to spend their wealth while life abides,
+And then posterity their thrift derides.
+We cannot hope, like Wang Tzu-ch`iao,[1] to rise
+And find a paradise beyond the skies.
+                              ----------
+
+                          THE ELIXIR OF LIFE
+
+Forth from the eastern gate my steeds I drive,
+  And lo! a cemetery meets my view;
+Aspens around in wild luxuriance thrive,
+  The road is fringed with fir and pine and yew.
+Beneath my feet lie the forgotten dead,
+  Wrapped in a twilight of eternal gloom;
+Down by the Yellow Springs[2] their earthly bed,
+  And everlasting silence is their doom.
+How fast the lights and shadows come and go!
+  Like morning dew our fleeting life has passed;
+Man, a poor traveller on earth below,
+  Is gone, while brass and stone can still outlast.
+Time is inexorable, and in vain
+  Against his might the holiest mortal strives;
+Can /we/ then hope this precious boon to gain,
+  By strange elixirs to prolong our lives? . . .
+Oh, rather quaff good liquor while we may,
+  And dress in silk and satin every day!
+                              ----------
+
+[1] A prince of the 6th century B.C., who rode up to heaven on the
+    back of a crane. See /Ts`ui Hao/.
+
+[2] The Chinese Hades.
+
+
+
+                               FÊNG YEN
+
+                           1st Century A.D.
+
+  A precocious boy--at 9 he could repeat the /Odes/--who entered
+  official life under Wang Mang, the Usurper, and later on served
+  under the first two Emperors of the E. Han dynasty. He left behind
+  him a large collection of miscellaneous writings.
+
+                          "A BOLD PEASANTRY"
+
+When you ride in a cart,
+  let the wheels be your care;
+In governing States,
+  look well after the masses.
+For just as a cart
+  without wheels cannot fare,
+So a State comes to grief
+  if reduced to the classes.
+
+
+
+                              ANONYMOUS
+
+                       1st or 2nd Century A.D.
+
+                     From the /Yo fu/ collection.
+
+                        TO A DEPARTING HUSBAND
+
+Drawn by brave steeds thy chariot
+  out on its way has set;
+My heart will always follow thee
+  and never can forget.
+Upon thy western journey now
+  I wish thee all repose. . . . .
+Ah, would I were thy shadow, dear,
+  that I might follow close!
+But a gloom has closed around thee,
+  and thy shadow is not near.
+Oh, pass into the light of day
+  and once again appear!
+                              ----------
+
+                            A WAITING WIFE
+
+Boom!--Boom!--the thunder peals;
+A sense of happening o'er me steals.
+I turn my ear to catch the sound--
+'Tis not thy chariot-wheels!
+                              ----------
+
+                   "WHAT IS FRIENDSHIP BUT A NAME?"
+
+I had a friend, a school-boy chum,
+  And hand in hand we took our way;
+But he to higher things has come,
+  And I am left alone to-day.
+                              ----------
+
+                               A TRYST
+
+In the snow on the mountain
+  a hero is sitting . . . .
+Through the forest by moonlight
+  a maiden is flitting . . . .
+                              ----------
+
+                             LOVE'S SWAY
+
+When Love has carried off the heart
+  ten thousand miles away,
+The glittering starlit sky above
+  seems reft of every ray.
+
+
+
+                              K`UNG JUNG
+
+                            Died A.D. 208.
+
+  A descendant from Confucius in the 20th Generation, and an anti-
+  prohibitionist. "If my halls are full of guests," he said, "and my
+  jars are full of wine, I am happy." He was put to death by Ts`ao
+  Ts`ao (see /Gems of Chinese Literature: Prose/.)
+
+                             A FIRST-BORN
+
+The wanderer reaches home with joy
+  From absence of a year and more;
+His eye seeks a beloved boy--
+  His wife lies weeping on the floor.
+
+They whisper he is gone. The glooms
+  Of evening fall; beyond the gate
+A lonely grave in outline looms
+  To greet the sire who came too late.
+
+Forth to the little mound he flings,
+  Where wild-flowers bloom on every side. . .
+His bones are in the Yellow Springs,
+  His flesh like dust is scattered wide.
+
+"O child who never knew thy sire,
+  For ever now to be unknown,
+Ere long thy wandering ghost shall tire
+  Of flitting friendless and alone.
+
+"O son, man's greatest earthly boon,
+  With thee I bury hopes and fears."
+He bowed his head in grief and soon
+  His breast was wet with rolling tears.
+
+Life's dread uncertainty he knows,
+But oh for this untimely close!
+
+
+
+                               HSÜ KAN
+
+                      2nd and 3rd Centuries A.D.
+
+  An official and poet who was ranked as one of the Seven Scholars
+  of his day.
+
+                          AN ABSENT HUSBAND
+
+O floating clouds that swim in heaven above
+Bear on your wings these words to him I love. . . .
+Alas, you float along nor heed my pain,
+And leave me here to love and long in vain!
+I see other dear ones to their homes return,
+And for his coming shall not I too yearn?
+Since my lord left--ah me, unhappy day!--
+My mirror's dust has not been brushed away;
+My heart, like running water, knows no peace,
+But bleeds and bleeds forever without cease.[1]
+                              ----------
+
+[1] See /Chang Chiu-ling/.
+
+
+
+                               FU YÜAN
+
+                           3rd Century A.D.
+
+  A scholar and a statesman who rose by the year 268 to be Censor
+  and Imperial Chamberlain. He was of such an eager disposition that
+  whenever he had any Memorial to submit to the Emperor, he would
+  proceed at once to the palace, at no matter what hour of the day
+  or night, and sit there until audience at the following dawn. Thus
+  he caught the chill of which he died. Seven only of his poems are
+  still extant.
+
+                            LOVE IMPETUOUS
+
+The lover and maiden are fair to be seen;
+Though close are their homes, there are mountains between.
+With a cloud for a car and the wind for a horse,
+The lover and maiden might meet in due course,
+But clouds are uncertain, and breezes may drop,
+While love is impatient and suffers no stop.
+
+
+
+                              TS`AO CHIH
+
+                             A.D. 192-232.
+
+  Son of the great Ts`ao Ts`ao, and like Hsü Kan one of the Seven
+  Scholars of his day. He is said to have composed an impromptu
+  stanza while walking only seven steps; reminding us of Lucilius,
+  who threw off two hundred lines /stans pede in uno/.
+
+                             THE BROTHERS
+
+A fine dish of beans had been placed in the pot
+With a view to a good mess of pottage, all hot.
+The beanstalks, aflame, a fierce heat were begetting,
+The beans in the pot were all fuming and fretting.
+Yet the beans and the stalks were not born to be foes;
+Oh why should these hurry to finish off those?
+
+
+
+                               LIU KUN
+
+                            Died A.D. 317.
+
+  A distinguished military commander. While defending the city of
+  Chin-yang against the Tartars, with no prospect of holding out, he
+  mounted a tower by moonlight and played on the Tartar pipe. The
+  besiegers were so overcome by their emotions and thoughts of home
+  that next morning they raised the siege.
+
+                              A BARMAID
+
+A rainbow at morning was bridging the sky,
+And fragrant a stream full of lilies hard by,
+When lo! I beheld a young maid of fifteen,
+Who stood, sweetly smiling, behind the canteen.
+
+She outshone the flowers which blossomed around;
+Men grudged that her shadow should fall on the ground;
+So peerless her beauty and youth,--in a trice
+I found I had paid for my wine double price!
+
+
+
+                                FU MI
+
+                      3rd and 4th Centuries A.D.
+
+                            LOVERS PARTED
+
+In the Kingdom of Yen
+  a young gallant resides,
+In the Kingdom of Chao
+  a fair damsel abides;
+No long leagues of wearisome
+  road intervene,
+But a chain of steep mountains
+  is set in between.
+Ye clouds, on your broad bosoms
+  bear me afar,
+The winds for my horses
+  made fast to my car!
+Ah, jade lies deep hid
+  in the bowels of earth;
+To the fair epidendrum
+  the prairie gives birth;
+And the clouds in the sky,
+  they come not at call;
+And the fickle breeze rises,
+  alas, but to fall.
+And so I am left
+  with my thoughts to repine,
+And think of that loved one
+  who ne'er can be mine.
+                              ----------
+
+                            AFTER PARTING
+
+Thy chariot and horses
+  have gone and I fret
+And long for the lover
+  I ne'er can forget.
+
+O wanderer, bound
+  in far countries to dwell,
+Would I were thy shadow!--
+  I'd follow thee well.
+
+And though clouds and though darkness
+  my presence should hide,
+In the bright light of day
+  I would stand by thy side!
+
+
+
+                              ANONYMOUS
+
+                            TRUE PLEASURES
+
+The bright moon shining overhead,
+  The stream beneath the breeze's touch,
+Are pure and perfect joys indeed,--
+  But few are they who think them such.
+
+
+
+                     T`AO CH`IEN (T`AO YÜAN-MING)
+
+                            A.D. 365-427.
+
+  A magistrate who held office for only 83 days, resigning on the
+  ground that he could not "crook the hinges of his back for five
+  pecks of rice a day," his official salary. In private life he
+  occupied himself with writing beautiful poetry, with music and
+  flowers. He even composed his own funeral oration.
+
+                              A PORTRAIT[1]
+
+A scholar lives on yonder hill,
+  His clothes are rarely whole to view,
+Nine times a month he eats his fill,
+  Once in ten years his hat is new.
+
+A wretched lot!--and yet the while
+He ever wears a sunny smile.
+
+Longing to know what like was he,
+  At dawn my steps a path unclosed
+Where dark firs left the passage free
+  And on the eaves the white clouds dozed.
+
+But he, when spying my intent,
+  Seized his guitar and swept the strings;
+Up flew a crane towards heaven bent,
+  And now a startled pheasant springs. . . .
+
+Oh, I would live beside my friend--
+  But not beyond the summer's end.
+                              ----------
+
+                               A PRAYER
+
+Ye fluttering birds in plumage gay
+  That to and fro direct your flight,--
+The Western Mother's[2] court by day,
+  The far-off mountain-peaks at night,--
+Oh, be my messengers and go
+  And bear to her these words of mine:
+I ask for nothing here below
+  Save length of years and depth of wine!
+                              ----------
+
+                             SIC TRANSIT
+
+A tower a hundred feet erect
+  Looks round upon the scene which girds;
+'Tis here at eve the clouds collect,
+  At dawn a trysting-place for birds.
+
+Here hills and streams the observer hold,
+  Or boundless prairie mocks the eyes:
+Some famous warriors of old
+  Made this their bloody battle-prize.
+
+The centuries of time roll on,
+  And I, a traveller, passing there,
+Mark firs and cypresses all gone,
+  And grave-mounds, high and low, laid bare.
+
+The ruined tombs uncared-for stand--
+  Where do their wandering spirits hide?--
+Oh, glory makes us great and grand,
+  And yet it has its seamy side.
+                              ----------
+
+[1] This poem is meant as a description of the writer.
+
+[2] Now known to be Hera (Juno). See /Adversaria Sinica/, 1st Series,
+    p. 1 and p. 298.
+
+
+
+                               PAO CHAO
+
+                            Died A.D. 466.
+
+    An official and well-known poet. He was killed in a rebellion.
+
+                                ALONE
+
+What do these halls of jasper mean,
+  and shining floor,
+Where tapestries of satin screen
+  window and door?
+A lady on a lonely seat,
+  embroidering
+Fair flowers which seem to smell as sweet
+  as buds in spring.
+Swallows flit past, a zephyr shakes
+  the plum-blooms down;
+She draws the blind, a goblet takes
+  her thoughts to drown.
+And now she sits in tears, or hums,
+  nursing her grief
+That in her life joy rarely comes
+  to bring relief. . . . . . .
+Oh for the humble turtle's flight,
+  my mate and I;
+Not the lone crane far out of sight
+  beyond the sky!
+
+
+
+                              CHANG YEN
+
+                            A.D. 443-504.
+
+  A statesman and voluminous writer. He is responsible for the first
+  biography of a woman ever published in China.
+
+                              FORGOTTEN
+
+To learn the art of fencing, forth
+I wandered, with my master, north.
+I saw an ancient battle-plain
+Engirt by hills which still remain;
+And while I gazed upon the scene,
+A wide expanse of sky and green,
+I thought how like a summer's day
+Each warrior's name has passed away.
+
+
+
+                          WU TI (HSIAO YEN)
+
+                            A.D. 464-549.
+
+  Founder in 502 of the Liang dynasty. A devout Buddhist, he
+  interpreted the commandment "Thou shalt not kill!" in its
+  strictest sense, and caused the sacrificial victims to be made of
+  dough. Under stress of rebellion, he took refuge in a monastery,
+  and died there of want and mortification.
+
+                     "IN THE SPRING. . . . . . "
+
+At the steps I am met
+  by a scent-laden breeze;
+The flowers in the court-yard
+  are smiling their best.
+When the mind is affected
+  by spring thoughts like these,
+Do you wonder that passion
+  flames up in my breast?
+                              ----------
+
+                           ULTIMATE CAUSES
+
+Trees grow, not alike,
+  by the mound and the moat;
+Birds sing in the forest
+  with varying note;
+Of the fish in the river
+  some dive and some float;
+The mountains rise high
+  and the waters sink low,
+But the why and the wherefore
+  we never can know.
+
+
+
+                            LIU HSIAO-WEI
+
+                           6th Century A.D.
+
+  An official in the service of the Prince of Chin-an. He died of
+  disease during the campaign against the rebel, Hou Ching, A.D.
+  552.
+
+                            AT FIRST SIGHT
+
+A couple of love-birds philandering nigh;
+The moon intermittently seen in the sky . . .
+Stay, who is the beauty with flowers in her hand,
+Whose eyes and whose eyebrows my senses command?
+Rich blues and bright greens shine behind the glass door,
+And a casket of jade contains raiment galore;
+The maiden herself is quite young I believe,
+For she blushes and smiles as the wind flirts her sleeve.
+                .   .   .   .   .   .   .
+The bold to the crossbow can never return,
+And how quench the passion with which I now burn?
+
+
+
+                            HSIEH TAO-HÊNG
+
+                      6th and 7th Centuries A.D.
+
+  A statesman noted for his brilliant scholarship. He was called the
+  Confucius of the West, a title which had already been given to a
+  greater scholar of the 2nd Century A.D. He managed to offend the
+  Emperor, and was put to death.
+
+                             ANTICIPATION
+
+A week in the spring to the exile appears
+Like an absence from home for a couple of years.
+If home, with the wild geese of autumn, we're going,
+Our hearts will be off ere the spring flowers are blowing.
+
+
+
+                               WANG CHI
+
+                      6th and 7th Centuries A.D.
+
+  A strange, unconventional philosopher and poet; author, among
+  other works, of a skit entitled Drunk Land. His career was marred
+  by drunkenness, for which the disturbed and dangerous times may be
+  pleaded as some excuse.
+
+                            TO A KILL-JOY
+
+Indulgence in the flowing bowl
+Impedes the culture of the soul;
+And yet, when all around me swill,
+Shall I alone be sober still?
+                              ----------
+
+                              IN ABSENCE
+
+At eve, I stand upon the bank and gaze;
+  Restless, I know not where my bark may rest;
+I see the forest through the autumn haze;
+  I see the hills of radiance all divest;
+I see the herdsman homing o'er the lea;
+  I see the huntsman's laden horse return. . . . .
+Alas, no loved one comes to beckon me!--
+  I sit and croon the thoughts that in me burn.
+
+
+
+                              WANG PIEH
+
+                            A.D. 648-676.
+
+  A precocious scholar, who began to compose at the age of six and
+  took his degree at sixteen. Employed on the dynastic annals, he
+  offended by denouncing the Emperor's fondness for cockfighting and
+  was dismissed. Therefore he occupied himself with getting drunk
+  and writing poetry--in that order. He was drowned on his way to
+  Cochin China to see his banished father.
+
+                               ICHABOD
+
+Near these islands a palace was built by a prince,
+But its music and song have departed long since;
+The hill-mists of morning sweep down on the halls,
+At night the red curtains lie furled on the walls.
+The clouds o'er the water their shadows still cast,
+Things change like the stars: how few autumns have passed
+And yet where is that prince? Where is he?--No reply,
+Save the splash of the stream rolling ceaselessly by.
+
+
+
+                            CH`ÊN TZU-ANG
+
+                            A.D. 656-698.
+
+  After a youth spent in hunting and gambling, he became an intimate
+  adviser of the famous Empress Wu who appeared in the Council
+  Chamber wearing a false beard and subsequently took the title of
+  "God Almighty." Arrested on a trumped-up charge, he died in
+  prison.
+
+                               REGRETS
+
+My eyes saw not the men of old;
+And now their age away has rolled
+I weep--to think I shall not see
+The heroes of posterity!
+                              ----------
+
+                            AGAINST IDOLS
+
+On Self the Prophet[1] never rests his eye,
+  His to relieve the doom of humankind;
+No fairy palaces beyond the sky,
+  Rewards to come, are present to his mind.
+And I have heard the faith by Buddha taught
+  Lauded as pure and free from earthly taint;
+Why then these carved and graven idols, fraught
+  With gold and silver, gems, and jade, and paint?
+The heavens that roof this earth, mountain and dale,
+  All that is great and grand shall pass away;
+And if the art of gods may not prevail,
+  Shall man's poor handiwork escape decay?
+Fools that ye are! In this ignoble light
+The true faith fades and passes out of sight.
+                              ----------
+
+[1] This term includes the rulers under the Golden Age, Confucius,
+    Mencius, and any other divinely-inspired teacher of the cardinal
+    virtues.
+
+
+
+                            HO CHIH-CHANG
+
+                            Born A.D. 659.
+
+  Poet and official who rose to be Director of the Imperial Library.
+  He was one of the Eight Immortals of the Winecup, and the Emperor
+  called him Devil Ho. Once, when drunk, he fell into a dry well and
+  was found snoring at the bottom.
+
+                              THE RETURN
+
+Bowed down with age I seek my native place,
+Unchanged my speech, my hair is silver now;
+My very children do not know my face,
+But smiling, ask, "O stranger, whence art thou?"
+
+
+
+                            SUNG CHIH-WÊN
+
+                            Died A.D. 710.
+
+  A brilliant poet who had a disreputable career as an official. He
+  was ultimately forced to commit suicide.
+
+                               A VISION
+
+The dust of the morn had been laid by a shower,
+And the trees by the bridge were all covered with flower,
+When a white palfrey passed with a saddle of gold,
+And a damsel as fair as the fairest of old.
+
+But she veiled so discreetly her charms from my eyes
+That the boy who was with her quite felt for my sighs;
+And although not a light-o'-love reckoned, I deem,
+It was hard that this vision should pass like a dream.[1]
+                              ----------
+
+                           "THIS GENTLEMAN"[2]
+
+There, on the banks of a verdant pool,
+  with leaves of selfsame hue
+And all its slender grace of form,
+  he reared the tall bamboo.
+
+But time sped on; phoenix came
+  the precious fruit to taste;
+For far from haunts of man they soar
+  across the mountain's waste.[3]
+
+And so, still young, with eager heart
+  he fled the vulgar crowd,
+Back to the hills true joys to find
+  in every fleecy cloud.
+
+And then, while silently he sat
+  and nursed his conscious pride,
+Not for a day "this gentleman"
+  was absent from his side.
+                              ----------
+
+[1] Set to music by Cyril Scott.
+
+[2] A name given to the bamboo by Wang Hui-chih (died A.D. 388), in
+    whose memory this poem was written.
+
+[3] Suggesting that Wang was unequal to official life.
+
+
+
+                           CHANG CHIU-LING
+
+                            A.D. 673-740.
+
+  Statesman and poet; one of the first officials of the newly-
+  instituted Han-lin College. On an Imperial birthday, when others
+  presented costly articles, he offered only a collection of wise
+  precepts.
+
+                             BY MOONLIGHT
+
+Over the sea the round moon rises bright,
+And floods the horizon with its silver light.
+In absence lovers grieve that nights should be,
+But all the livelong night I think of thee.
+I blow my lamp out to enjoy this rest,
+And shake the gathering dewdrop from my vest.
+Alas! I cannot share with thee these beams,
+So lay be down to see thee in my dreams.
+                              ----------
+
+                          AN ABSENT HUSBAND[1]
+
+Since my lord left--ah me, unhappy hour!--
+The half-spun web hangs idly in my bower;
+My heart is like the full moon, full of pains,
+Save that 'tis always full and never wanes.
+                              ----------
+
+[1] See /Hsü Kan/.
+
+
+
+                             MÊNG HAO-JAN
+
+                             A.D. 689-740.
+
+  After failing at the public Examinations, he retired to the
+  mountains and led the life of a hermit, producing poetry of the
+  first order.
+
+                               WAITING
+
+The sun has sunk behind the western hill,
+  And darkness glides across the vale below;
+Between the firs the moon shines cold and chill,
+  No breezes whisper to the streamlet's flow.
+Belated woodsmen homeward hurry past,
+  Birds seek their evening refuge in the tree:
+O my beloved, wilt thou come at last?
+  With lute, among the flowers, I wait for thee.[1]
+                              ----------
+
+                             IN DREAMLAND
+
+The sun has set behind the western slope,
+  The eastern moon lies mirrored in the pool;
+With streaming hair my balcony I ope,
+  And stretch my limbs out to enjoy the cool.
+Loaded with lotus-scent the breeze sweeps by,
+  Clear dripping drops from tall bamboos I hear,
+I gaze upon my idle lute and sigh:
+  Alas no sympathetic soul is near!
+And so I doze, the while before mine eyes
+Dear friends of other days in dream-clad forms arise.
+                              ----------
+
+                              AT ANCHOR
+
+I steer my boat to anchor
+  by the mist-clad river eyot,
+And mourn the dying day that brings me
+  nearer to my fate.
+Across the woodland wild I see
+  the sky lean on the trees,
+While close to hand the mirrored moon
+  floats on the shining seas.
+                              ----------
+
+[1] Set to music by Cyril Scott.
+
+
+
+                             LI SHIH-CHIH
+
+                            Died A.D. 747.
+
+  A Minister of State and one of the Eight Immortals of the Wine-
+  cup. Falling into disfavour, he committed suicide by poison.
+
+                            OUT OF OFFICE
+
+For my betters--my office resigned--I make way,
+And seek with the wine-cup to shorten the day.
+You ask for the friends who once thronged in my hall:
+Alas! with my place they have gone, one and all.
+
+
+
+                               WANG WEI
+
+                            A.D. 699-759.
+
+  Famous as a poet and a painter; also, as a physician. His poems
+  (like Livy's pages) were said to contain pictures, and his
+  pictures to contain poems. After a brief official career, he went
+  into seclusion.
+
+                              OVERLOOKED
+
+Beneath the humble bamboo grove, alone,
+  I seize my lute and sit and croon;
+No ear to hear me, save my own;
+  No eye to see me, save the moon.
+                              ----------
+
+                               GOODBYE
+
+We parted at the gorge and cried "Good cheer!"
+The sun was setting as I closed my door;
+Methought, the spring will come again next year,
+  But he may come no more.
+                              ----------
+
+                              A RENCONTRE
+
+Sir, from my dear old home you come,
+  And all its glories you can name;
+Oh tell me,--as the winter-plum
+  Yet blossomed o'er the window-frame?
+                              ----------
+
+                       GOODBYE TO MÊNG HAO-JAN
+
+Dismounted, o'er wine we had said our last say;
+Then I whisper, "Dear friend, tell me whither away."
+"Alas!" he replied, "I am sick of life's ills
+"And I long for repose on the slumbering hills.
+"But oh seek not to pierce where my footsteps may stray:
+"The white clouds will soothe me for ever and ay."
+
+
+
+                              TS`UI HAO
+
+                           8th Century A.D.
+
+                A poet, a wine-bibber, and a gambler.
+
+                            HOME LONGINGS
+
+Here a mortal once sailed up to heaven on a crane,[1]
+And the Yellow-Crane Kiosque will for ever remain;[2]
+But the bird flew away and will come back no more,
+Though the white clouds are there as the white clouds of yore.
+Away to the east lie fair forests of trees,
+From the flowers on the west comes a scent-laden breeze,
+Yet my eyes daily turn to their far-away home,
+Beyond the broad River, its waves, and its foam.
+                              ----------
+
+[1] See "Carpe Diem."
+
+[2] It was standing until quite recently, though probably several
+    times restored.
+
+
+
+                                LI PO
+
+                            A.D. 705-762.
+
+  Regarded by many as China's greatest poet, and popularly known as
+  "The Banished Angel." He flourished at a dissolute Court, himself
+  one of its most dissolute members. He was a founder of the drunken
+  club called the Six Idlers of the Bamboo Brook, and also belonged
+  to the Eight Immortals of the Wine-cup. He is said to have been
+  drowned by leaning over the gunwale of a boat in a drunken effort
+  to embrace the reflection of the moon.
+
+                             TO A FIREFLY[1]
+
+Rain cannot quench thy lantern's light,
+Wind makes it shine more brightly bright;
+Oh why not fly to heaven afar,
+And twinkle near the moon--a star?
+                              ----------
+
+                              AT PARTING
+
+The river rolls crystal as clear as the sky,
+To blend far away with the blue waves of ocean;
+Man alone, when the hour of departure is nigh,
+With the wine cup can soothe his emotion.
+The birds of the valley sing loud in the sun,
+Where the gibbons their vigils will shortly be keeping;
+I thought that with tears I had long ago done,
+But now I shall never cease weeping.
+                              ----------
+
+                            NIGHT THOUGHTS
+
+I wake, and moonbeams play around my bed,
+Glittering like hoar-frost to my wondering eyes;
+Up towards the glorious moon I raise my head,
+Then lay me down--and thoughts of home arise.
+                              ----------
+
+                              COMPANIONS
+
+The birds have all flown to their roost in the tree,
+  The last cloud has just floated lazily by;
+But we never tire of each other, not we,
+  As we sit there together--the mountains and I.
+                              ----------
+
+                           FROM A BELVEDERE
+
+With yellow leaves the hill is strown,
+  A young wife gazes o'er the scene,
+The sky with grey clouds overthrown,
+  While autumn swoops upon the green.
+
+See, Tartar troops mass on the plain;
+  Homeward our envoy hurries on;
+When will her lord come back again? . . . .
+  To find her youth and beauty gone!
+                              ----------
+
+                           FOR HER HUSBAND
+
+Homeward, at dusk, the clanging rookery wings its eager flight;
+Then, chattering on the branches, all are pairing for the night.
+Plying her busy loom, a high-born dame is sitting near,
+And through the silken window-screen their voices strike her ear.
+She stops, and thinks of the absent spouse she may never see again;
+And late in the lonely hours of night her tears flow down like rain.
+                              ----------
+
+                   "THE BEST OF LIFE IS BUT . . ."
+
+What is life after all but a dream?
+  And why should such pother be made?
+Better far to be tipsy, I deem,
+  And doze all day long in the shade.
+
+When I wake and look out on the lawn,
+  I hear midst the flowers a bird sing;
+I ask, "Is it evening or dawn?"
+  The mango-bird whistles, "'Tis spring."
+
+Overpower'd with the beautiful sight,
+  Another full goblet I pour,
+And would sing till the moon rises bright--
+  But soon I'm as drunk as before.
+                              ----------
+
+                        FAREWELL BY THE RIVER
+
+The breeze blows the willow-scent in from the dell,
+  While Phyllis with bumpers would fain cheer us up;
+Dear friends press around me to bid me farewell:
+  Goodbye! and goodbye!--and yet just one more cup. . . .
+I whisper, Thou'lt see this great stream flow away
+Ere I cease to love as I love thee to-day!
+                              ----------
+
+                                 GONE
+
+At the Yellow-Crane pagoda,[2] where we
+  stopped to bid adieu,
+The mists and flowers of April seemed
+  to wish good speed to you.
+At the Emerald Isle, your lessening sail had
+  vanished from my eye,
+And left me with the River, rolling onward to the sky.
+                              ----------
+
+                            NO INSPIRATION
+
+  The autumn breeze is blowing,
+  The autumn moon is glowing,
+The falling leaves collect but to disperse.
+The parson-crow flies here and there
+  with ever restless feet;
+I think of you and wonder much
+  when you and I shall meet. . . . . .
+Alas to-night I cannot pour my feelings
+  forth in verse!
+                              ----------
+
+                           GENERAL HSIEH AN
+
+I anchor at the Newchew hill,
+The autumn sky serene and still,
+And watch the moon her crescent fill,
+And vainly think on him by whom this shore was made renowned.[3]
+Though mine is no ungraceful lay,
+He cannot hear the words I say,
+And I must sail at break of day. . . . . .
+And all this while the maple leaves are fluttering to the ground.
+                              ----------
+
+                             A SNAP-SHOT
+
+A tortoise I see on a lotus-flower resting;
+A bird 'mid the reeds and the rushes is nesting;
+A light skiff propelled by some boatman's fair daughter,
+Whose song dies away o'er the fast-flowing water.[4]
+                              ----------
+
+                              A FAREWELL
+
+Where blue hills cross the northern sky,
+  Beyond the moat which girds the town,
+'Twas there we stopped to say Goodbye!
+  And one white sail alone dropped down.
+Your heart was full of wandering thought;
+  For me,--my sun had set indeed;
+To wave a last adieu we sought,
+  Voiced for us by each whinnying steed!
+                              ----------
+
+                           BOYHOOD FANCIES[5]
+
+In days gone by the moon appeared
+  to my still boyish eyes
+Some bright jade plate or mirror from
+  the palace of the skies.
+I used to see the Old Man's legs
+  and Cassias fair as gods can make them,
+I saw the White Hare pounding drugs,
+  and wondered who was there to take them.
+
+Ah, how I watched the eclipsing Toad,
+  and marked the ravages it made,
+And longed for him who slew the suns
+  and all the angels' fears allayed.[6]
+Then when the days of waning came,
+  and scarce a silver streak remained,
+I wept to lose my favourite thus,
+  and cruel grief my eyelids stained.
+                              ----------
+
+                           FROM THE PALACE
+
+Cold dews of night the terrace crown,
+And soak my stockings and my gown;
+  I'll step behind
+  The crystal blind,
+And watch the autumn moon sink down.
+                              ----------
+
+                               THE POET
+
+You ask what my soul does away in the sky,
+I inwardly smile but I cannot reply;
+Like the peach-blossom carried away by the stream,
+I soar to a world of which you cannot dream.
+                              ----------
+
+                                TEARS
+
+A fair girl draws the blind aside
+  And sadly sits with drooping head;
+I see her burning tear-drops glide
+  But know not why those tears are shed.
+                              ----------
+
+                             A FAVOURITE[7]
+
+Oh the joy of youth spent in a gold-fretted hall,
+In the Crape-flower Pavilion, the fairest of all,
+My tresses for headdress with gay garlands girt,
+Carnations arranged o'er my jacket and skirt!
+Then to wander away in the soft-scented air,
+And return by the side of his Majesty's chair. . . .
+But the dance and the song will be o'er by and by,
+And we shall dislimn like the rack in the sky.
+                              ----------
+
+                               IN EXILE
+
+I drink deep draughts of Lan-ling wine
+  fragrant with borage made,
+The liquid amber mantling up
+  in cups of costly jade.
+My host insists on making me
+  as drunk as any sot,
+Until I'm quite oblivious
+  of the exile's wretched lot.
+                              ----------
+
+                            ANTI-PUSSYFOOT
+
+If God does not love wine,
+  Why shines the wine-star[8] in the sky?
+If Earth does not love wine,
+  Her flowing wine-spring[9] should be dry.
+And since unharmed these Powers combine
+  To love the wine-cup, so will I.
+                              ----------
+
+                             IN A MIRROR
+
+My whitening hair would make a long long rope,
+  Yet could not fathom all my depth of woe;
+Though how it comes within a mirror's scope
+  To sprinkle autumn frosts, I do not know.
+                              ----------
+
+                              LAST WORDS
+
+An arbour of flowers
+  and a kettle of wine:
+Alas! in the bowers
+  no companion is mine.
+
+Then the moon sheds her rays
+  on my goblet and me,
+And my shadow betrays
+  we're a party of three!
+
+Though the moon cannot swallow
+  her share of the grog,
+And my shadow must follow
+  wherever I jog,
+
+Yet their friendship I'll borrow
+  and gaily carouse,
+And laugh away sorrow
+  while spring-time allows.
+
+See the moon--how she glances
+  response to my song;
+See my shadow--it dances
+  so lightly along!
+
+While sober I feel,
+  you are both my good friends;
+When drunken I reel,
+  our companionship ends,
+
+But we'll soon have a greeting
+  without a goodbye,
+At our next merry meeting
+  away in the sky.
+                              ----------
+
+[1] An impromptu, at the age of ten.
+
+[2] See /Ts`ui Hao/.
+
+[3] Referring to the meeting at this spot of the General (A.D. 320-
+    385) with Yüan Hung, a distinguished scholar and statesman.
+
+[4] Set to music by J. Alden Carpenter.
+
+[5] Chinese fable says that the moon is inhabited by a huge toad which
+    occasionally swallows it; hence eclipses. Also, that there are
+    groves of cassia, and a hare visible to the naked eye, engaged in
+    preparing the drug of immortality.
+
+[6] The legendary archer, Hou I, who, when a number of false suns
+    appeared in the sky, to the great detriment of the crops, shot at
+    and destroyed them with his arrows.
+
+[7] One of ten stanzas thrown off by the poet when tipsy and concealed
+    behind a pink silk screen held up by two ladies of the seraglio.
+
+[8] First mentioned in the 2nd Century A.D. A poet of the 8th Century
+    said:
+
+    You cannot pour the wine-star's wine,
+    Nor eat the cassia of the moon.
+
+[9] Mentioned several centuries B.C., and placed by Yen Shih-ku (died
+    A.D. 645) in the province of Kansuh.
+
+
+
+                                TU FU
+
+                            A.D. 712-770.
+
+  A poet whose fame rivalled--many say eclipsed--that of the great
+  Li Po. He had indeed such a high opinion of his own poetry that he
+  prescribed it for malarial fever. After serving without success as
+  Censor, and secretary in the Board of Works, he resigned and took
+  up a wandering life, finally dying from the effects of starvation
+  during a flood, followed by over-indulgence in roast beef and
+  white wine.
+
+                              IN ABSENCE
+
+White gleam the gulls across the darkling tide,
+  On the green hills the red flowers seem to burn;
+Alas! I see another spring has died . . .
+  When will it come--the day of my return?
+                              ----------
+
+                                 WINE
+
+The setting sun shines low upon my door
+  Ere dusk enwraps the river fringed with spring;
+Sweet perfumes rise from gardens by the shore,
+  And smoke, where crews their boats to anchor bring.
+Now tittering birds are roosting in the bower,
+  And flying insects fill the air around . . .
+O wine, who gave to thee thy subtle power?--
+  A thousand cares in one small goblet drowned!
+                              ----------
+
+                            TO HIS BROTHER
+
+The evening drum has emptied every street,
+One autumn goose screams on its frontier flight,
+The crystal dew is glittering at my feet,
+The moon sheds, as of old, her silvery light.
+
+The brothers,--ah, where are they? Scattered each;
+No home whence one might learn the other's harms.
+Letters have oft miscarried: shall they reach
+Now when the land rings with the clash of arms?
+                              ----------
+
+                             A LANDSCAPE
+
+Two orioles sit in the green willows singing;
+See egrets in flight to the blue sky are winging!
+From my window the snow-peaks eternal I spy,
+And an ocean-bound vessel is anchored hard by.
+                              ----------
+
+                              HOME JOYS
+
+My home is girdled by a limpid stream,
+  And there in summer days life's movements pause,
+Save where some swallow flits from beam to beam,
+  And the wild sea-gull near and nearer draws.
+
+The goodwife rules a paper board for chess;
+  The children beat a fish-hook out of wire;
+My ailments call for physic more or less,
+  What else should this poor frame of mine require?
+                              ----------
+
+                           SSU-MA HSIANG-JU[1]
+
+'Twas here, from sickness sore oppressed,
+He found relief on Wên-chün's breast;
+'Twas here the vulgar tavern lay
+On mountain cloud-capped night and day.
+And still mid flowers and leaves I trace
+Her fluttering robe, her tender face;
+But ah! the phoenix calls in vain,
+Such mate shall not be seen again.
+                              ----------
+
+                              THE HERMIT
+
+Alone I wandered o'er the hills
+  to seek the hermit's den,
+While sounds of chopping rang around
+  the forest's leafy glen.
+I passed on ice across the brook
+  which had not ceased to freeze,
+As the slanting rays of afternoon
+  shot sparkling through the trees.
+
+I found he did not joy to gloat
+  o'er fetid wealth by night,
+But far from taint, to watch the deer
+  in the golden morning light. . . .
+My mind was clear at coming;
+  but now I've lost my guide,
+And rudderless my little bark
+  is drifting with the tide![2]
+                              ----------
+
+                              SUPERSEDED
+
+Alas for the lonely plant that grows
+  beside the river bed,
+While the mango-bird screams loud and long
+  from the tall tree overhead!
+Full with the freshets of the spring,
+  the torrent rushes on;
+The ferry-boat swings idly, for
+  the ferryman is gone.[3]
+                              ----------
+
+                SOLO CHI SEGUE CIÒ CHE PIACE É SAGGIO
+
+A petal falls!--the spring begins to fail,
+And my heart saddens with the growing gale.
+Come then, ere autumn spoils bestrew the ground,
+Do not forget to pass the wine-cup round.
+Kingfishers build where man once laughed elate,
+And now stone dragons guard his graveyard gate!
+Who follows pleasure, he alone is wise;
+Why waste our life in deeds of high emprise?
+                              ----------
+
+                           DUM RES ET AETAS
+
+From the court every eve to the pawnshop I pass,
+  To come back from the river the drunkest of men;
+As often as not I'm in debt for my glass;--
+  Well, few of us live to be threescore and ten.
+The butterfly flutters from flower to flower,
+  The dragon-fly sips and springs lightly away,
+Each creature is merry its brief little hour,
+  So let us enjoy our short life while we may.
+                              ----------
+
+                               A PICNIC
+
+The sun is setting as we loose the boat,
+And lightly o'er the breeze-swept waters float.
+We seek a corner where the bamboo grows,
+And fragrant lilies offer cool repose.
+Here well-iced draughts of wine the men prepare,
+With lotus shredded fine by fingers fair. . . .
+But now a black cloud gathering in the sky
+Warns me to finish off my verse and fly.[4]
+                              ----------
+
+                            THE PRESSGANG
+
+There, where at eve I sought a bed,
+  A pressgang came, recruits to hunt;
+Over the wall the goodman sped,
+  And left his wife to bear the brunt.
+
+Ah me! the cruel serjeant's rage!
+  Ah me! how sadly she anon
+Told all her story's mournful page,--
+  How three sons to the war had gone;
+
+How one had sent a line to say
+  That two had been in battle slain:
+He, from the fight had run away,
+  But they could ne'er come back again.
+
+She swore 'twas all the family--
+  Except a grandson at the breast;
+His mother too was there, but she
+  Was all in rags and tatters drest.
+
+The crone with age was troubled sore,
+  But for herself she'd not think twice
+To journey to the seat of war
+  And help to cook the soldiers' rice.
+
+The night wore on and stopped her talk;
+  Then sobs upon my hearing fell. . . .
+At dawn when I set forth to walk,
+  Only the goodman cried Farewell!
+                              ----------
+
+[1] A poet of the 2nd Century B.C. who eloped with a beautiful young
+    widow and was driven to keep a tavern until the father-in-law
+    relented.
+
+[2] Hinting that he is now contemplating a hermit's life himself.
+
+[3] A specimen of political allegory. The "lonely plant" refers to a
+    virtuous statesman for whom the time is out of joint, like Lord
+    Rosebery and his "lonely furrow." The "mango-bird" is a worthless
+    politician in power. The "ferry-boat" is our ship of State.
+
+[4] Set to music by Cyril Scott.
+
+
+
+                             CH`ANG CHIEN
+
+                           8th Century A.D.
+
+  A poet who in 727 took the highest degree and entered into
+  official life, but ultimately retired to the mountains as a
+  hermit.
+
+                                DHYÂNA[1]
+
+The clear dawn creeps into the convent old,
+The rising sun tips its tall trees with gold,--
+As, darkly, by a winding path I reach
+Dhyâna's hall, hidden midst fir and beech.
+Around these hills sweet birds their pleasure take,
+Man's heart as free from shadows as this lake;
+Here worldly sounds are hushed, as by a spell,
+Save for the booming of the altar bell.
+                              ----------
+
+[1] A state of mental abstraction, by recourse to which the Buddhist
+    gradually shakes off all desire for sublunary existence. In every
+    monastery there is a hall in which priests may be seen sitting for
+    hours together with their eyes closed.
+
+
+
+                           HSÜ HSÜAN-P`ING
+
+                           8th Century A.D.
+
+  A singular being, who in 708 retired to the mountains and tried to
+  live without eating, but not without drinking, as the following
+  verse of which he himself was the woodman-hero will show. The
+  poet, Li Po, tried to find him, but without success.
+
+                         "BACCHE, PLENUM TUI"
+
+In the morning my woodman will sell his load,
+And he'll buy his wine on his homeward road.
+You ask where the home of my pedlar lies. . . .
+The home of that man is in Paradise!
+
+
+
+                              CHIA CHIH
+
+                            A.D. 718-772.
+
+             Poet and statesman with a chequered career.
+
+                            SPRING SORROWS
+
+The willow sprays are yellow fringed,
+  the grass is gaily green;
+Peach-blooms in wild confusion with
+  the perfumed plum are seen;
+The eastern breeze sweeps past me,
+  yet my sorrows never go,
+And the lengthening days of spring to me
+  mean lengthening days of woe.
+
+
+
+                             WEI YING-WU
+
+                           8th Century A.D.
+
+  In early life a soldier; later, after a course of study he entered
+  upon a civil career. His poetry has been described as "simple in
+  expression, pregnant with meaning."
+
+                          AN ABSENT HUSBAND
+
+The oriole trills its little lay,
+Orchids around in wild array,
+What time the wife, immured behind,
+Sees sunlight pierce the muslin blind.
+Her lovely eyebrows, mothlike made,
+Her parted lips, her teeth of jade. . . .
+She sighs to think that peach and plum
+Bloom while her hero may not come;
+Since parting, time has sadly fled:
+Is he indeed alive or dead?
+                              ----------
+
+                             SPRING JOYS
+
+When freshets cease in early spring and the river dwindles low,
+I take my staff and wander by the banks where wild flowers grow.
+I watch the willow-catkins wildly whirled on every side;
+I watch the falling peach-bloom lightly floating down the tide.
+                              ----------
+
+                             REMEMBRANCES
+
+In autumn, when the nights are chill,
+  I stroll, and croon, and think of thee.
+When dropping pine-cones strew the hill,
+  Say, hast thou waking dreams of me?
+                              ----------
+
+                              A PROMISE
+
+Sweet flowers were blooming all around
+  when your last farewell you said,
+And now the opening buds
+  proclaiming another year has fled.
+'Tis difficult to prophesy
+  beyond the present day,
+And the remedy for trouble
+  is to sleep it all away.
+I suffer much in body,
+  and I long for the old spot,
+But cannot bring myself
+  in pensioned idleness to rot.
+You say that you will visit me,
+  that you are coming soon:
+'Twixt now and then how often shall
+  I see the full-orbed moon?
+
+
+
+                             HSÜ AN-CHÊN
+
+                           8th Century A.D.
+
+  An official who took the highest degree and was on intimate terms
+  with the famous Emperor Ming Huang, whose literary draughts were
+  always examined by him.
+
+                             MY NEIGHBOUR
+
+When the Bear athwart was lying
+And the night was just on dying,
+And the moon was all but gone,
+How my thoughts did ramble on!
+
+Then a sound of music breaks
+From a lute that some one wakes,
+And I know that it is she,
+The sweet maid next door to me.
+
+And as the strains steal o'er me
+Her moth-eyebrows[1] rise before me,
+And I feel a gentle thrill
+That her fingers must be chill.
+
+But doors and locks between us
+So effectually screen us
+That I hasten from the street
+And in dreamland pray to meet.
+                              ----------
+
+[1] Referring to the delicately curved eye-markings of the silkworm
+    moth.
+
+
+
+                             TS`ÊN TS`AN
+
+                           8th Century A.D.
+
+  Took the highest degree about the year 750, and rose to be a
+  Censor.
+
+                        IN PRAISE OF BUDDHISM
+
+A shrine, whose eaves in far-off cloudland hide:
+I mount, and with the sun stand side by side.
+
+The air is clear; I see wide forests spread
+And mist-crowned heights where Kings of old lie dead.
+
+Scarce o'er my threshold peeps the Southern Hill;
+The Wei shrinks through my window to a rill. . . .
+
+O thou Pure Faith, had I but known thy scope,
+The Golden God had long since been my hope!
+
+
+
+                               KÊNG WEI
+
+                           8th Century A.D.
+
+  An official and poet who took the highest degree in 762, and was
+  one of the Ten Men of Genius of his day. Two of his lines have
+  become proverbial:
+
+    Hireling respect with loss of fortune ends,
+    and loss of influence means loss of friends.
+
+                                LONELY
+
+The evening sun slants o'er the village street;
+  My griefs alas! in solitude are borne;
+Along the road no wayfarers I meet,--
+  Naught but the autumn breeze across the corn.
+
+
+
+                          LIU CH`ANG-CH`ING
+
+                           8th Century A.D.
+
+  Took the highest degree in the year 757, and rose to be a Censor
+  and Judge.
+
+                       THE WASHERWOMAN'S GRAVE[1]
+
+The hero ne'er forgot the meal she gave,--
+  My tale is of a thousand years ago,--
+And every woodsman knows the time-worn grave,
+  Though naught remains of dynasties save the river's ceaseless flow.
+
+With votive flower the traveller is seen,
+  The while the grief-bird[2] trills his mournful lays;
+Around, the grass of spring grows wildly green
+  Where footprints of the "nobleman"[3] were left in bygone days.
+                              ----------
+
+[1] The great General of the 2nd Century B.C., Han Hsin, was saved
+    from starving by a kindly washerwoman. Later on he remembered and
+    provided for his benefactress.
+
+[2] The goatsucker or nightjar.
+
+[3] As the washerwoman called Han Hsin, by a presentiment of his
+    future greatness.
+
+
+
+                             KA CHIA-YÜN
+
+                           8th Century A.D.
+
+  A Commissioner of Revenue about A.D. 725, who presented to the
+  Emperor the stanza given below, though apparently not claiming it
+  as his own composition.
+
+                               AT DAWN
+
+Drive the young orioles away,
+Nor let them on the branches play;
+Their chirping breaks my slumber through
+And keeps me from my dreams of you.
+
+
+
+                              CHANG WEI
+
+                           8th Century A.D.
+
+  A poet who took the highest degree in 743 and rose to be President
+  of the Board of Rites.
+
+                              NOSTALGIA
+
+'Tis autumn, and I watch the streams
+  Which towards my dear home flow;
+I span the distance in my dreams,
+  And wake to deeper woe.
+
+I cannot read to ease my care,
+  But solace seek in wine,
+And think of friends all gathered there--
+  When will that lot be mine?
+
+
+
+                           WANG CH`ANG-LING
+
+                           8th Century A.D.
+
+  A poet who took the highest degree and entered official life. He
+  was killed in a rebellion.
+
+                             AT THE WARS
+
+See the young wife whose bosom ne'er
+  has ached with cruel pain!--
+In gay array she mounts the tower
+  when spring comes round again.
+Sudden she sees the willow-trees
+  their newest green put on.
+And sighs for her husband far away
+  in search of glory gone.
+                              ----------
+
+                              A MESSAGE
+
+Onwards tonight my storm-beat course I steer,
+  At dawn these mountains will for ever fade;
+Should those I leave behind enquire my cheer,
+  Tell them, "an icy heart in vase of jade."
+
+
+
+                             HUANG-FU JÊN
+
+                           8th Century A.D.
+
+  Took the highest degree about the year 750 and entered official
+  life. His poetry, which he began to write at the age of ten, was
+  much admired by Chang Chiu-ling.
+
+                         SPRETÆ INJURIA FORMÆ
+
+See! fair girls are flocking through corridors bright,
+  With music and mirth borne along on the breeze. . . . . .
+Come, tell me if she who is favoured tonight
+  Has eyebrows much longer than these?
+
+
+
+                               TSU YUNG
+
+                           8th Century A.D.
+
+  An official who took the highest degree about the year 730, and
+  rose to be a Secretary in the Board of Rites. His poetry is much
+  admired.
+
+                               A GROTTO
+
+Deep in a darksome grove their Grotto lies,
+And deep the thoughts that now within me rise.
+Fronting the door the South Hill looming near,
+The forest mirrored in the river clear,
+The bamboo bends beneath last winter's snow,
+The court-yard darkens ere the day sinks low.
+I seem to pass beyond this world of clay,
+And sit and listen to the spring-bird's lay.
+
+
+
+                               TS`UI HU
+
+                       8th or 9th Century A.D.
+
+                 A poet of whom I can find no record.
+
+                             A RETROSPECT
+
+Oh this day last year what a party were we
+Pink cheeks and pink peach-blossoms smiled upon me;
+But alas the pink cheeks are now far far away,
+Though the peach-blossoms smile as they smiled on that day.
+
+
+
+                            LIU T`ING-CHIH
+
+                            Circa A.D. 800.
+
+                 A poet of whom I can find no record.
+
+                         "YOUTH AT THE PROW"
+
+Beneath the bridge spring freshets hurry by;
+Above, there passes many a cavalier;
+The sound of trampling horses fills the sky,
+And mirrored forms are dancing on the mere.
+
+Beneath green waves the mud-banks turn to jade,
+The setting sun paints the blue clouds with gold;
+Alas, ye willow trees, for sorrow made![1]
+Alas, ye peach and plum, for grief enrolled![2]
+
+Now is the time to seek the blooming fair,
+Now is the hour to join the dance and song;
+See how the lovely girls flit here and there,
+Among the noble youths in lordly throng!
+
+The pearl-sewn blind glints in the sunshine clear,
+Pink cheeks make contrast with complexion blond;
+Among the flowers two butterflies career,
+I see two love-birds paddling in the pond.
+
+I think of her whose glance could wreck a State,[3]
+Of her whose lover came in mist and rain.[4]
+Ah! beauty as of yore makes man elate,
+And I to-day feel the old thrill again.
+
+Oh, could I be the zone that clasps thy waist!--
+Thy mirror, that thy beauty I might share!
+Together always, by thy presence graced,
+A single being, a united pair.
+
+Oh, could we be some pure, some long-lived pine,
+Unconscious of the life each spring renewed,
+Each eve to watch the westering sun incline,
+For ever happy in our solitude!
+                              ----------
+
+[1] Referring to the custom of giving a spray of willow at parting.
+
+[2] There is a very old belief in China that the decay of a plum-tree
+    is due to maggots from a peach-tree growing alongside.
+
+[3] "One glance from her would overthrow a city, a second a State,"--
+    so beautiful was she--was said by the brother of Lady Li, his
+    sister and concubine to the Emperor Wu Ti, 140-86 B.C.
+
+[4] This refers to a dream by a Prince of Ch`u of the Goddess of
+    Clouds and Rain who received him on Mt. Wu in Ssuch`uan.
+
+
+
+                             CH`ÜAN TE-YÜ
+
+                             A.D. 759-818.
+
+  Scholar and statesman. It is recorded that he began to write verse
+  at four years of age.
+
+                                 HOPE
+
+Last eve thou wert a bride,
+  This morn thy dream is o'er. . . . .
+Cast not thy rouge aside,
+  He may be thine once more.
+
+
+
+                        HAN YÜ (HAN WÊN-KUNG)
+
+                            A.D. 768-824.
+
+  One of China's greatest statesmen, who also occupies a foremost
+  place as a writer and is popularly known as the Prince of
+  Literature. For his prose works, including his attack on Buddhism,
+  see /Gems of Chinese Literature: Prose/, 2nd Edition.
+
+                          THE WOUNDED FALCON
+
+Within a ditch beyond my wall
+I saw a falcon headlong fall.
+Bedaubed with mud and racked with pain,
+It beat its wings to rise, in vain;
+While little boys threw tiles and stones,
+Eager to break the wretch's bones.
+  O bird, methinks thy life of late,
+Hath amply justified this fate!
+Thy sole delight to kill and steal,
+And then exultingly to wheel,
+Now sailing in the clear blue sky,
+Now on the wild gale sweeping by,
+Scorning thy kind of less degree
+As all unfit to mate with thee.
+  But mark how fortune's wheel goes round;
+A pellet lays thee on the ground,
+Sore stricken at some vital part,--
+And where is then thy pride of heart?
+  What's this to me?--I could not bear
+To see the fallen one lying there.
+I begged its life, and from the brook
+Water to wash its wounds I took.
+Fed it with bits of fish by day.
+At night from foxes kept away.
+My care I knew would naught avail
+For gratitude, that empty tale.
+And so this bird would crouch and hide
+Till want its stimulus applied;
+And I, with no reward to hope,
+Allowed its callousness full scope.
+  Last eve the bird showed signs of rage,
+With health renewed, and beat its cage.
+Today it forced a passage through,
+And took its leave, without adieu.
+  Good luck hath saved the, not desert;
+Beware, O bird, of further hurt;
+Beware the archer's deadly tools!--
+'Tis hard to escape the shafts of fools--
+Nor e'er forget the chastening ditch
+That found thee poor, and left thee rich.[1]
+                              ----------
+
+                          HOURS OF IDLENESS
+
+A little lake of mine I know,
+Where waving weeds and rushes grow,
+And in its depths by day and night
+The water-monsters swarm and fight.
+Ah, how I loved to idle there! . . .
+But now I can no longer bear
+To pass my days in that sweet spot,
+And lost in meditation rot.
+A sense of duty gives me pause,
+Obedient to my Master's[2] laws;
+Our span of life is all too short
+To waste its hours in empty sport.
+                              ----------
+
+                               IN CAMP
+
+Across the steppes the bitter north winds roam,
+  At dawn the Tartar moon shines cold and bright;
+My soul relapses into dreams of home,
+  Till the loud rappel summons to the fight.
+                              ----------
+
+                             MEDITATIONS
+
+The leaves fall fluttering from the trees,
+And now, respective to the breeze,
+Rustling with weird uncanny sound,
+Are dancing merrily around.
+On my lone hall the dusk has come
+And there I sit in silence dumb.
+My servant glides into the room
+And with a lamp dispels the gloom.
+He speaks; I give him no reply.
+He proffers food; in vain. Then I
+Move to escape his wondering looks
+And seek a refuge in my books.
+Alas, the men who charm me so
+Perished a thousand years ago!
+And while I muse o'er human fate
+My heart grows less and less elate . . .
+"Oh boy, whose eyes stare from your head,
+"Put up those books and get to bed,
+"And leave me to the dreary naught
+"Of endless, overwhelming thought."
+                              ----------
+
+                              DISCONTENT
+
+To stand upon the river-bank
+  and snare the purple fish,
+My net well cast across the stream,
+  /was/ all that I could wish.
+Or lie concealed and shoot the geese
+  that scream and pass apace,
+And pay my rent and taxes with
+  the profits of the chase.
+Then home to peace and happiness,
+  with wife and children gay,
+Though clothes be coarse and fare be hard,
+  and earned from day to day.
+But now I read and read, scarce knowing
+  what 'tis all about,
+And eager to improve my mind,
+  I wear my body out.
+I draw a snake and give it legs,
+  to find I've wasted skill,
+And my hair grows daily whiter
+  as I hurry towards the hill.[3]
+I sit amid the sorrows
+  I have brought on my own head,
+And find myself estranged from all,
+  among the living dead.
+I seek to drown my consciousness
+  in wine, alas! in vain:
+Oblivion passes quickly
+  and my griefs begin again.
+Old age comes on and yet withholds
+  the summons to depart. . . .
+So I'll take another bumper
+  just to ease my aching heart.
+                              ----------
+
+                               HUMANITY
+
+Oh spare the busy morning fly!
+  Spare the mosquitos of the night!
+And if their wicked trade they ply
+  Let a partition stop their flight.
+
+Their span is brief from birth to death;
+  Like you they bite their little day;
+And then, with autumn's earliest breath,
+  Like you too they are swept away.
+                              ----------
+
+[1] In experience of the vicissitudes of life.
+
+[2] Confucius, in whose Temple the tablet of Han Yü was placed in the
+    year 1084.
+
+[3] The Chinese prefer hillsides for their burying-grounds.
+
+
+
+                                LI HO
+
+                            A.D. 791-817.
+
+  A poet and military official who was noted for his small waist,
+  joined eyebrows, long finger-nails, and for the speed at which he
+  could write. He began to compose poems at the age of seven.
+
+                           NEAERA'S TANGLES
+
+With flowers on the ground like embroidery spread,
+At twenty, the soft glow of wine in my head,
+My white courser's bit-tassels motionless gleam
+While the gold-threaded willow scent sweeps o'er the stream.
+Yet until /she/ has smiled all these flowers yield no ray;
+When her tresses fall down, the whole landscape is gay;
+My hand on her sleeve as I gaze in her eyes,
+A kingfisher hairpin[1] will soon be my prize.
+                              ----------
+
+[1] Inlaid with kingfisher feathers, and much affected by the /demi-
+    mondaine/.
+
+
+
+                              LIU YÜ-HSI
+
+                             A.D. 772-842.
+
+  A statesman with a chequered career of banishment and success, and
+  also a poet who was such a purist that he left a beautiful piece
+  unfinished because it was necessary to use the word /dumplings/,
+  which was not to be found in the Confucian Canon. Po Chü-i called
+  him a Hero of Song.
+
+                             SUMMER DYING
+
+Whence comes the autumn's whistling blast,
+With flocks of wild geese hurrying past? . . .
+Alas, when wintry breezes burst,
+The lonely traveller hears them first!
+                              ----------
+
+                            THE ODALISQUE
+
+A gaily dressed damsel steps forth from her bower,
+  Bewailing the fate that forbids her to roam;
+In the courtyard she counts up the buds on each flower,[1]
+  While a dragon-fly flutters and sits on her comb.[2]
+                              ----------
+
+[1] Having nothing better to do. The dragon-fly on the comb strikes a
+    note of loneliness.
+
+[2] Set to music by J. A. Carpenter.
+
+
+
+                          MU TSUNG (LI HÊNG)
+
+                            A.D. 795-824.
+
+  Written by the twelfth Emperor of the T`ang dynasty, while still
+  Heir Apparent. To the end of his life, which he brought to a
+  premature close by a fatal dose of the elixir of immortality, he
+  remained always a puppet in the hands of his eunuchs.
+
+                          EUNUCH DOMINATION
+
+Autumnal weeds sprout on my royal way[1]
+Though summer blossoms still the branches sway.
+My crowding thoughts I hold within my breast,
+Safe from the prying eyes of eunuch quest.
+                              ----------
+
+[1] So long is it since the prince has cared to drive out in his
+    chariot.
+
+
+
+                               PO CHÜ-I
+
+                            A.D. 772-846.
+
+  One of China's greatest and most voluminous poets, and a
+  successful statesman, with the usual ups and downs. He was a very
+  precocious child, and took the highest degree at the early age of
+  seventeen.
+
+                      "THE GAY LICENTIOUS CROWD"
+
+With haughty mien they fill the ways,
+And gorgeous gleam their saddletrees;
+I ask, who are they? Someone says,
+  The Court officials these.
+
+Scarlet-sashed ministers are there,
+Red-tasselled generals in crowds;
+Their minds are bent on sumptuous fare;
+  Their steeds pass by like clouds.
+
+Wine of the rarest brands they take;
+Rich meats are set before their eyes,--
+An orange from the Tung-t`ing lake,
+  And fish from Paradise.
+
+Serenely full, their greed assuaged,
+Half-drunken, and still happier then. . . .
+That year a cruel famine raged,
+  /And men were eating men./
+                              ----------
+
+                           THE TAO TÊ CHING
+
+"Who know, speak not; who speak, know naught"
+  Are words from Lao Tzu's lore.
+If Lao Tzu knew, why did he speak
+  "Five thousand words and more?"[1]
+                              ----------
+
+  "Elle était du monde où les plus bells choses Ont le pire destin"
+
+'Tis of a gentle maiden I would speak;
+Her eyes like willow-leaves, and pink her cheek.
+Two years ago, her glass first played its part;
+One year ago, she learned the 'broidering art.
+Then, at thirteen accomplishments complete,
+Ready was she her destiny to meet.
+Like flowers her jewelled tresses crowned her head,
+A wind-borne fragrance from her person shed;
+Her face, her form, alike beyond compare,
+Glowing at every turn with radiance rare.
+But frosts, that peach and plum untimely blight,
+Touched, and she fell, her wedding day in sight.
+            .   .   .   .   .
+Father and mother, lay your grief aside;
+She was not fashioned for a mortal's bride--
+An angel, banished from her place of birth,
+Condemned to spend a few short years on earth.
+The loveliest things are of the frailest make;
+Like clouds they vanish, and like glass they break.
+                              ----------
+
+                          "I CAN'T GET OUT!"
+
+To me, from distant climes, a parrot came;
+And as time passed his beak grew all aflame.
+I clipped his wings, dreading a homesick mood,
+And oped the cage but slightly for his food.
+
+We grew to love him for his clever jeers;
+But birds have other aims in other spheres;
+And without freedom, this poor bird would seem.
+Like a caged beauty in some rich hareem.
+                              ----------
+
+                            "VINA LIQUES"
+
+Come bring me a bumper
+  and fill it up fair,
+Ere the flowers have all fallen
+  and the trees are all bare;
+Nor imagine that thirty
+  still leaves a long run;
+If you live to a hundred,
+  one-third of it's done.
+                              ----------
+
+                           TO A LOST CRANE
+
+With snow the inner court was white;
+The sea-breeze aided in thy flight.
+Hast met some sky-borne pal of thine?--
+Away three nights without a sign.
+
+Faint from the clouds thy voice was heard;
+Thy shadow in the moonbeams blurred.
+My home is bare! Ah, if not thou,
+Who'll be the old man's comrade now?
+                              ----------
+
+                          SIC VOS NON VOBIS
+
+My taste for the banquet is long ago o'er;
+The guitar and the winecup delight me no more;
+But my friends and my servants all have a good time. . . .
+'Twould appear 'tis for them that to fortune I climb.
+                              ----------
+
+                              I. A BIRTH
+
+At last, at fifty-eight I have a boy;
+But sighs are mingled with my notes of joy.
+We blame the single pearl the oyster grows;
+Yet no one wants a quiverful of crows.
+
+Late autumn sees the cassia's fruitful bough;
+Spring winds the purple orchids stir--and now
+I raise my glass and breathe my heart's desire,--
+Oh, be not such a fool as was thy sire!
+                              ----------
+
+                             II. A DEATH
+
+O precious pearl, O much-loved little boy,
+Of me, thy graybeard sire, sole hope and joy,
+A shade thou art, ere life has yet begun,
+And I remain to mourn a hapless son.
+
+My heart is cut in twain, but not with steel;
+My eyes are swollen, but not with dust;--I feel
+My arms are empty: God has willed it so;
+A childless man I linger here below.
+                              ----------
+
+                      "MULTA DECEDENTES ADIMUNT"
+
+Alas! I'm sixty-six to-day;
+  How short life is doth now appear.
+I grieve to see men pass away,
+  But joy to think I still am here.
+
+We cannot always boast black heads,
+  Nor eyes with fiery youth alive;
+Tall trees surround my friends' last beds,[2]
+  My grooms will see my grandsons thrive.
+
+I'm thin, my back with stiffness bound;
+  I'm weak, the snows my locks have caught;
+What cure for growing old is found,
+  Save refuge in the Halls of Naught?[3]
+                              ----------
+
+                            "SWEET AUBURN"
+
+Far from the ken of worldly eyes,
+Nestling in trees, a village lies.
+There, mid the loom's incessant sound,
+Oxen and asses tramp around;
+Young girls draw water from the rills;
+Young men bring fuel from the hills.
+Foul litigation never sears
+The pure life of these mountaineers;
+Their wealth is not by commerce earned;
+To war their youths have never turned;
+Each works out his appointed task;
+Old age is left at home to bask.
+In life, mere peasants they remain;
+In death, to village dust again.
+The youths and elders you may see
+Meet in the fields with joyous glee;
+One village 'tis, with but two clans;
+Enough indeed for marriage banns.
+Their forbears boast the selfsame stock;
+They roam afield, a single flock.
+Fat capons and good wine appear
+On festive days throughout the year.
+No cruel partings blight their lives;
+From neighbours near they seek their wives.
+No distance parts them when they die;
+Around the hamlet's side they lie;
+And thus in life and death at peace,
+Their health and spirits never cease;
+Old age is theirs; they live to see
+Their great great grandson's progeny!
+        .   .   .   .   .
+Born in a cultured family,
+An orphan soon, in poverty,
+The Right I sought by midnight oil,
+With no result save bitter toil.
+The world, in name, towards goodness strives,
+But what men want is "place" and wives,
+Thus forging fetters for their necks,
+And ending miserable wrecks.
+At ten, the Books I read and learned;
+At fifteen, prose and verses turned;
+At twenty, baccalaureate;
+At thirty, joined the Censorate.
+At home, the thrall of wife and child;
+At Court, although the Emperor smiled,
+The statesman's toil, domestic care,
+O'erwhelmed me, more than I could bear.
+I think of all my journeys done,
+While fifteen years away have run;
+Whether by boat I steered my course,
+Or ambled on a weary horse.
+Hunger was oft my lot by day;
+The livelong night I restless lay;
+Now east, now west, no stop allowed;
+Hither and thither, like a cloud.
+Rebellion came, my home was lost;
+My relatives, all tempest-tost,
+Scattered, some north, some south, were seen,
+And the Great River flowed between.
+Of some, I never heard again;
+Of others, in a year or twain.
+From morn to eve I sat in grief;
+From eve to morn, still no relief.
+Scorched with these fires my heart is dead;
+Sorrow has blanched my troubled head;
+And now, amid this stress and strife,
+My spirit longs for village life.
+                              ----------
+
+                               DESERTED
+
+Soaked is her kerchief through with tears,
+  yet slumber will not come;
+In the deep dead of night she hears
+  the song and beat of drum.[4]
+
+Alas, although his love has gone,
+  her beauty lingers yet;
+Sadly she sits till early dawn,
+  but never can forget.
+                              ----------
+
+[1] The number of characters in the /Tao Tê Ching/, from which line 1
+    is quoted. See /Gems of Chinese Literature: Prose/, 2nd edition,
+    under Lao Tzu.
+
+[2] So long have they been buried.
+
+[3] In Buddhism.
+
+[4] The revels in which she once played the leading part.
+
+
+
+                              YÜAN CHÊN
+
+                            A.D. 779-831.
+
+  An official who rose through a chequered career to the highest
+  posts of State. His poems were great favourites with the ladies of
+  the Imperial seraglio.
+
+                           AT AN OLD PALACE
+
+Deserted now the Imperial bowers
+Saved by some few poor lonely flowers . . .
+  One white-haired dame,
+  An Emperor's flame,
+Sits down and tells of bygone hours.
+                              ----------
+
+                            TAKING ORDERS
+
+Talk not of hills and streams to him
+  who once has seen the sea;
+The clouds that mantle Wu's peak are
+  the only clouds for me.
+
+Though convent walls must always be
+  my lot until the end,
+And half my heart must be with God,
+  the rest is with my friend.
+
+
+
+                                 LI I
+
+                         Died circa A.D. 827.
+
+  An official and poet whose poems were at one time sung all over
+  the empire.
+
+                         A CAST-OFF FAVOURITE
+
+The dewdrops gleam on bright spring flowers
+  whose scent is borne along;
+Beneath the moon the palace rings
+  with sounds of lute and song.
+It seems that the clepsydra[1]
+  has been filled up with the sea,
+To make the long long night appear
+  an endless night to me!
+                              ----------
+
+[1] Water-clocks were known to the Chinese at a very early date, and
+    are still to be found in China.
+
+
+
+                            SSU-K`UNG SHU
+
+                           9th Century A.D.
+
+     Poet and official. One of the Ten Men of Genius of his day.
+
+                               OH STAY!
+
+We shall meet, I believe you, again;
+  Yet to part!--such a beautiful night. . . .
+Shall friendship and wine ask in vain
+  What a head-wind would take as its right?
+
+
+
+                            CHU CH`ING-YÜ
+
+                           9th Century A.D.
+
+  Took the highest degree in 827, but failed as an official and
+  retired.
+
+                             IN THE HAREM
+
+It was the time of flowers, the gate was closed;
+Within an arbour's shade fair girls reposed.
+But though their hearts were full, they nothing said,
+Fearing the tell-tale parrot overhead.
+
+
+
+                              KU KU`ANG
+
+                      8th and 9th Centuries A.D.
+
+  A distinguished poet of the day, who finally went into retirement as
+  a hermit.
+
+                              AT A GRAVE
+
+An old man lays to rest a much-loved son. . . .
+By day and night his tears of blood will run,
+Albeit when threescore years and ten have fled,
+'Tis not a long farewell that he has said.[1]
+                              ----------
+
+[1] The authorities of the Infernal Regions were so touched by the
+    above that they allowed his son to be born again into the family.
+
+
+
+                              CHANG CHI
+
+                      8th and 9th Centuries A.D.
+
+  A scholar and poet who rose to be a Secretary in the Board of
+  Works. He was a vigorous opponent of Buddhism and Taoism, both of
+  which he held in contempt.
+
+                       THE CHASTE WIFE'S REPLY
+
+Knowing, fair sir, my matrimonial thrall,
+Two pearls thou sentest me, costly withal.
+And I, seeing that Love thy heart possessed,
+I wrapped them coolly in my silken vest.
+
+For mine is a household of high degree,
+My husband captain in the King's army;
+And one with wit like thine should say,
+"The troth of wives is for ever and ay."
+
+With thy two pearls I send thee back two tears:
+Tears--that we did not meet in earlier years!
+
+
+
+                            YANG CHÜ-YÜAN
+
+                      8th and 9th Centuries A.D.
+
+  A poet who took the highest degree about the year 790, and rose to
+  be a Director of Education in 830.
+
+                                TASTE
+
+The landscape which the poet loves
+  is that of early May,
+When budding greenness half concealed
+  enwraps each willow spray.
+That beautiful embroidery
+  the days of summer yield,
+Appeals to every bumpkin
+  who may take his walks afield.[1]
+                              ----------
+
+                              A GLIMPSE
+
+The buds of the peach were just blossoming out,
+And swallows in couples were skimming about,
+When a beautiful damsel, of ravishing mien,
+Diffusing the odour of spring-time is seen.
+
+She toys with the mirror which lies by her side,
+Then blushes to note that the casement is wide;
+For she knows that the traveller passing that way
+Will joy in the fragrance he carries away.
+                              ----------
+
+[1] Set to music by Cyril Scott.
+
+
+
+                                TU MU
+
+                            A.D. 803-852.
+
+  A poet and painter. He took the highest degree in 830 and rose to
+  be a Secretary in the Grand Council. Often spoken of as the
+  Younger Tu, to distinguish him from Tu Fu.
+
+                             A LOST LOVE[1]
+
+Too late, alas! . . . . I came to find
+  the lovely spring had fled.
+Yet must I not regret the days
+  of youth that now are dead;
+For though the rosy buds of spring
+  the cruel winds have laid,
+Behold the clustering fruit that hangs
+  beneath the leafy shade![2]
+                              ----------
+
+                            THE OLD PLACE
+
+A wilderness alone remains,
+  all garden glories gone;
+The river runs unheeded by,
+  weeds grow unheeded on.
+Dusk comes, the east wind blows, and birds
+  pipe forth a mournful sound;
+Petals, like nymphs from balconies,
+  come tumbling to the ground.
+                              ----------
+
+                            THE LAST NIGHT
+
+Old love would seem as thought not love to-day;
+Spell-bound by thee, my laughter dies away.
+The very wax sheds sympathetic tears
+And gutters sadly down till dawn appears.
+                              ----------
+
+                            LOVERS PARTED
+
+Across the screen the autumn moon
+  stares coldly from the sky;
+With silken fan I sit and flick
+  the fireflies sailing by.
+The night grows colder every hour,--
+  it chills me to the heart
+To watch the Spinning Damsel
+  from the Herdboy far apart.[3]
+                              ----------
+
+[1] When ordered to a distant post, he said to his /fiancée/, "Within
+    ten years I shall be Governor. If I do not return by then, marry
+    whomsoever you please." He came back after fourteen years to find
+    her married and the mother of three children.
+
+[2] Set to music by Cyril Scott.
+
+[3] Referring to the stars {alpha} Lyrae and {alpha} {Beta}, {gamma}
+    Aquilæ, respectively, which are separated by the Milky Way except
+    on the 7th night of the 7th moon, when magpies form a bridge for
+    the Damsel to pass over to her lover.
+
+
+
+                             LI SHANG-YIN
+
+                             A.D. 813-858.
+
+  A scholar and poet who took the highest degree in 837, and rose to
+  be an officer in the Han-lin College.
+
+                           THE NIGHT COMES
+
+'Tis evening, and in restless vein
+At the old mount I slacken rein:
+  The glorious day
+  Fades fast away
+And naught but twilight glooms remain!
+                              ----------
+
+                              SOUVENIRS
+
+You ask when I'm coming: alas, not just yet. . . . . .
+How the rain filled the pools on that night when we met!
+Ah, when shall we ever snuff candles again,
+And recall the glad hours of that evening of rain?
+
+
+
+                               SHAO YEH
+
+                           9th Century A.D.
+
+  A scholar of whom nothing in particular is recorded, except that
+  the threat by a Magistrate of bambooing caused him to turn his
+  attention to books.
+
+                             TIME'S HAVOC
+
+I take a glance, and shake my head;
+Another look, my beauty's fled.
+My suns and moons like water run;
+A moment, and my day is done.
+
+But yesterday my cheeks were red,
+And now white locks hang round my head.
+Red cheeks, white locks,--see how time flies--
+What little space between them lies!
+
+
+
+                               LIU CHIA
+
+                           9th Century A.D.
+
+                    Of whom I can find no record.
+
+                        WITH WINE AND FLOWERS
+
+One day while I tipsily snoozed in my bower,
+  The sun disappearing had darkened the land;
+My guests had all left me for many an hour;
+  The cup and the wine-jar lay strewn on the sand. . . .
+I could not recall I had picked me a flower,
+  Yet I woke up to find I had one in my hand.
+
+
+
+                              LIU SHANG
+
+                           9th Century A.D.
+
+  A painter of landscape and portraits who wrote the following lines
+  in despair at the banishment of his master. The latter, in
+  addition to being a very distinguished artist, could paint, as Sir
+  Edwin Landseer after him, two pictures at once with two separate
+  brushes.
+
+                               A LAMENT
+
+The lichen grows thick on the stones in the brook,
+  And the breeze stirs the boughs of the pines by the shore. . . .
+Ah, Chang Tsao alone could interpret this book,
+  But now he is gone and we see him no more.
+
+
+
+                              CHANG YEN
+
+                           9th Century A.D.
+
+        A scholar who took the highest degree in the year 872.
+
+                            A SPRING FEAST
+
+The paddy crops are waxing rich
+  upon the Goose-Lake hill;
+The fowls have just now gone to roost,
+  the grunting pigs are still;
+The mulberry casts a lengthening shade--
+  the festival is o'er,
+And tipsy revellers are helped
+  each to his cottage door.
+                              ----------
+
+                        "FILL THE BUMPER FAIR"
+
+All joys are poor to sober glance,
+  True joys to wine belong--
+When every step we take is dance,
+  And every word is song.
+
+
+
+                                LI SHÊ
+
+                           9th Century A.D.
+
+  A poet noted for having fallen in the hands of brigands who were
+  great admirers of his verse, and who bade him at once compose a
+  poem for them. Hence the lines below, on seeing which the brigands
+  laughed and set him free.
+
+                            ON HIGHWAYMEN
+
+The rainy mist sweeps gently
+  o'er the village by the stream,
+When from the leafy forest glades
+  the brigand daggers gleam. . . .
+And yet there is no need to fear
+  or step from out their way,
+For more than half the world consists
+  of bigger rogues than they![1]
+                              ----------
+
+                            SPRING PASSES
+
+Waking from mingled dreams and fumes
+  of a long-drawn drunken bout,
+I heard that spring was dying fast
+  and forthwith hied me out.
+I passed the Bamboo Garden
+  where the old priest hailed me stay
+And then with "All is vanity"
+  we whiled the hours away.
+                              ----------
+
+[1] Set to music by J. A. Carpenter.
+
+
+
+                              WANG CHIA
+
+                     9th and 10th Centuries A.D.
+
+  A poet and official who took the highest degree in 890 and rose to
+  be a Secretary in the Board of Rites. He gave himself the
+  sobriquet of Simplicitarian.
+
+                               A STORM
+
+No rain, and lovely flowers bloom around;
+Rain falls, and battered petals strew the ground.
+The bees and butterflies flit, one and all,
+To seek the spring beyond my neighbour's wall.
+
+
+
+                             CHU SHU-CHÊN
+
+                           9th Century A.D.
+
+            A poetess, and a descendant of Han Yü (q.v.).
+
+                            SUMMER BEGINS
+
+What time the bamboo casts a deeper shade,
+When birds fill up the afternoon with song,
+When catkins vanish, and when pear-blooms fade,--
+Then man is weary and the day is long.
+                              ----------
+
+            "ROUGH WINDS DO SHAKE THE DARLING BUDS OF MAY"
+
+The lattice-like sprays had scarce burst into bloom,
+Ere the storm in its envy accomplished their doom. . . .
+Ah, would that the Spring-God might evermore reign,
+No dotting the sward with these petals again.
+
+
+
+                              CHAO CHIA
+
+                           9th Century A.D.
+
+  An official who took the highest degree in 942, and whose poems
+  gained praise from Tu Mu.
+
+                           WHERE ARE THEY?
+
+Alone I mount to the kiosque which stands
+  on the river-bank, and sigh,
+While the moonbeams dance on the tops of the waves
+  where the waters touch the sky;
+For the lovely scene is to last year's scene
+  as like as like can be,
+All but the friends, the much-loved friends,
+  who gazed at the moon with me.[1]
+                              ----------
+
+[1] Set to music by Cyril Scott.
+
+
+
+                             TAI SHU-LUN
+
+                           9th Century A.D.
+
+  Distinguished as a poet and an official. Under his rule the gaols
+  were empty, as "in Alfred's golden reign."
+
+                       NEW YEAR'S EVE AT AN INN
+
+Here in this inn no friend is nigh;
+We sit alone, my lamp and I,
+  A thousand miles from love and smiles,
+To see another year pass by.
+
+Ah me, that ever I was born!
+Is life worth living, thus forlorn?
+  Youth, beauty, pass; and yet alas
+It will be spring tomorrow morn.
+
+
+
+                              HSIEH JUNG
+
+                           9th Century A.D.
+
+                        No record to be found.
+
+                                MUSING
+
+At eve, along, the river bank,
+  The mist-crowned wavelets lure me on
+To think how all antiquity
+  Has floated down the stream and gone!
+
+
+
+                              MA TZU-JAN
+
+                            Died A.D. 880.
+
+  A man who possessed a wide knowledge of simples and was in great
+  request as a doctor. He is said to have been taken up to the
+  Taoist heaven alive.
+
+                              UT MELIUS
+
+In youth I went to study TAO[1]
+  at its living fountain-head,
+And then lay tipsy half the day
+  upon a gilded bed.
+"What oaf is this," the Master cried,
+  "content with human lot?"
+And bade me to the world get back
+  and call myself a Sot.
+
+But wherefore seek immortal life
+  by means of wondrous pills?
+Noise is not in the market-place,[2]
+  nor quiet on the hills.
+The secret of perpetual youth
+  is already known to me:
+Accept with philosophic calm
+  whatever fate may be.
+                              ----------
+
+[1] Here the Way of Lao Tzu.
+
+[2] "Who carry music in their heart
+    Through dusky lane and wrangling mart."--Keble.
+
+
+
+                            CH`IN T`AO-YÜ
+
+                           9th Century A.D.
+
+                      No record that I can find.
+
+                            THE SEMPSTRESS
+
+In silk and satin ne'er arrayed,
+My fate to be a lone old maid;
+No handsome bridegroom comes for me
+Dressed in the garb of poverty.
+I learned to sew with skill and grace,
+Though not to paint my brows and face,
+Yet I must ply my golden thread
+For other maids about to wed.
+
+
+
+                              TS`UI T`U
+
+                           9th Century A.D.
+
+                      No record that I can find.
+
+                            THE TRAVELLER
+
+The stream glides by, the flower fades,
+  and neither feels a sting
+That thus they pass and bear away
+  the glory of the spring.
+I dream myself once more at home,
+  a thousand miles away;
+The night-jar wakes me with its cry
+  ere yet 'tis early day.
+Long months have passed and no word comes
+  to tell me of my own;
+With each New Year my scattered locks
+  have white and whiter grown,
+Ah, my dear home, if once within
+  thy threshold I could be,
+The Five Lakes and their lovely scenes
+  might all go hang for me.
+
+
+
+                            TU CH`IU-NIANG
+
+                           9th Century A.D.
+
+  A poetess, who when fifteen years old became concubine to an
+  official, and afterwards passed into the Palace where she was
+  appointed by the Emperor in 820 to be Instructress to the Heir
+  Apparent. When the Heir Apparent was deposed, she was allowed to
+  return home.
+
+                             GOLDEN SANDS
+
+I would not have thee grudge those robes
+  which gleam in rich array,
+But I would have thee grudge the hours
+  of youth which glide away.
+Go pluck the blooming flower betimes,
+  lest when thou com'st again
+Alas, upon the withered stem
+  no blooming flowers remain!
+
+
+
+                             LI CH`ANG-FU
+
+                           9th Century A.D.
+
+                      No record that I can find.
+
+                             WANDERJAHRE
+
+Roused from the fumes of wine, I hear the drum,
+  Midst thoughts of home, roll from the distant tower,
+While through the trees faint streaks of daylight come,
+  And the spring passes in a pattering shower.
+
+The tired bird homeward wings its way at last;
+  Flowers fade and die beneath wild winds oppressed.
+What have my wanderings earned these past ten years? . . . .
+  My wayworn horse is sick of east and west.
+
+
+
+                               LI TUAN
+
+                           9th Century A.D.
+
+                      No record that I can find.
+
+                          MUSIC HATH CHARMS
+
+Hark to the rapturous melody!
+  Her white arm o'er the lute she flings. . . .
+To break her lover's reverie
+  She strikes a discord on the strings.
+
+
+
+                              LI CHIA-YU
+
+                           9th Century A.D.
+
+                      No record that I can find.
+
+                            IN RETIREMENT
+
+He envies none, the pure and proud
+  ex-Minister of State;
+On the Western Lake he shuts himself
+  within his bamboo gate.
+He needs no fan to cool his brow, for
+  the south wind never lulls,
+While idly his official hat lies
+  staring at the gulls.
+
+
+
+                            LIU FANG-PING
+
+                           9th Century A.D.
+
+                      No record that I can find.
+
+                             THE SPINSTER
+
+Dim twilight throws a deeper shade
+  across the window-screen;
+Alone within a gilded hall
+  her tear-drops flow unseen.
+No sound the lonely court-yard stirs;
+  the spring is all but through;
+Around the pear-blooms fade and fall. . . .
+  and no one comes to woo.
+
+
+
+                               CHI P`O
+
+                           9th Century A.D.
+
+                      No record that I can find.
+
+                        THOUGHTS BY MOONLIGHT
+
+Bright in the void the mirror moon[1] appears,
+To the hushed music of the heavenly spheres,
+Full orbed, while autumn wealth beneath her lies,
+On her eternal journey through the skies.
+Oh may we ever walk within the light
+Nor lose the true path in the eclipse of night!
+Oh let us mount where rays of glory beam
+And purge our grossness in the Silver Stream![2]
+                              ----------
+
+[1] Referring to the polished discs of metal anciently used as mirrors
+    by the Chinese.
+
+[2] The Milky Way.
+
+
+
+                                HAN WU
+
+                           9th Century A.D.
+
+  An official who took the highest degree and served under the
+  Emperor Chao Tsung. He disappeared from the scene after the /coup
+  d'état/ of 904.
+
+                            CONTEMPLATION
+
+When my court-yard by the placid moon is lit,
+  When around me leaves come dropping from the trees,
+On the terrace steps, contemplative, I sit,
+  The swing-ropes swaying idly in the breeze.
+
+
+
+                              ANONYMOUS
+
+                           9th Century A.D.
+
+                        VIEW FROM AN OLD TOWER
+
+The story of a thousand years
+  In one brief morning lies unrolled;
+Though other voices greet the ears,
+  'Tis still the moonlit tower of old.
+
+The heroes of those thousand years?
+  Alas! like running water, gone;
+Yet still the fever-blast one hears,
+  And still the plum-rain patters on.
+
+'Twas here ambition marched sublime--
+  An empty fame scarce marks the spot;
+Away! . . . . for I will never climb
+  To see flowers bloom and man forgot.
+
+
+
+                                LI PIN
+
+                           9th Century A.D.
+
+  An official who took the highest degree in 853 and held various
+  posts through very troubled times.
+
+                               HOMEWARD
+
+No letters to the frontier come,
+  The winter softens into spring. . . . .
+I tremble as I draw near home,
+  And dare not ask what news you bring.
+
+
+
+                              CH`ÊN T`AO
+
+                     9th and 10th Centuries A.D.
+
+  A poet and astronomer, who lived in retirement on the hills with
+  his wife, also a scholar, and grew oranges for a livelihood.
+
+                               AN OATH
+
+They swore the Huns should perish:
+  they would die if needs they must. . . .
+And now five thousand, sable-clad,
+  have bit the Tartar dust.
+
+Along the river-bank their bones
+  lie scattered where they may,
+But still their forms in dreams arise
+  to fair ones far away.
+
+
+
+                               WANG HAN
+
+                          10th Century A.D.
+
+  Noted for having taken out his right eye to replace one of his
+  mother's eyes, in both of which she had gone blind. The operation
+  is said to have been successful.
+
+                            A REASON FAIR
+
+'Tis night: the grape-juice mantles high
+  in cups of gold galore;
+We set to drink,--but now the bugle
+  sounds to horse once more.
+Oh marvel not if drunken we
+  lie strewed about the plain;
+How few of all who seek the fight
+  shall e'er come back again!
+
+
+
+                               CH`EN PO
+
+                          10th Century A.D.
+
+  A strange being who, when four or five years old, was suckled by a
+  lady wearing dark clothes, whom he met when playing by the
+  riverside; after which he became extraordinarily enlightened. His
+  enlightenment took the form of devotion to Taoism, research for
+  the elixir of life, for transmutation of metals, etc., but it did
+  not help him to take the highest degree, for which he was a
+  candidate in 932.
+
+                            DISILLUSIONED
+
+For ten long years I plodded through
+  the vale of lust and strife,
+Then through my dreams there flashed a ray
+  of the old sweet peaceful life . . .
+No scarlet-tasselled hat of state
+  can vie with soft repose;
+Grand mansions do not taste the joys
+  that the poor man's cabin knows.
+
+I hate the threatening clash of arms
+  when fierce retainers throng,
+I loathe the drunkard's revels and
+  the sound of fife and song;
+But I love to seek a quiet nook, and
+  some old volume bring
+Where I can see the wild flowers bloom
+  and hear the birds in spring.
+
+
+
+                               CHANG PI
+
+                          11th Century A.D.
+
+  An official who took the highest degree about 1045 and rose to be
+  President of the Board of Punishments.
+
+                        TO AN ABSENT FAIR ONE
+
+After parting, dreams possessed me
+  and I wandered you know where,
+And we sat in the verandah
+  and you sang the sweet old air.
+Then I woke, with no one near me
+  save the moon still shining on,
+And lighting up dead petals
+  which like you have passed and gone.
+
+
+
+                                YANG I
+
+                            A.D. 974-1030.
+
+  Author and statesman, who at birth was covered with hair a foot
+  long, which however disappeared within a month. He took the
+  highest degree, and was employed upon the dynastic annals. For
+  some years he could not speak; at length, being carried one day to
+  the top of a pagoda, he burst out with the lines given below.
+
+                       'TWIXT HEAVEN AND EARTH
+
+Upon this tall pagoda's peak
+  My hands can nigh the stars enclose;
+I dare not raise my voice to speak,
+  For fear of startling God's repose.
+
+
+
+                             OU-YANG HSIU
+
+                            A.D. 1007-1072.
+
+  Historian, statesman, and voluminous writer on many subjects (see
+  /Gems of Chinese Literature: Prose/), he came out first at the
+  examination for the highest degree and rose to be President of the
+  Board of War.
+
+                             CONSOLATION
+
+The balmy breath of spring must fail
+  to reach that distant spot
+Where early wild-flowers do not bloom
+  to cheer my exile's lot.
+See how the oranges still hang
+  amid the clinging snow,
+And shoots and buds, benumbed by cold,
+  around reluctant grow!
+At night your heart is with your home
+  when you hear the wild goose cry,
+And your sadness ever deepens
+  as the smiling months go by.
+Yet when you think of happy hours
+  at Loyang in the past,
+Grieve not that spring is late, but joy
+  that spring is yours at last.
+
+
+
+                              SHAO YUNG
+
+                           A.D. 1011-1077.
+
+  One of the most famous of the classical scholars of China, whose
+  tablet stands in the Confucian Temple. For many years he denied
+  himself a stove in winter and a fan in summer, travelling far and
+  wide in China to increase his knowledge by contact with men of
+  learning. Always poor, he was made comfortable towards the end of
+  his life by the generosity of friends.
+
+                  "THE KINGDOM OF GOD IS WITHIN YOU"
+
+The heavens are still: no sound.
+Where then shall God be found?
+Search not in distant skies;
+In man's own heart He lies.
+                              ----------
+
+                              A STRUGGLE
+
+Fair flowers from above in my goblet are shining,
+And add by reflection an infinite zest;
+Through two generations I've lived, unrepining,
+While four mighty rulers have sunk to their rest.
+My body in health has done nothing to spite me,
+And sweet are the moments which pass o'er my head;
+But now, with this wine and these flowers to delight me,
+How shall I keep sober and get home to bed?
+
+
+
+                             SSU-MA KUANG
+
+                            A.D. 1019-1086.
+
+  A statesman who took the highest degree and rose to be a Minister
+  of State. He resigned, however, in order to devote himself to his
+  famous work, known as the "Mirror of History," which covered a
+  period from the 5th Century B.C. to the 10th Century A.D.
+
+                               WAITING
+
+'Tis the festival of Yellow Plums!
+  the rain unceasing pours,
+And croaking bullfrogs hoarsely wake
+  the echoes out of doors.
+I sit and wait for him in vain,
+  while midnight hours go by,
+And push about the chessmen
+  till the lamp-wick sinks to die.
+
+
+
+                          HUANG T`ING CHIEN
+
+                           A.D. 1042-1102.
+
+  An official who took the highest degree and rose to be a Grand
+  Secretary. He is one of the twenty-four examples of Filial Piety
+  and was ranked as one of the Four Great Scholars of the empire.
+
+                       ANNUAL WORSHIP AT TOMBS
+
+The peach and plum trees smile with flowers
+  this famous day of spring,
+And country graveyards round about
+  with lamentations ring.
+Thunder has startled insect life
+  and roused the gnats and bees,
+A gentle rain has urged the crops
+  and soothed the flowers and trees. . . .
+Perhaps on this side lie the bones
+  of a wretch whom no one knows;
+On that, the sacred ashes
+  of a patriot repose.
+But who across the centuries
+  can hope to mark each spot
+Where fool or hero, joined in death,
+  beneath the brambles rot?
+
+
+
+                             WANG AN-SHIH
+
+                            A.D. 1021-1086.
+
+  A famous statesman who introduced a number of reforms into the
+  economic, military, and educational systems of China. The
+  reactionaries were, however, too strong for him, and he lived to
+  see all his policy reversed.
+
+                            A WHITE NIGHT
+
+The incense-stick is burnt to ash,
+  the water-clock is stilled,
+The midnight breeze blows sharply by
+  and all around is chilled.
+
+Yet I am kept from slumber
+  by the beauty of the spring:
+Sweet shapes of flowers across the blind
+  the quivering moonbeams fling!
+                              ----------
+
+                               WHY LATE
+
+I stayed indeed too long--
+  to count the fallen flowers
+And search for fragrant blooms--
+  I took no note of hours[1]
+                              ----------
+
+[1] Too late I stayed; forgive the crime,
+      Unheeded flew the hours;
+    How noiseless falls the foot of time
+      That only treads on flowers!
+                                W. R. Spencer.
+
+
+
+                              CH`ENG HAO
+
+                            A.D. 1032-1085.
+
+  One of two famous brothers, both of whom took the highest degree
+  and whose tablets were admitted in 1241, as representing orthodox
+  scholars, into the Confucian Temple.
+
+                             INSOUCIANCE
+
+I wander north, I wander south,
+  I rest me where I please. . . .
+See how the river-banks are nipped
+  beneath the autumn breeze!
+Yet what care I if autumn blasts
+  the river-banks lay bare?
+The loss of hue to river-banks
+  is the river-banks' affair.[1]
+                              ----------
+
+                            SPRING FANCIES
+
+When clouds are thin, and the wind is light,
+  about the noontide hour,
+I cross the stream, through willow paths
+  with all around in flower.
+The world knows not my inmost thoughts
+  which make me seem a fool;
+I'm taken for a truant boy
+  escaped from tedious school.
+                              ----------
+
+[1] Set to music by Cyril Scott.
+
+
+
+                           KUO HSIANG-CHÊNG
+
+                           11th Century A.D.
+
+  A poet whose mother, before his birth, had dreamed of the great Li
+  Po (q.v.), and of whom, for his poetical skill, he was afterwards
+  declared to be a re-incarnation.
+
+                         "SPLENDIDIOR VITRO"
+
+Men come and go, but thou art there;
+  Men hurry by, there thou art still;
+No fish nor thirsty bird to break
+  The image of yon verdant hill.
+
+
+
+                              TS`AI CH`O
+
+                           11th Century A.D.
+
+  A statesman who rose to high rank but was banished in 1087. His
+  son, P`i-pa, who accompanied him, and whose name had become
+  familiar to a favourite parrot, soon died; upon which the father
+  seized a pen and wrote the lines given below.
+
+                              A DEAD BOY
+
+The parrot calls him as of yore,
+Though P`i-pa's earthly days are o'er.
+Together to this distant shore
+We crossed--but shall return no more.
+                              ----------
+
+                                MUSIC
+
+Paper screen, bamboo couch, and a stone for my pillow;--
+  I doze, and the book from my dreamy grasp slips;
+Then the note of a fisherman's flute o'er the billow
+  Awakes me from sleep with a smile on my lips.
+
+
+
+                        SU SHIH (SU TUNG-P`O)
+
+  Statesman who suffered banishment more than once. In 1057 he took
+  the highest degree, coming out second on the list. As a
+  /littérateur/ he is in the very first rank. See /Gems of Chinese
+  Literature: Prose/.
+
+                            SPRING NIGHTS
+
+One half-hour of a night in spring
+  is worth a thousand taels,
+When the clear sweet scent of flowers is felt
+  and the moon her lustre pales;
+When mellowed sounds of song and flute
+  are borne along the breeze,
+And through the stilly scene the swing
+  sounds swishing from the trees.
+                              ----------
+
+                           WHIGS AND TORIES
+
+Thickly o'er the jasper terrace
+  flower-shadows play;
+In vain I call my garden boy
+  to sweep them all away.
+They vanish when the sun sets
+  in the west, but very soon
+They spring to giddy life again
+  beneath the rising moon![1]
+                              ----------
+
+[1] The "flower-shadows" stand for evil politicians who held their own
+    against the brooms of virtuous statesmen, but disappeared at the
+    death of a misguided Emperor, to re-appear at the death of his
+    successor.
+
+
+
+                            HUNG CHÜEH-FAN
+
+                     11th and 12th Centuries A.D.
+
+  Distinguished as a poet and a calligraphist. He finally took
+  orders as a Buddhist priest, and produced several well-known
+  works.
+
+                               SWINGING[1]
+
+Two green silk ropes, with painted stand,
+  from heights aerial swing,
+And there outside the house a maid
+  disports herself in spring.
+Along the ground her blood-red skirts
+  all swiftly swishing fly,
+As though to bear her off to be
+  an angel in the sky.
+
+Strewed thick with fluttering almond-blooms
+  the painted stand is seen;
+The embroidered ropes flit to and for
+  amid the willow green.
+Then when she stops and out she springs
+  to stand with downcast eyes,
+You think she /is/ some angel
+  just now banished from the skies.
+                              ----------
+
+[1] Chinese girls swing standing up on the seat.
+
+
+
+                              TAI FU-KU
+
+                     12th and 13th Centuries A.D.
+
+  A poet, without further occupation, who spent twenty years in
+  travelling about to places of interest.
+
+                                SUMMER
+
+When ducklings seek the puddles, mostly dry,
+In the hot plum-time, with its changeful sky,
+'Tis then in shady arbour we carouse,
+And strip the golden loquat from the boughs.
+
+
+
+                               YEH SHIH
+
+                            A.D. 1150-1223.
+
+  A statesman who came out second on the list for the highest
+  degree, and in 1206 began a series of important military
+  operations against the Golden Tartars.
+
+                            AT A PARK GATE
+
+'Tis closed!--lest trampling footsteps
+  mar the glory of the green.
+Time after time we knock and knock;
+  no janitor is seen.
+Yet bolts and bars can't quite shut in the
+  spring-time's beauteous pall;
+A pink-flowered almond-spray peeps out
+  athwart the envious wall!
+
+
+
+                            WANG FENG-YÜAN
+
+                           12th Century A.D.
+
+                      No record that I can find.
+
+                            THE THIRD MOON
+
+In May flowers fade, and others come
+  to bloom among the leaves,
+While all day long the nesting swallow
+  flits around the eaves.
+The night-jar cried half through the night
+  until the blood flows fast,
+Ah vainly hoping to recall the
+  spring that now is past!
+
+
+
+                                LU YU
+
+                           A.D. 1125-1209.
+
+  A statesman with a varied career, and a skilled /littérateur/. He
+  was employed upon the dynastic history, and his poetry was much
+  admired. He spoke of himself as "Old /Laisser-Aller/."
+
+                               TO WINE
+
+Soft as the spring-time, as the autumn sweet,
+  One stoup of thee, at night, all joys will yield;
+Demons of care fall harmless at my feet,
+  Therefore I say to you, Be thou my spear and shield!
+
+
+
+                             LIU CHI-SUN
+
+                           Circa A.D. 1200.
+
+  A poor scholar, who left behind him at death a library of 30,000
+  volumes and a collection of many hundred pictures. This is his
+  only known poem; it was picked up and carried off by a visitor to
+  his mountain refuge, who failed to find him at home.
+
+                               A HERMIT
+
+Ye swallows twittering among the beams,
+Why thus intrusive break upon my dreams?
+Dreams vague with fancies that I cannot plain. . . . . .
+With staff and flask I seek the hills again.
+
+
+
+                             KAO CHÜ-NIEN
+
+                          12th Century A.D.
+
+                      No record that I can find.
+
+                          WORSHIP, AND AFTER[1]
+
+The northern and the southern hills
+  are one large burying-ground,
+And all is life and bustle there
+  when the sacred day comes round.
+Burnt paper /cash/, like butterflies,
+  fly fluttering far and wide,
+While mourners' robes with tears of blood
+  a crimson hue are dyed.
+The sun sets, and the red fox crouches
+  down beside the tomb;
+Night comes, and youths and maidens laugh
+  where lamps light up the gloom.
+Let him, whose fortune brings him wine,
+  get tipsy while he may;
+For no man, when the long night comes,
+  can take one drop away!
+                              ----------
+
+[1] Referring to the annual spring worship at the tombs of ancestors.
+
+
+
+                              YANG CHIEN
+
+                     12th and 13th Centuries A.D.
+
+  A poet and official who gained such a reputation as a Magistrate
+  that the people called him Father Yang.
+
+                            TOO LATE AGAIN
+
+This year I swore I would enjoy the sweets of spring enow:
+Alas! spring breezes died away ere yet I quite knew how.
+'Tis hard to note the beauties of the landscape slipping by,
+When sorrow and when fell disease, alternate, dim the eye.
+
+
+
+                              TS`AO PIN
+
+                          13th Century A.D.
+
+  A distinguished scholar and statesman, who rose to high office and
+  was known as one of the Four Censors of the Chia Hsi period, A.D.
+  1237-1241.
+
+                           A SPRING EVENING
+
+Now no one takes heed of the flowers that have dropped,
+  And dark is the landscape's predominant note;
+The oriole's song in the forest has stopped,
+  And the only sound heard is the frog in the moat.
+
+
+
+                            HSIEH FANG-TÊ
+
+                           A.D. 1226-1289.
+
+  An official who took the highest degree about 1253. He got into
+  trouble when holding the post of Examiner by setting an unpopular
+  theme and was degraded. He then became an itinerant fortune-
+  teller, and finally starved himself to death.
+
+                             AT HIS CLUB
+
+Long past midnight the wife hears
+  the goatsucker's cry,
+And rises to see that the
+  silkworms are fed;
+Alas! there's the moon shining
+  low in the sky,
+But her husband has not yet
+  come back to his bed.
+
+
+
+                                YEH LI
+
+                           A.D. 1241-1292.
+
+  A statesman who played an important part in the later years of
+  transition from Chinese to Mongol rule.
+
+                             AT HIS BOOKS
+
+Shadows of pairing sparrows cross his book,
+  Of poplar catkins, dropping overhead . . .
+The weary student from his window-nook
+  Looks up to find that spring has long since fled.
+
+
+
+                               LIU CHI
+
+                           A.D. 1311-1375.
+
+  A poet and official who helped the first Emperor of the Ming
+  dynasty to expel the Mongols, but later on fell into disfavour and
+  was poisoned.
+
+                       AT A MOUNTAIN MONASTERY
+
+I mounted when the cock had just begun,
+And reached the convent ere the bells were done.
+A gentle zephyr whispered o'er the lawn;
+Behind the wood the moon gave way to dawn.
+And in this pure sweet solitude I lay,
+Stretching my limbs out to await the day,
+No sound along the willow pathway dim
+Save the soft echo of the bonzes' hymn.
+                              ----------
+
+                             OMNES EODEM
+
+A centenarian 'mongst men
+Is rare; and if one comes, what then?
+The mightiest heroes of the past
+Upon the hillside sleep at last.
+
+
+
+                              HSIEH CHIN
+
+                           A.D. 1369-1415.
+
+  A scholar and statesman who was on very intimate terms with the
+  first two Emperors of the Ming dynasty, and under whose presidency
+  the enormous encyclopædia, mostly destroyed during the Boxer
+  trouble, was ultimately produced. Falling into disfavour, he was
+  thrown into prison and four years later was made drunk and was
+  buried under a heap of snow.
+
+                      AN EMPEROR IN A SNOWSTORM
+
+The snowflakes fall thickly on every side,
+  And unstained by the mud they lie lightly about.
+God knows that his Majesty's gone for a ride,
+  So a carpet of flowers[1] for his steed is laid out.
+                              ----------
+
+                            A SNOW PRIEST
+
+This priest is not of woman born,
+  But straight from heaven descended;
+And back he'll go tomorrow morn,
+  When his short stay is ended.
+                              ----------
+
+                               APOLOGIA
+
+In vain hands bent on sacrifice
+  or clasped in prayer we see;
+The ways of God are not exactly
+  what those ways should be.
+The swindler and the ruffian
+  lead pleasant lives enough,
+While judgments overtake the good
+  and many a sharp rebuff.
+The swaggering bully stalks along
+  as blithely as you please,
+While those who never miss their prayers
+  are martyrs to disease.
+And if great God Almighty fails
+  to keep the balance true,
+What can we hope that paltry mortal
+  magistrates will do?
+                              ----------
+
+[1] "Flowers" takes the place of "flakes" in Chinese.
+
+
+
+                            LIN HUNG-CHUNG
+
+                           15th Century A.D.
+
+  A poet who declined office on the ground that he could not leave
+  his aged mother. He was killed by rebels because he refused to
+  kneel to them.
+
+                           A MOUNTAIN BROOK
+
+One draught for my poetic soul I take,
+Unconscious river, ere thou glid'st away
+To serve the orgies of the Western Lake,
+And be no more the pure stream of to-day.
+
+
+
+                            CHAO TS`AI-CHI
+
+                           15th Century A.D.
+
+                         A courtesan-poetess.
+
+                             TO HER LOVER
+
+The tide in the river beginning to rise,
+Near the sad hour of parting, brings tears to our eyes;
+Alas that these furlongs of willow-strings gay
+Cannot hold fast the boat that will soon be away!
+
+
+
+                              ANONYMOUS
+
+                          15th Century A.D.
+
+Do not forget your cotton days
+  When robed in cloth of gold;
+Among new friends who crowd around,
+  Do not forget the old!
+
+
+
+                              ANONYMOUS
+
+                          15th Century A.D.
+
+                           A BROKEN TRYST
+
+"Meet me," said I, "at the rise of the moon."
+  The moon duly rose, but in vain did I wait;
+For I live on the plain, where the moon rises soon,
+  And he among hills, where the moon rises late.
+
+
+
+                      SHIH TSUN (CHU HOU-TSUNG)
+
+                           A.D. 1507-1566.
+
+  Eleventh Emperor of the Ming dynasty, and a worthless ruler. His
+  north-west frontiers were raided, the Japanese harried the coast
+  provinces, and a Portuguese envoy, who had reached Peking in 1520,
+  was sent back to Canton where he died in prison. Meanwhile, his
+  Majesty was engaged in searching for an elixir of life.
+
+                            TO GENERAL MAO[1]
+
+Southward, in all the panoply
+  of cruel away arrayed,
+See, Our heroic general points
+  and waves his glittering blade!
+Across the hills and streams
+  the lizard-drums[2] terrific roll,
+While glint of myriad banners
+  flashes high from pole to pole. . . .
+Go, scion of the Unicorn,
+  and prove thy heavenly birth,
+And crush to all eternity
+  these insects of the earth;
+And when thou com'st, a conqueror,
+  from those wild barbarian lands,
+We will unhitch thy war-cloak
+  with Our own Imperial hands!
+                              ----------
+
+[1] He crushed a serious revolt in Annam, 1539-1541.
+
+[2] Covered with lizard-skin.
+
+
+
+                             CHAO LI-HUA
+
+                          16th Century A.D.
+
+                         A courtesan-poetess.
+
+                          TO AN ABSENT LOVER
+
+Your notes on paper rare to see,
+  Two flying joy-birds bear;
+Be like the birds and fly to me,
+  Not like the paper--rare.[1]
+                              ----------
+
+[1] Chinese note-paper is prettily covered with pictures of various
+    design, mostly symbolical.
+
+
+
+                            SSU-K`UNG SHAN
+
+                        (?) 16th Century A.D.
+
+  The following lines are from the /Chih yüeh lu/, published in A.D.
+  1602 by Ch`u Ju-chi.
+
+                         TO A BUDDHIST PRIEST
+
+Seeing the Way,[1] a follower I would be;
+How can I follow what I do not see?
+The Way itself is unsubstantial air;
+How can I follow that which is not there?
+Those who to walk along the Way aspire,
+Are seeking water-bubbles in a fire.
+'Tis just like "Punch and Judy"[2] and its fun;
+If the strings break, the little play is done.
+                              ----------
+
+[1] Here, of course, the Buddhist Way, Mârga; not to be confused with
+    the Way (/Tao/) either of Lao Tzu or of Confucius.
+
+[2] A favourite diversion of the Chinese for many centuries past.
+
+
+
+                               HSÜ WEI
+
+                          16th Century A.D.
+
+  A very brilliant young man who had an unfortunate career. His
+  patron being thrown into prison, he went mad and attempted to
+  commit suicide, and killed his second wife. He was distinguished
+  as a calligraphist, a writer of prose and verse, and as an artist.
+
+                    ON A WINE-JAR IN AN OLD GRAVE
+
+My thoughts are with the owner, far away,
+Who had a goblet, but who could not quaff;
+A hare-shaped[1] piece of common yellow clay,
+Sole friend for a millennium and a half.
+
+But here beside him rests a legal deed[2]
+For ground where now in winding-sheet he lies;
+'Tis clear that long ere death his soul had freed
+He had no lack of fortune's choice supplies--
+
+Vessels of jade, all exquisitely wrought,
+And silken robes with these upon a par--
+By what spell were his dainty fingers taught
+To raise to lips refined this earthen jar?
+
+'Twixt quick and dead a grave-mound--a mere thing;
+Yet joy and silence seem so far apart.
+A living rat's more worth than a dead king:
+A fact we'll all do well to lay to heart.
+                              ----------
+
+[1] The hare is an auspicious animal. There is one in the moon,
+    pounding drugs for the elixir of immortality.
+
+[2] The amount mentioned is 4,000,000 /cash/, whatever that might mean
+    at such a remote date.
+
+
+
+                            P`U SUNG-LING
+
+                           Born A.D. 1622.
+
+  A scholar who failed disastrously at the public examinations, but
+  who ultimately produced one of the greatest masterpieces in style
+  to be found in the Chinese language. See /Gems of Chinese
+  Literature: Prose/.
+
+                             INWARD LIGHT
+
+With wine and flowers we chase the hours,
+  In one eternal spring;
+No moon, no light, to cheer the night,
+  Thyself that ray must bring.
+
+
+
+                            FANG SHU-SHAO
+
+                           Died A.D. 1642.
+
+  A poet and calligraphist, who led a very harum-scarum life until
+  1642, when he had "something wrong with his teeth" (probably
+  /pyorrhoea/). He got into his coffin, wrote the valedictory below,
+  and died.
+
+                            TO HIS COFFIN
+
+An eternal home awaits me,
+  shall I hesitate to go?
+Or struggle for a few more hours
+  of fleeting life below?
+A home, wherein the clash of arms
+  I can never hear again!
+And shall I strive to linger
+  in this thorny world of pain?
+The breeze will soon blow cool o'er me,
+  and the bright moon shine o'erhead
+When blended with the gems of earth
+  I lie in my last bed.
+My pen and ink shall go with me
+  inside my funereal hearse,
+So that if I've leisure "over there"
+  I may soothe my soul with verse.
+
+
+
+                              ANONYMOUS
+
+                          18th Century A.D.
+
+                             AN AGNOSTIC
+
+You ask me why I greet the priest
+  But not his God;
+The God sits mute, the man at least
+  Returns my nod.
+
+
+
+                            CHANG WÊN-T`AO
+
+                           18th Century A.D.
+
+  A poetess who wrote the following lines after reading the work on
+  the duties of women by Pan Chao, the female historian of the 1st
+  Century A.D.
+
+                           ADVICE TO GIRLS
+
+Trust not to spring clouds, trust not to flowers:
+  The butterfly is caught;
+Oh snatch no passing joy in hours
+  Of pleasure wrongly sought!
+A mien severe and eyes that freeze
+  Become the future bride;
+No whispering underneath the trees
+  Ere yet the knot be tied.
+'Tis heaven on earth when women wed
+  Leans on her husband's arm;
+Beauty, like flowers, is quickly shed:
+  Oh envy not its charm!
+
+
+
+                              ANONYMOUS
+
+                          18th Century A.D.
+
+                             INTEGER VITÆ
+
+Riches and rank--a morning dream in spring;
+Fame--but an unsubstantial cloud above;
+Thy very body is not thine for ay;
+  Hate is the end of love.
+
+Fix not a golden collar on thy neck;
+Be not with chain of jade in service bound;
+Pure heart and few desires: earth's dust shake off--
+  And happiness is found.
+
+
+
+                               YÜAN MEI
+
+                           A.D. 1715-1797.
+
+  Poet, essayist, letter-writer, and for a few years an official.
+  Among other works, he produced a famous cookery-book, which is as
+  well known in China as /La Physiologie du Goût/ in Europe. See
+  /Gems of Chinese Literature: Prose/.
+
+                              A SCOFFER
+
+I've ever thought it passing odd
+How all men reverence some God,
+And wear their lives out for his sake
+And bow their heads until they ache.
+'Tis clear to me the Gods are made
+Of the same stuff as wind or shade . . .
+Ah, if they came to every caller,
+I'd be the very loudest bawler!
+
+
+
+                             LU CHU-CH`I
+
+                          18th Century A.D.
+
+  A poet who, when found lying drunk in the road, made the following
+  reply to the Prefect; adding that his condition was his own
+  business and not the Prefect's.
+
+                             AN IMPROMPTU
+
+Though the torrent be swift, it can ne'er carry off
+  the moonbeam that lights up its bed;
+Though the mountain be high, yet it cannot arrest
+  the fast-flying cloud overhead.
+
+
+
+                       THE EMPEROR CH`IEN LUNG
+
+                           A.D. 1710-1799.
+
+  One of the two great literary rulers of the Manchu dynasty, for
+  whose achievements, see /Gems of Chinese Literature: Prose/. He
+  was an ardent writer of verse, and produced about 34,000 short
+  poems, after Wordsworth in his lowliest moods. In 1793 he received
+  Lord Macartney.
+
+                     BEST OF ALL THINGS IS WATER
+
+Searching among the mountain streams,
+  against this spring we ran;
+Pure as a saint and placid too,
+  as any Perfect Man.[1]
+The Hangchow hyson,[2] world renowned,
+  is good as good can be. . . .
+We gather pine-sticks for a fire
+  and brew a cup of tea.
+                              ----------
+
+                               UP NORTH
+
+The season was a month behind
+  in this land of northern breeze,
+When first I heard the harsh cicadæ
+  shrieking through the trees.
+I looked but could not mark its form
+  amid the foliage fair;
+Naught but a flash of shadow which
+  went flitting here and there.
+                              ----------
+
+[1] The Confucian ideal.
+
+[2] A kind of green tea. The name is a corruption of two Chinese words
+    meaning "glorious spring"--the season, not the fountain.
+
+
+
+                                CHAO I
+
+                           A.D. 1727-1814.
+
+  A poet, historian, and official, who came out first at the
+  examination for the second degree but was placed second by the
+  Emperor in order to encourage candidates from another province. In
+  1810 he attended his Jubilee (60 year) banquet as graduate.
+
+                      THE DIVINEST OF ALL THINGS
+
+Man is indeed of heavenly birth,
+Though seemingly earthy of the earth;
+The sky is but a denser pall
+Of the thin air that covers all.
+Just as this air, so is that sky;
+Why call this low, and call that high?
+
+The dewdrop sparkles in the cup--
+Note how the eager flowers spring up;
+Confine and crib them in a room,
+They fade and find an early doom.
+So 'tis that at our very feet
+The earth and the empyrean meet.
+
+The babe at birth points heavenward too,
+Enveloped by the eternal blue;
+As fishes in the water bide,
+So heaven surrounds on every side;
+Yet men sin on, because they say
+Great God in heaven is far away.
+
+
+
+                              FANG WEI-I
+
+                          19th Century A.D.
+
+  A young and disconsolate widow who, after the death of her young
+  husband, shaved her head and became a Buddhist nun.
+
+                               PARTINGS
+
+'Tis common talk how partings sadden life:
+  There are no partings for us after death.
+But let that pass; I, now no more a wife,
+  Will face Fate's issues to my latest breath.[1]
+
+The north wind whistles through the mulberry-grove,
+  Daily and nightly making moan for me;
+I look up to the shifting sky above,
+  No little prattler smiling on my knee.
+
+Life's sweetest boon is after all to die. . . .
+  My weeping parents still are loth to yield;
+Yet east and west the callow fledglings fly,
+  And autumn's herbage wanders far afield.
+
+What will life bring to me an I should stay?
+  What will death bring to me an I should go?
+These thoughts surge through me in the light of day,
+  And make me conscious that at last I know.
+                              ----------
+
+[1] Rejecting the alternative of suicide, regarded formerly as an
+    honourable exit for a youthful widow.
+
+
+
+                              CH`IU CHIN
+
+                            Died A.D. 1907.
+
+  A young married woman who in 1904 left her husband, and after a
+  period of study in Japan, devoted herself to forwarding the
+  revolutionary movement against the Manchu dynasty. She was
+  arrested and executed, leaving behind her a small volume of verse
+  and the honorific title "Woman-knight of the Mirror Lake."
+
+                            ENLIGHTENMENT
+
+When through my casement dawn appears
+  And early breezes stroke my cheek,
+'Mid endless crowding hopes and fears
+  I bow my head, I cannot speak.
+I long to mount the wind and fly--
+  The far horizon seems too near;
+But why seek God in distant sky?
+  Knock, and His doors are opened here!
+
+
+
+                            HSIEH WEI-NUNG
+
+                             Present Day.
+
+  From Nanking, at the close of the T`ai-p`ing rebellion, all the
+  golden glories of the Southern Dynasties--4th, 5th, and 6th
+  Centuries A.D.--had been completely wiped out. When Tsêng Kuo-fan
+  had recovered the city (in 1864), he set to work to replant
+  flowers and trees. Then once more it became possible to pass
+  through a splendour of peach-blossoms, and to enjoy the beauty of
+  the river, with its bevies of pink-cheeked damsels as of old, and
+  the music of flute and guitar. /Reprinted by permission from The
+  Times of 4 September, 1918./
+
+                     RETURN OF THE /GENIUS LOCI/
+
+Towards the White Gate I am bent,
+Led by love of flowers and scent. . . .
+Now I longer at the door
+Where we quaffed our wine of yore. . . .
+Now I see old scenes arise,
+Taking shape before my eyes,
+And with brush I limn the blaze
+Of gay flowers amid the haze. . . .
+Now a friend or two I bring,
+And we're off to seek the spring. . . .
+Once again I cross the ridge
+Of the famous Red Rail bridge;
+But alack-a-day, alas!
+All the willows which we pass,
+Lately set, have sprung to life
+Since those days of bloody strife. . . .
+Now we haste to get afloat,
+Tea and wine aboard the boat. . . .
+Then we hear a grumbler say
+"But the elves are all away!"
+Little knowing spirits all
+Are responsive to the call
+Of a sympathetic heart,
+And incontinently start
+And their hidden forms arouse
+From the music-making boughs
+Where their lurking-place they made
+Safe beneath some leaf's sweet shade.
+
+
+
+                             LIU PO-TUAN
+
+                             Present Day.
+
+                          ODE TO SHAKESPEARE
+
+Hearken! low wails through heaven's vault resound,
+And angels' tears drip, pearl-like, to the ground[1] . . . .
+That day the influence of spring was stilled,[2]
+And even now by thee mankind is thrilled.[3]
+
+Master of language, eager to reform,
+Showing the heart surcharged with bitter storm,--
+Three hundred years have passed 'twixt then and now,
+Yet all the world looks to that mountain's brow!
+                              ----------
+
+[1] Supposed to change into pearls or jade as they fall.
+
+[2] Nature's operations were checked.
+
+[3] This line is not translation; it is a guess at the meaning which
+    is concealed in a charade-like interpretation of a famous
+    inscription on a tombstone.
+
+
+
+                              ANONYMOUS
+
+                             OPPORTUNITY
+
+The cup's in the hand,
+  seize the hour ere 'tis fled;
+How seldom in life
+  is the moon overhead!
+                              ----------
+
+                            HIGH THINKING
+
+Do not ask upon what
+  is the anchorite fed--
+A stream past his window,
+  a book by his bed.
+                              ----------
+
+                                CHANCE
+
+You may set with all care,
+  but the flow'ret will fade,
+While the chance-planted willow-twig
+  grows into shade.
+                              ----------
+
+                            DRINKING-SONG
+
+Day by day we grow old
+  and have nothing to show;
+Year by year we behold
+  the new spring coming on;
+In the winecup is found
+  our chief joy here below;
+Why grieve over flowers
+  too soon faded and gone?
+                              ----------
+
+                               A LAMENT
+
+O ruthless Fate!
+  O cruel boon!
+To meet so late
+  And part so soon.
+                              ----------
+
+                              A LULLABY
+
+The poplars are whispering, la-la-la,
+And baby must sleep with his ma-ma-ma.
+Bye-bye, baby, go sleep I say;
+If Bogy comes near us, I'll drive him away.
+
+
+
+THE END
+
+
+
+Project Gutenberg Australia
+

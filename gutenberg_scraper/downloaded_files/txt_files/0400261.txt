@@ -1,0 +1,714 @@
+
+
+Project Gutenberg Australia
+
+
+
+Title:      The Pursuit of Knowledge
+Author:     Stephen Leacock
+* A Project Gutenberg of Australia eBook *
+eBook No.:  0400261.txt
+Edition:    1
+Language:   English
+Character set encoding:     Latin-1(ISO-8859-1)--8 bit
+Date first posted:          March 2004
+Date most recently updated: March 2004
+
+This eBook was produced by: Andrew Sly
+
+Project Gutenberg of Australia eBooks are created from printed editions
+which are in the public domain in Australia, unless a copyright notice
+is included. We do NOT keep any eBooks in compliance with a particular
+paper edition.
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing this
+file.
+
+This eBook is made available at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg of Australia License which may be viewed online at
+http://gutenberg.net.au/licence.html
+
+---------------------------------------------------------------------------
+
+
+A Project Gutenberg of Australia eBook
+
+Title:      The Pursuit of Knowledge
+Author:     Stephen Leacock
+
+
+
+
+A Discussion of Freedom and Compulsion in Education
+
+
+
+
+PREFACE
+
+It is one of the most ancient of human beliefs that all things human
+are under the influence of two contrasting forces moving in different
+directions. Primitive man, no doubt, early became aware that certain
+things made for salvation and others not: and that the division did
+not correspond to that represented by mere pleasure or pain. Hence,
+with the tendency of the dawning primitive intelligence to think of
+all forces as living forces, to think of winds and storms and fire and
+flood, as things animated like itself, there arose the notion of good
+and evil, of a Deity and a Devil.
+
+From the earliest twilight of our civilization this principle of
+contrasted forces shaping our destiny appears and reappears.
+
+In the present essay the attempt is made to show its application to
+the advancement of learning. Here we have, on the one hand, the
+principle of spontaneous, natural, untrammeled development of the
+human mind: its native curiosity supplies the motive power of its
+expanding knowledge. There, on the other hand, appears the principle
+of compulsion, of discipline, of the assigned task and the stern
+necessity. Which of these is God and which the Devil would be a
+question hard to answer. In Scotland they would answer one way, in
+the easy islands of Polynesia in the other. Yet at least the inquiry
+is pertinent, to what extent each of these principles should govern
+our modern education.
+
+STEPHEN LEACOCK
+
+McGill University
+August 20th, 1934
+
+
+
+
+I
+
+TWO RIVAL PRINCIPLES
+
+
+The process of education covers a large part of the activity of
+mankind. It includes as its major elements the acquisition of
+knowledge and the development of capacity. It carries with it, as
+at least a by-product, the formation of moral character, once its
+principal aim. It includes to an increasing extent the care of
+physical health and the training of the body. The social momentum,
+supplied by the institutions created for its use, carries forward
+into the search for new knowledge, which thus becomes, as it were,
+a part of education itself.
+
+Hence, in one form or another, the process of education fills a
+considerable part of the life of every individual. For at least ten
+years it is the chief activity of all of us; for twenty years in the
+case of many of us; and for some it represents the work and the
+meaning of a lifetime. It follows that anything in the way of an
+analysis of educational method and machinery, is of the highest
+social import.
+
+Now, there may be observed as running all through the processes of
+education two rival principles, in a sense conflicting and yet
+complementary to one another. One of these is the principle of
+compulsion, of having to do what we do not want to for the sake
+of some external or ultimate end. The other is the principle of
+spontaneity, of doing what we want to do because we want to do it.
+Such a principle is easily embodied in the familiar notions of "art
+for art's sake," of "knowledge as its own reward", and similar
+concepts. In the present discussion, I propose to consider the
+relative values of these two principles, and the way in which either
+of them may be carried beyond its proper use.
+
+The history, the legends, and the very terminology of education
+reflect the contrasted operation of the two. Here, embedded in the
+Latin language, is the word _ludus_--which meant indifferently either
+"school" or "play." But here is the grim word "examination" implying
+a weighing in the scales of Justice first applied to criminals and
+then extended to undergraduates.
+
+Many of our educational terms suggest care and affection, love and
+good-will and the happy pursuit of learning in common. "University"
+and "college" are words of warmth, implying the whole ambit of
+learning and the genial bond of fellowship within. But the "test" and
+the "quiz" and the "imposition" are the words of medieval torture.
+
+At different times and by different temperaments stress has been laid
+upon either the value and the virtue of severe compulsion or the charm
+of spontaneous activity. One recalls the famous Doctor Busby of the
+Westminster School of Charles the Second's time, whose merit lay
+in the use of the rod. "A great man," said Sir Roger de Coverley,
+"he caned my grandfather." Indeed, for many centuries elementary
+education was largely based on the idea that sparing the rod spoiled
+the child and that the quickest way to reach the youthful intellect
+was from below up. But one recalls on the other hand Rousseau's
+little Emile wandering among the flowers, and the rise of the
+Kindergarten--the children's garden--which has ascended from infancy
+up throughout our system of education.
+
+I can recall from my own childhood, in the England of nearly sixty
+years ago, a little elementary primer called _Reading without Tears_.
+This was regarded at the time as a pleasing innovation.
+
+The point under discussion, then, is the extent to which each of
+these principles enters into our curriculum, and whether Doctor Busby
+or Jean Jacques Rousseau is to claim the major authority.
+
+Now, it must be admitted that to a certain extent the education of
+to-day must be measured, circumscribed, formal and mechanical.
+Everything has the defects of its merits. In democratic countries
+where education is universal, compulsory, and is, to a great extent,
+paid for by society in the lump and not by the recipient in
+particular, the latitude of permissible freedom is at once greatly
+curtailed. There must be fixed hours and fixed times and fixed
+classes; and to a great extent fixed grades, fixed promotions. The
+road to learning being a public highway the traffic must be moved
+under direction, with fixed lights and fixed stops and a speed limit.
+
+But the question still remains--to what extent do we lose by this
+necessity for fixed and regular organization something of the spirit
+and meaning of education? To what extent are we compelled by necessity
+to sacrifice the spirit for the letter, the soul for the body?
+
+Observe that a necessity is there. We cannot in our day leave
+education to the unaided prompting of the individual's desire to know
+and the individual's self-interest in knowing. Education cannot be
+left to itself. To a great extent the creative arts of painting,
+sculpture and music may be left with no further recognition by the
+state and the law than a generous pecuniary support. But education by
+obvious necessity must be under the constant care and the detailed
+regulation of society at large. Whatever shortcomings are involved
+need to be admitted and faced or mitigated as best we can.
+
+I propose, therefore, to write, in turn, of the effect of such
+necessity upon the organization of education, the method and process
+of teaching, and the nature of the curriculum.
+
+
+
+II
+
+THE ORGANIZATION OF EDUCATION
+
+
+Of the first of these things, the organization of education, I will
+not give more than an indication of the field implied. The subject
+belongs mainly outside the limits of the present discussion. It
+is clear that the organization of learning by grades, with fixed
+times and means of promotion, fixed standards of acquirement to be
+certified step by step, departs a long way from the ideal of an
+education that aims to develop an individual impelled by his own
+zeal for continuous and ever-widening knowledge. Of necessity,
+the system largely overlooks the claims of genius, the right of
+differentiated development, the special or gifted minds. It has all
+the defects of the standardization of the intellect, of the "convoy"
+system of progress, where each must conform to the pace of the lowest.
+One or two practical examples may be cited for illustration's sake
+at somewhat greater length. Here, first, is the question of an
+"Attendance Rule" at the universities. Should the students, or should
+they not, be compelled to attend the lectures? The example is all the
+more valuable in that the subject concerned is not merely a matter of
+what would be ideal, but a matter of an actual choice; at the same
+time it illustrates very nicely the educational theory involved.
+
+My own experience in this respect has helped me to reach an opinion.
+When I was an under-graduate at the University of Toronto more than
+forty years ago (1887-1891) attendance at lectures was not compulsory.
+Registered students might come to class or not as they liked. The idea
+was that the lectures were a privilege, an opportunity, a help towards
+passing the examination. Students foolish enough to stay away might
+do so. As a matter of fact many of us did stay away, sometimes from
+a whole course at a time! If we found the lectures prosy and
+uninteresting and the matter as easily and more conveniently learned
+from a book, we ceased to attend. At the time it seemed to me an ideal
+system, with a personal, academic freedom about it that contrasted
+pleasantly with the outworn discipline of the schoolroom.
+
+I experienced the same regime with the same satisfaction as a student
+in the graduate school at Chicago ten years later. But when I came
+to teach at McGill University,--my own incomparable Alma Mater of
+to-day,--I was amazed and even horrified to find the rule the other
+way. Students were compelled to attend, their names called daily from
+a roll and their absence noted. Eight times in a hundred they might be
+absent--but after that the dark. Whether the lectures were wise or
+foolish, brilliant inspiration or mournful dictation, attend they
+must. The rule is still with us and I have grown to see that it is
+good. It is honored perhaps a little more in the breach as time goes
+on, but in the main, in both law and practice, it stands.
+
+The virtue of such compulsion rests on the admitted weakness of human
+nature. Students will stay away not only from bad lectures, but from
+good ones; will attend intermittently in place of regularly; will
+allow pleasure to interfere with duty--and afterwards be sorry for
+it. It is likely that even the worst lecture is better than none at
+all,--though that is a bold proposition, not to be pressed. But
+certainly most lectures, if they can be heard for nothing, are, as
+might be said facetiously, well worth it.
+
+I recall the case of my late distinguished colleague, Dr. Francis
+Shepherd, Professor of Anatomy and sometime dean of the Faculty of
+Medicine at McGill University (_Clarum et venerabile nomen_). Dr.
+Shepherd lectured on Anatomy at nine o'clock every morning. It was
+his custom, as nine o'clock drew near, to stand at the door of the
+classroom, his watch in his hand. At the exact hour of nine he
+entered the room, closed the door, locked it and began his lecture.
+Any student locked out was counted absent; locked out eight times
+in the session he lost a year of his academic life. And who liked
+the system? The students did. They boasted of it. There is a whole
+generation of medical men who were brought up on it and still talk
+about it. I introduced it into my own classes in imitation of Dr.
+Shepherd, but I discontinued it as I found it meant locking myself
+outside rather too often. This Dr. Shepherd never did, never once. In
+the twenty years of his lecturing on Anatomy he was never once late.
+
+One has to admit, of course, that this kind of compulsion, used to
+replace the individual virtue that is wanting, only can be applied in
+educational methods where public opinion will not be offended at it.
+This is in accordance with a general law. There are many things which
+are excellent in their effect, in their results, so long as no one
+questions their right to be or feels degraded by their use. One thinks
+here of corporal punishment in the schools. When I entered Upper
+Canada College fifty-two years ago, the "caning" of the boys by the
+masters was taken for granted. We perhaps felt hurt by it, but not
+degraded; on the contrary it gave one something of the feeling of
+a veteran at the wars or a proven Brave of the Plains after the
+Sun-dance. We bore no grudge. On these terms the results, as a whole,
+were probably very good. There was none of the harbored hatred over a
+long imprisonment after school hours, no weary fingers and tired eyes
+copying out unwelcome lines with the sunshine beckoning out of doors
+and the voices calling from the playground. Justice was as quick and
+final as capital punishment.
+
+When I became in turn a master in the College, I handed out, for ten
+years, the same treatment. When I look back at it now, I marvel at
+the barbarity of it; but not then: the boys whom I licked the most
+seem to cherish the kindest memories: and seem to have succeeded best.
+Looking back on the list I find that I have licked no less than eight
+cabinet ministers, two baronets and four British generals,--to say
+nothing of about one-half of the bench and the bar in Toronto. Whether
+these men would have come to the front without my assistance is a
+matter I am not prepared to discuss.
+
+But, observe, that once the idea arises that physical punishment is a
+degradation, then it is. It has got to go. It is, as soon as you
+reflect upon it, mere barbarism.
+
+I hope I do not seem to have wandered from the point. I am trying to
+say that there are some educational methods of organization, or
+compulsion, of fixed and punitive regulation, which can only survive
+while generally accepted: once questioned they have to go.
+
+A similar instance occurs to me in the matter of compulsory cap and
+gown. Fifty years ago the wearing of a cap and gown by the students
+and by their teachers was a matter of compulsion in a great many of
+the best colleges. In some of them, as in my own college, the rule is
+still there, but the observance of it has vanished. Some false notion
+of equality and democracy has created a public opinion against it. It
+has had to go. Yet great, I think, is the loss. The college gown of
+my undergraduate day cost one dollar and fifty cents. It lasted a
+lifetime, and might indeed have served for burial. It was not killed
+by the cost of it, though its declining use drove the cost up. Public
+opinion killed it. Yet never was there anything more consistent with
+the dignity and democracy of knowledge. The good old gown, like
+charity, covered up a multitude of shabby clothes. It obliterated
+all distinctions of rich and poor, and for those who knew its shape
+and cut it was the symbol of a whole cycle of history. The doubled
+sleeve of the gown was in reality and originally a bag in which the
+impecunious student of the Middle Ages might place the food supplied
+to him by kindly donors. It was the hall-mark of his local right to
+beg. You will note that even to-day the doubled sleeve of the gown of
+the doctor of philosophy has a larger cubic content than any other,
+and that these gowns, with their capacious sleeves, are only worn,
+as a rule, by the presidents of colleges!
+
+
+
+III
+
+EDUCATIONAL METHOD
+
+
+But let me turn a moment from the discussion of the organization and
+framework of our education, to observe the same contrast between
+spontaneity and freedom in the method and process of our teaching.
+Here it is even more obvious and important.
+
+We may take our point of departure from the aforementioned little
+Emile of Jean Jacques Rousseau of the year 1762, the world-famous
+type of the natural, spontaneous child, naturally and spontaneously
+educated. We may contrast him with his sturdy young contemporary, that
+tough little Briton, Smith Minor of Westminster School--first cousin
+a few degrees removed of John Smith of Smithville, Minnesota, Ontario
+and elsewhere.
+
+All the world, of education at least, recalls the training by which
+little Emile was developed. It was a garden of flowers. The child
+wandered at will. His awakening curiosity reached out for knowledge
+and his hand reached out for the beautiful flowers around him. He
+learned without having to learn. He was told nothing till he needed
+to know it and asked to know it. The whole process was natural and
+intuitive.
+
+Not so with Smith Minor. No one asked him if he wanted to learn. He
+had to. For him knowledge was not a garden. It was a steep and rough
+ascent on a rocky path,--_gradus ad Parnassum_. Up he went, with the
+stick to keep him moving. Unlike little Emile, he learned what he
+didn't want to learn. He didn't understand what it meant, or where
+it led to. He was driven like a donkey going to market, over the
+_pons asinorum_ of Euclid. He learned the fact that similar
+triangles are in the duplicate ratio of their homologous side. God
+knows he didn't doubt it. He learned that the logarithm of a number
+to a given base is the index of the power to which the base must be
+raised to produce the given number. He was not allowed to ask why.
+But with it all there went, however, in a certain sense the honorable
+satisfaction of a task undertaken and done, a difficulty faced and
+conquered--a feeling unknown to little Emile.
+
+The two boys are long since dead but their souls are with us still.
+All of us, who have taken pedagogical courses, have heard enough, and
+too much, of the spontaneous system of education, proceeding from
+the known to the unknown and from the concrete to the abstract. As
+a matter of fact all such ideas are only half truths.
+
+Take as an example the teaching of elementary English grammar. As
+Smith Minor learned it, it began with the brutal, straight-out
+statement "there are eight parts of speech: the noun, the pronoun,
+the adjective, the verb, the adverb, the preposition, the conjunction
+and the interjection." He had no idea what this meant or where it was
+leading to. It was licked into him.
+
+But little Emile--ah, no! He wandered among the flowers, murmuring
+words at will, until presently he should say, "Dear mama, how funny
+words are!" "Are they not, darling," replied his mother. "I believe
+that some of them, dear mama, might be called adverbs." "They are,
+darling, they are."
+
+Later, let us say, the two little boys learned navigation, with a view
+to entering the navies of their respective countries. Smith Minor was
+brutally made to learn by heart that longitude meant the number of
+angular degrees east or west of Greenwich. Emile had to wait till he
+met an angular degree in the words and got in a question about it. In
+time no doubt little Emile wandered onto the quarter-deck of a French
+man-of-war. Yet, after all, which navy beat the other?
+
+In other words, I am trying to say that in much of our education (in
+practice at least) it is quicker to go from the unknown to the known.
+To proceed _ad obscurum per obscurius_ is often as useful as to go
+through a tunnel to save walking round a mountain.
+
+
+
+IV
+
+THE EXAMINATION
+
+
+One of the most important subjects which arise under the present
+discussion is the written examination. I may express it as my opinion
+that the written examination is the curse of modern education, and I
+may add that I do not see how we could get along without it. There is
+nothing which, in and of itself, is so contrary to the true spirit
+of inquiry, the real search after knowledge. There is nothing so
+much calculated to substitute the letter for the spirit: to check the
+ardor of the native eagerness to know: to mislead the feet of the
+student from the path of knowledge to the steps of the treadmill.
+The situation is rendered all the worse when the written examination
+recurs at intervals--generally of an academic year--as a necessary
+condition of promotion. It becomes for most students a sheer economic
+necessity to pass the examination: without that, they lose a year, are
+compelled, perhaps, to abandon their career. They _must_ pass. This
+superlative necessity overwhelms their minds. It colors all their
+outlook. As the examination draws near it takes on all the imminence
+of approaching danger, all the menace of a possible disaster. It is
+like the roaring of a cataract in the ears of one borne swiftly down
+the stream.
+
+How can a student think about literature who has to pass an
+examination on literature? How can a student meditate on philosophy
+whose meditations must reach a value of fifty per cent or ruin him?
+Who dare read a book not on the curriculum? Or think a thought that
+has no value in marks?
+
+As a result the attitude of the students towards their studies is
+hopelessly perverted. All they want to know is what must they do to
+be saved. In certain mechanical and elementary subjects this is no
+great matter. In elementary mathematics it does not matter much if a
+schoolboy learns the multiplication table, because he has got to, or
+because he is merely inquisitive about the properties of numbers. Or
+rather--let me correct myself--it does matter, in the ideal sense, a
+great deal. There is such a thing as mathematical curiosity, a rare
+and beautiful gift, often seen in children and nearly always fading
+out as they grow. And there is the wretched process of learning the
+multiplication table by heart and reciting Euclid by rote. But in
+mathematics and physics the harm done can be wiped out. A man may
+become a real mathematician in spite of passing examinations in
+mathematics. So, too, a man may become a real doctor in spite of
+having to learn by rote, brutally and mechanically, the two hundred
+and fifty bones of first year anatomy.
+
+But in what are called the "Humanities"--those indefinable studies
+which underlie the world of thought and find expression in the world's
+literature, studies distinguishable only by their apparent
+uselessness--the result of the examination system is deplorable,
+devastating, often fatal. As the college examinations draw near one
+hears such questions as "Please, sir, are we liable for Rousseau's
+Social Contract? Do we need the Declaration of Independence? Are we
+responsible for Chaucer?"
+
+Those who live in the colleges will know that these quoted questions
+are not a whit exaggerated. The student as the examination draws
+near, takes his studies as the manly criminal takes his sentence. He
+has been sentenced to two years of Shakespeare; all right, he will see
+it through, get it done and come out to live it down. He puts into it,
+in fact, just the same kind of courageous endeavor with which he meets
+the oncoming difficulties of life.
+
+And there it is,--one sees in a moment the other side of examinations.
+One contrasts the determined, hard-working student who has _got_ to
+pass and _means_ to pass, with the lackadaisical dilettante, reading a
+limp-leather book in a garden of lilies,--not having to pass anything,
+and not able to. One asks, which is the better man?
+
+In other words, we have to admit that examinations make for character
+just as adversity makes a man, and the Westminster Catechism makes a
+Scotchman. But after all is character quite the same as learning?
+Moral worth and spiritual eagerness may be better things than the
+desire to know and the pursuit of knowledge, but they are not the
+_same_ thing.
+
+We should, no doubt, most of us agree that we cannot abolish the
+written examination. But if we understand its shortcomings and its
+defects we can at least avoid some of the dangers of its overuse. One
+of these lies in the confusion of high percentages with high
+standards. In certain institutions, and in one which I know so well
+that I will not name it, many people think that the standard of the
+students' work can be raised by raising the percentage of the
+examination pass mark. No more misleading idea ever damaged education.
+After a certain point a high percentage is only obtained by an
+inordinate and undesirable completeness. Each successive increment can
+only be obtained with greater and greater labor, with increased
+repetition, with multiplied interaction, holding back each advance in
+knowledge till the ground before has not only been cleared and
+covered and cultivated, but meticulously scratched with a pin point.
+
+If we had to get a hundred per cent in spelling, to spell all the
+words in English correctly, which of us would ever get out of the
+spelling book? If matriculation in Latin meant one hundred per cent
+knowledge of all the genitives and all the genders, who would ever get
+beyond it? Gray-bearded scholars would be wheeled into the examination
+room for their sixtieth attempt to matriculate. After a certain point
+excellence is unwholesome. Outside of a reasonable latitude accuracy
+implies a limited mind, neatly and completely filled, and with no
+draught in it to blow anything away. The first beauty of any subject
+is its broad outline: the first charm of literature is its large
+features, of history its universal surface, of physics its grander
+truths. All the little meticulous details peppered in afterwards,
+are necessary, like the masonry between stones, but it is the stones
+that make the building. In learning any language what is needed is
+a "thorough smattering": what is not needed is a hundred per cent
+correctness of accidence and syntax. Boys who get a hundred per cent
+in what is called a modern language paper,--consisting of in-and-out
+translation of such gems of thought as "Give some of it to them, do
+not give any of it to me for him,"--such boys will never speak a
+language more modern than Choctaw. They are equipped perhaps to
+translate the Bible into Eskimo, _praeterita nihil_. Yet still
+the cry goes up: raise the per cent, raise the per cent.
+
+But the full devastation of the examination system is seen, I say, in
+its application to the humanities and above all in its application to
+literature. Here it defeats its own end and destroys what it would
+promote. A student is assigned,--shall we say _sentenced?_--to a course
+on English poetry in the nineteenth century. It is one of the "units"
+for the "credits" by means of which in two more years he will get a
+license to be a druggist. He buys and studies what are called "texts,"
+a reverent word straight out of the fifteenth century. He is a
+conscientious fellow and he "does" it all, does every poet, except two
+or three for which he is told he is not "responsible." Then comes the
+written examination,--"Name the five chief beauties of Keats. Name
+two beauties which Keats had which Tennyson didn't have. Indicate
+under six heads the philosophical ideas of Robert Browning. What other
+ideas had he? 'Twilight and Evening Star and after that the dark.' Who
+said this? And at what time is it twilight in the Isle of Wight on
+June 20?"...and so on.
+
+There is no exaggeration in that. The underlying truth is that you
+cannot "examine" on literature and that you cannot "teach" literature
+in any regulated, formal, provable, examinable way without destroying
+literature itself. Which leads me to another of the ghastly
+short-comings of our organic compulsory education, the attempt to
+_teach_ things that can't be _taught_,--in any way, that is, to be
+measured, estimated, commended and condemned. The only time when you
+and I really entered into literature, entered the kingdom of letters,
+was when each of us sat as a child absorbed in the magic pages of a
+book: in some snug corner of a quiet room or sheltered in some lost
+recess of the seashore with the muffled sound of the wind and sea to
+concentrate our thought--that is reading, that is literature.
+
+I often think in this respect of Charles Dickens, my favorite author
+of a lifetime,--and all the people who have read Dickens. All over the
+world for a hundred years, almost, there have been people reading
+Dickens. In town and in country, at home and abroad, in winter with
+the candles lighted and the outside world forgotten; in summer beneath
+a shadowing tree or in a sheltered corner of the beach; in garret
+bedrooms, in frontier cabins; in the light of the camp fire and in the
+long vigil of the sickroom--people reading Dickens.
+
+And everywhere the mind enthralled, absorbed, uplifted; the anxieties
+of life, the grind of poverty, the loneliness of bereavement, and the
+longings of exile, forgotten, conjured away, as there arises from the
+magic page the inner vision of the lanes and fields of England, and on
+the ear the murmured sounds of London, the tide washing up the Thames,
+and the fog falling upon Lincoln's Inn.
+
+But at the end we must add the college class reading Dickens as a unit
+of credit for a distiller's license, getting ready for the Dickens
+examination. Name the six humorous sides of Mr. Pickwick. Distinguish
+four particular kinds of villainy in Jones Chuzzlewit, etc., etc.
+
+I owe a deep debt of gratitude to the University of Toronto for the
+course in "Honor English"; and especially to the fact that there were
+no lectures on Dickens.
+
+I am not implying here that there should be no such subject as English
+literature in the curriculum of the school or college. I only mean
+that we should all understand the limitations under which we teach
+it, understand what we _can_ do and what we cannot do. You can take
+a horse to the water but you cannot make him drink. You can give a
+student the opportunity to read, to enjoy, and to appreciate. But you
+cannot make him do it. The more definite and formal and systematic
+the instruction the worse its ultimate results. The true professor of
+English would be a sort of inspired person, a little silly, fond of
+reciting and reading aloud, unconscious of time and place, filled
+with intense admiration and terrific denunciations, admired and
+pitied by his students. Such a man with his childish conceit, his
+tattered wits, his flushed cheeks, and his transparent sincerity is
+the inspiration of the classroom, he is the spirit of literature
+itself. Can a man like that _examine?_ Of course not. He lets them
+all through. But even the least gifted has caught something of our
+inspiration.
+
+Observe that none of this can be reduced to rule and plan and system.
+Imagine a college advertising for such a man: Wanted a professor of
+English, half-silly, slightly flushed, etc., etc.... Yet some people
+are never satisfied with a discussion on education unless what is
+said can be reduced to statute, embodied in legislation. But in
+reality statutes and legislation are just the embodied effects,
+the crystallized form of the rock for which first was needed the
+incandescent heat of thought.
+
+I trust that I am not misunderstood in what I say in regard to the
+study of literature in the colleges. I am not in any sense endeavoring
+to deprecate or belittle it. On the contrary, there is no study that
+seems to me of more transcendent interest and importance. There is
+none where the professor can do so much for his students: none where
+good lectures can count so much and personal inspiration aid in the
+unfolding of the minds. The lonely study of literature is a meager
+thing. All forms of art live on companionship, on intercourse, on
+discussion. Appreciation that is shared is multiplied. Divided, it
+increases. When we read a good book we want to talk about it; when
+we are thrilled by a drama we want to discuss it. So it is with
+literature in the classroom,--a forum of discussion, a market place
+for thought.
+
+But who that sees a good play would want forthwith to write an
+examination on it? Who would go to moving pictures with a view to
+writing a "test" on them the next day? The point which I am trying to
+make is, that there are once and for all certain studies which cannot
+be subjected to examination without being destroyed.
+
+Would it not be at least conceivable that the work of a college might
+include certain studies for which ample time was provided for lectures
+and for discussion, and which did not provide for "tests," or count
+as a qualification for doing something else? Do we think so poorly of
+ourselves as to call that impossible? Do our students _never_ study?
+Is there no such thing left as learning's sake, as art for art, as
+literature and reading for their own absorbing enchantment? Perhaps
+not. It may be that for such a thing we go outside the colleges, to
+the people who have had no "opportunities," who read because they want
+to, who discover for themselves the entry to the kingdom of letters
+and the gateway to the by-gone world of the past. Such people, save
+the mark! are generally filled with a vague regret at what they have
+missed by never going to college. Life is filled with such little
+ironies as that.
+
+
+
+V
+
+COLLEGE AND PROFESSIONAL REQUIREMENTS
+
+
+What has been said incidentally leads me at once to another topic of
+this discussion. I refer to the fact that our modern college education
+has developed into being very largely a qualification for entrance
+into something else,--not immediately connected with it. It has taken
+on, in the evolution of four centuries, the form of a statutory, legal
+qualification for entry into a profession. It thus becomes one of the
+necessary steps towards earning money, making one's living. This is
+all very well where the thing studied and the thing practiced are one
+and the same. It is clear that to be a lawyer one must study law, that
+to be a doctor one must learn anatomy, and that to be a clergyman one
+must read the Bible, and to be a teacher one should study teaching.
+But it is a little harder to see why a dentist has to study algebra,
+or a veterinary surgeon read Shakespeare,--except, perhaps, the play
+of Richard III--"a horse, a horse, my kingdom for a horse!"
+
+In the college where I teach there are young men studying political
+economy because they want to be surgeons, studying poetry in order
+to qualify for the navy, and trigonometry in order to get into the
+Church. Only by resort to the artistic valuation of background can
+such studies seemingly be justified.
+
+These statements are not intended facetiously. They merely convey the
+facts. The whole area of our college study is shadowed and darkened
+with the gloom of this dull atmosphere of musty traditional
+prerequisites. A large percentage of our study is not a labor of love,
+of choice, or even of obvious utility. It is merely undertaken through
+the indirect compulsion of our traditional social organization. We
+have to live. We have to earn money to live. We have to enter a
+profession to earn money to live. We have to take a degree to enter a
+profession to earn money to live. We have to take algebra to get a
+degree to enter a profession to get the money to live. This is the
+house that Jacques built,--Jean Jacques Rousseau: or rather which he
+didn't mean to. No one seems able to show why certain subjects must be
+attached as a preparation for professional skill.
+
+One asks what are we going to do about it The answer is,--nothing.
+There is no evident way of rearranging all this without sacrificing
+the main outline of organized education, and leaving it a mere chaos
+of caprice. There is, therefore, no suggestion here of legislative
+change, but only a change of spirit, of thought, of attitude. In
+all the problems of human life the step towards a solution is the
+recognition that there is something that needs solving, even though
+it seems insolvable. In the brutal days of John Hawkins there was no
+problem of slavery. But in time the tears that fell upon the fetters
+on the slave broke through the chain.
+
+So it is with education. The idea must come first: its translation
+into action will find a way. All through this discussion I have sought
+to lay stress on the idea that education must carry with it, for its
+own sake, a certain element of external compulsion: but that it is
+equally vital that it should have as its animating spirit _inner
+compulsion_, the prompting of free will, of the desire to know. It
+would seem that in our education of to-day the emphasis has grown
+too heavy on the aspect of compulsion from without. The balance
+dips at one end. The compulsion implied is not, or not chiefly, the
+direct compulsion of command and obedience. It is rather the form
+of compulsion represented by the fixity of the organization, the
+stabilization of the studies, the grading of units and credits and
+promotion, the application of mechanical tests as a means of computing
+knowledge. The sum total of these things lies heavily upon us. Under
+such circumstances the enchantment of knowledge is rudely dispelled
+by the need to live.
+
+The remedy, such as there is, is purely intangible,--a quickening of
+the spirit, a recapture of the soul, a revival of the childhood of
+man. Perhaps an educational prophet will arise with the vision of a
+college education directed by teachers so inspiring that young people,
+athirst for adventure in worlds illuminated by research, will be
+enchanted by the truths and ideas therein revealed, and therefore
+above the present needs of administrative compulsion.
+
+
+THE END
+
+
+Project Gutenberg Australia
+
+

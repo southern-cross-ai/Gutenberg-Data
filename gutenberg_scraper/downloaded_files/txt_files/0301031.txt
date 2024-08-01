@@ -1,0 +1,812 @@
+
+
+Project Gutenberg Australia
+
+
+
+Title:      Cymbeline Refinished: A Variation on Shakespear's Ending (1936)
+Author:     George Bernard Shaw
+* A Project Gutenberg of Australia eBook *
+eBook No.:  0301031.txt
+Edition:    1
+Language:   English
+Character set encoding:     Latin-1(ISO-8859-1)--8 bit
+Date first posted:          July 2003
+Date most recently updated: July 2003
+
+This eBook was produced by: Don Lainson dlainson@sympatico.ca
+
+Project Gutenberg of Australia eBooks are created from printed editions
+which are in the public domain in Australia, unless a copyright notice
+is included. We do NOT keep any eBooks in compliance with a particular
+paper edition.
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing this
+file.
+
+This eBook is made available at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg of Australia License which may be viewed online at
+http://gutenberg.net.au/licence.html
+
+To contact Project Gutenberg of Australia go to http://gutenberg.net.au
+
+--------------------------------------------------------------------------
+
+A Project Gutenberg of Australia eBook
+
+Title:      Cymbeline Refinished: A Variation on Shakespear's Ending (1936)
+Author:     George Bernard Shaw
+
+
+
+
+Foreword
+
+
+The practice of improving Shakespear's plays, more especially in
+the matter of supplying them with what are called happy endings, is
+an old established one which has always been accepted without
+protest by British audiences.  When Mr Harley Granville-Barker,
+following up some desperate experiments by the late William Poel,
+introduced the startling innovation of performing the plays in the
+West End of London exactly as Shakespear wrote them, there was
+indeed some demur; but it was expressed outside the theatre and led
+to no rioting.  And it set on foot a new theory of Shakespearean
+representation.  Up to that time it had been assumed as a matter of
+course that everyone behind the scenes in a theatre must know much
+better than Shakespear how plays should be written, exactly as it
+is believed in the Hollywood studios today that everyone in a film
+studio knows better than any professional playwright how a play
+should be filmed.  But the pleasure given by Mr Granville-Barker's
+productions shook that conviction in the theatre; and the
+superstition that Shakespear's plays as written by him are
+impossible on the stage, which had produced a happy ending to King
+Lear, Gibber's Richard III, a love scene in the tomb of the
+Capulets between Romeo and Juliet before the poison takes effect,
+and had culminated in the crude literary butcheries successfully
+imposed on the public and the critics as Shakespear's plays by
+Henry Irving and Augustin Daly at the end of the last century, is
+for the moment heavily discredited.  It may be asked then why I,
+who always fought fiercely against that superstition in the days
+when I was a journalist-critic, should perpetrate a spurious fifth
+act to Cymbeline, and do it too, not wholly as a literary jeu
+d'esprit, but in response to an actual emergency in the theatre
+when it was proposed to revive Cymbeline at no less sacred a place
+than the Shakespear Memorial Theatre at Stratford-upon-Avon.
+
+Cymbeline, though one of the finest of Shakespear's later plays now
+on the stage, goes to pieces in the last act.  In fact I mooted the
+point myself by thoughtlessly saying that the revival would be all
+right if I wrote a last act for it.  To my surprise this blasphemy
+was received with acclamation; and as the applause, like the
+proposal, was not wholly jocular, the fancy began to haunt me, and
+persisted until I exorcised it by writing the pages which ensue.
+
+I had a second surprise when I began by reading the authentic last
+act carefully through.  I had not done so for many years, and had
+the common impression about it that it was a cobbled-up affair by
+several hands, including a vision in prison accompanied by scraps
+of quite ridiculous doggerel.
+
+For this estimate I found absolutely no justification nor excuse.
+I must have got it from the last revival of the play at the old
+Lyceum theatre, when Irving, as Iachimo, a statue of romantic
+melancholy, stood dumb on the stage for hours (as it seemed) whilst
+the others toiled through a series of dénouements of crushing
+tedium, in which the characters lost all their vitality and
+individuality, and had nothing to do but identify themselves by
+moles on their necks, or explain why they were not dead.  The
+vision and the verses were cut out as a matter of course; and I
+ignorantly thanked Heaven for it.
+
+When I read the act as aforesaid I found that my notion that it is
+a cobbled-up pasticcio by other hands was an unpardonable
+stupidity.  The act is genuine Shakespear to the last full stop,
+and late phase Shakespear in point of verbal workmanship.
+
+The doggerel is not doggerel: it is a versified masque, in
+Shakespear's careless woodnotes wild, complete with Jupiter as deus
+ex machina, eagle and all, introduced, like the Ceres scene in The
+Tempest, to please King Jamie, or else because an irresistible
+fashion had set in, just as at all the great continental opera
+houses a ballet used to be de rigueur.  Gounod had to introduce one
+into his Faust, and Wagner into his Tannhäuser, before they could
+be staged at the Grand Opera in Paris.  So, I take it, had
+Shakespear to stick a masque into Cymbeline.  Performed as such,
+with suitable music and enough pictorial splendor, it is not only
+entertaining on the stage, but, with the very Shakespearean feature
+of a comic jailor which precedes it, just the thing to save the
+last act.
+
+Without it the act is a tedious string of unsurprising dénouements
+sugared with insincere sentimentality after a ludicrous stage
+battle.  With one exception the characters have vanished and left
+nothing but dolls being moved about like the glass balls in the
+game of solitaire until they are all got rid of but one.  The
+exception is the hero, or rather the husband of the heroine,
+Leonatus Posthumus.  The late Charles Charrington, who with his
+wife Janet Achurch broke the ice for Ibsen in England, used to cite
+Posthumus as Shakespear's anticipation of his Norwegian rival.
+Certainly, after being theatrically conventional to the extent of
+ordering his wife to be murdered, he begins to criticize, quite on
+the lines of Mrs Alving in Ghosts, the slavery to an inhuman ideal
+of marital fidelity which led him to this villainous extremity.
+One may say that he is the only character left really alive in the
+last act; and as I cannot change him for the better I have left
+most of his part untouched.  I make no apology for my attempt to
+bring the others back to dramatic activity and individuality.
+
+I should like to have retained Cornelius as the exponent of
+Shakespear's sensible and scientific detestation of vivisection.
+But as he has nothing to say except that the Queen is dead, and
+nobody can possibly care a rap whether she is alive or dead, I have
+left him with her in the box of puppets that are done with.
+
+I have ruthlessly cut out the surprises that no longer surprise
+anybody.  I really could not keep my countenance over the
+identification of Guiderius by the mole on his neck.  That device
+was killed by Maddison Morton, once a famous farce writer, now
+forgotten by everyone save Mr Gordon Craig and myself.  In Morton's
+masterpiece, Box and Cox, Box asks Cox whether he has a strawberry
+mark on his left arm.  "No" says Cox.  "Then you are my long lost
+brother" says Box as they fall into one another's arms and end the
+farce happily.  One could wish that Guiderius had anticipated Cox.
+
+Plot has always been the curse of serious drama, and indeed of
+serious literature of any kind.  It is so out-of-place there that
+Shakespear never could invent one.  Unfortunately, instead of
+taking Nature's hint and discarding plots, he borrowed them all
+over the place and got into trouble through having to unravel them
+in the last act, especially in The Two Gentlemen of Verona and
+Cymbeline.  The more childish spectators may find some delight in
+the revelation that Polydore and Cadwal are Imogen's long lost
+brothers and Cymbeline's long lost sons; that Iachimo is now an
+occupant of the penitent form and very unlike his old self; and
+that Imogen is so dutiful that she accepts her husband's attempt to
+have her murdered with affectionate docility.  I cannot share these
+infantile joys.  Having become interested in Iachimo, in Imogen,
+and even in the two long lost princes, I wanted to know how their
+characters would react to the éclaircissement which follows the
+battle.  The only way to satisfy this curiosity was to rewrite the
+act as Shakespear might have written it if he had been post-Ibsen
+and post-Shaw instead of post-Marlowe.
+
+In doing so I had to follow the Shakespearean verse pattern to
+match the 89 lines of Shakespear's text which I retained.  This
+came very easily to me.  It happened when I was a child that one of
+the books I delighted in was an illustrated Shakespear, with a
+picture and two or three lines of text underneath it on every third
+or fourth page.  Ever since, Shakespearean blank verse has been
+to me as natural a form of literary expression as the Augustan
+English to which I was brought up in Dublin, or the latest London
+fashion in dialogue.  It is so easy that if it were possible to
+kill it it would have been burlesqued to death by Tom Thumb,
+Chrononhotonthologos, and Bombastes Furioso.  But Shakespear will
+survive any possible extremity of caricature.
+
+I shall not deprecate the most violent discussion as to the
+propriety of meddling with masterpieces.  All I can say is that the
+temptation to do it, and sometimes the circumstances which demand
+it, are irresistible.  The results are very various.  When a
+mediocre artist tries to improve on a great artist's work the
+effect is ridiculous or merely contemptible.  When the alteration
+damages the original, as when a bad painter repaints a Velasquez or
+a Rembrandt, he commits a crime.  When the changed work is sold or
+exhibited as the original, the fraud is indictable.  But when it
+comes to complete forgery, as in the case of Ireland's Vortigern,
+which was much admired and at last actually performed as a play by
+Shakespear, the affair passes beyond the sphere of crime and
+becomes an instructive joke.
+
+But what of the many successful and avowed variations?  What about
+the additions made by Mozart to the score of Handel's Messiah?
+Elgar, who adored Handel, and had an unbounded contempt for all the
+lesser meddlers, loved Mozart's variations, and dismissed all
+purist criticism of them by maintaining that Handel must have
+extemporized equivalents to them on the organ at his concerts.
+When Spontini found on his visit to Dresden that Wagner had added
+trombone parts to his choruses, he appropriated them very
+gratefully.  Volumes of variations on the tunes of other composers
+were published as such by Mozart and Beethoven, to say nothing of
+Bach and Handel, who played Old Harry with any air that amused
+them.  Would anyone now remember Diabelli's vulgar waltz but for
+Beethoven's amazing variations, one of which is also a variation on
+an air from Don Giovanni?
+
+And now consider the practice of Shakespear himself.  Tolstoy
+declared that the original Lear is superior to Shakespear's
+rehandling, which he abhorred as immoral.  Nobody has ever agreed
+with him.  Will it be contended that Shakespear had no right to
+refashion Hamlet?  If he had spoiled both plays, that would be a
+reason for reviving them without Shakespear's transfigurations, but
+not for challenging Shakespear's right to remake them.
+
+Accordingly, I feel no qualm of conscience and have no apology to
+make for indulging in a variation on the last act of Cymbeline.  I
+stand in the same time relation to Shakespear as Mozart to Handel,
+or Wagner to Beethoven.  Like Mozart, I have not confined myself to
+the journeyman's job of writing "additional accompaniments": I have
+luxuriated in variations.  Like Wagner dealing with Gluck's
+overture to Iphigenia in Aulis I have made a new ending for its own
+sake.  Beethoven's Ninth Symphony towers among the classic
+masterpieces; but if Wagner had been old enough in his Dresden days
+not only to rescore the first and greatest movement as he did, but
+to supply the whole work with a more singable ending I should not
+have discouraged him; for I must agree with Verdi that the present
+ending, from the change to six-four onward, though intensely
+Beethovenish, is in performance usually a screaming voice
+destroying orgy.
+
+I may be asked why all my instances are musical instead of
+literary.  Is it a plot to take the literary critics out of their
+depth?  Well, it may have that good effect; but I am not aiming at
+it.  It is, I suppose, because music has succeeded to the heroic
+rank taken by literature in the sixteenth century.  I cannot
+pretend to care much about what Nat Lee did in his attempts to
+impart Restoration gentility to Shakespear, or about Thomas
+Corneille's bowdlerization of Molière's Festin de Pierre, or any of
+the other literary precedents, though I am a little ashamed of
+being found in the company of their perpetrators.  But I do care a
+good deal about what Mozart did to Handel, and Wagner to Gluck; and
+it seems to me that to discuss the artistic morality of my
+alternative ending without reference to them would be waste of
+time.  Anyhow, what I have done I have done; and at that I must
+leave it.
+
+I shall not press my version on managers producing Cymbeline if
+they have the courage and good sense to present the original word-
+for-word as Shakespear left it, and the means to do justice to the
+masque.  But if they are halfhearted about it, and inclined to
+compromise by leaving out the masque and the comic jailor and
+mutilating the rest, as their manner is, I unhesitatingly recommend
+my version.  The audience will not know the difference; and the few
+critics who have read Cymbeline will be too grateful for my
+shortening of the last act to complain.
+
+G. B. S.
+
+AYOT SAINT LAWRENCE, December 1945
+
+
+
+
+CYMBELINE REFINISHED
+
+
+ACT V
+
+
+A rocky defile.  A wild evening.  Philario, in armor, stands on a
+tall rock, straining his eyes to see into the distance.  In the
+foreground a Roman captain, sword in hand, his helmet badly
+battered, rushes in panting.  Looking round before he sits down on
+a rock to recover his breath, he catches sight of Philario.
+
+
+CAPTAIN.  Ho there, signor!  You are in danger there.
+You can be seen a mile off.
+
+PHILARIO [hastening down]  Whats your news?
+I am sent by Lucius to find out how fares
+Our right wing led by General Iachimo.
+
+CAPTAIN.  He is outgeneralled.  There's no right wing now.
+Broken and routed, utterly defeated,
+Our eagles taken and the few survivors
+In full flight like myself.  And you?
+
+PHILARIO.  My news
+Is even worse.  Lucius, I fear, is taken.
+Our centre could not stand the rain of arrows.
+
+CAPTAIN.  Someone has disciplined these savage archers.
+They shoot together and advance in step:
+Their horsemen trot in order to the charge
+And then let loose th' entire mass full speed.
+No single cavaliers but thirty score
+As from a catapult four hundred tons
+Of horse and man in one enormous shock
+Hurled on our shaken legions.  Then their chariots
+With every axle furnished with a scythe
+Do bloody work.  They made us skip, I promise you.  Their slingers!
+  [He points to his helmet]
+--Well: see their work!  Two inches further down
+I had been blind or dead.  The crackbrained Welshmen
+Raged like incarnate devils.
+
+PHILARIO.  Yes: they thought
+We were the Britons.  So our prisoners tell us.
+
+CAPTAIN.  Where did these bumpkins get their discipline?
+
+PHILARIO.  Ay: thats the marvel.  Where?
+
+CAPTAIN.  Our victors say
+Cassivelaunus is alive again.
+But thats impossible.
+
+PHILARIO.  Not so impossible
+As that this witless savage Cymbeline,
+Whose brains were ever in his consort's head,
+Could thus defeat Roman-trained infantry.
+
+CAPTAIN.  'Tis my belief that old Belarius,
+Banned as a traitor, must have been recalled.
+That fellow knew his job.  These fat civilians
+When we're at peace, rob us of our rewards
+By falsely charging us with this or that;
+But when the trumpet sounds theyre on their knees to us.
+
+PHILARIO.  Well, Captain, I must hasten back to Lucius
+To blast his hopes of any help from you.
+Where, think you, is Iachimo?
+
+CAPTAIN.  I know not.
+And yet I think he cannot be far off.
+
+PHILARIO.  He lives then?
+
+CAPTAIN.  Perhaps.  When all was lost he fought
+Like any legionary, sword in hand.
+His last reported word was "Save yourselves:
+Bid all make for the rocks; for there
+Their horsemen cannot come".  I took his counsel;
+And here I am.
+
+PHILARIO.  You were best come with me.
+Failing Iachimo, Lucius will require
+Your tale at first hand.
+
+CAPTAIN.  Good.  But we shall get
+No laurel crowns for what we've done today.
+
+Exeunt together.  Enter Posthumus dressed like a peasant, but
+wearing a Roman sword and a soldier's iron cap.  He has in his hand
+a bloodstained handkerchief.
+
+POSTHUMUS.  Yea, bloody cloth, I'll keep thee; for I wish'd
+Thou shouldst be colour'd thus.  You married ones,
+If each of you should take this course, how many
+Must murder wives much better than themselves
+For wrying but a little?  O Pisanio!
+Every good servant does not all commands:
+No bond, but to do just ones.  Gods, if you
+Should have ta'en vengeance on my faults, I ne'er
+Had liv'd to put on this: so had you sav'd
+The noble Imogen to repent, and struck
+Me (wretch) more worth your vengeance.  But, alack,
+You snatch some hence for little faults: that's love,
+To have them fall no more.  You some permit
+To second ills with ills, each elder worse,
+And make them dread it, to the doers' thrift;
+But Imogen is your own: do your best wills,
+And make me blest to obey!  I am brought hither
+Among the Italian gentry, and to fight
+Against my lady's kingdom: 'tis enough
+That, Britain, I have kill'd thy mistress.  Peace!
+I'll give no wound to thee.  I have disrobed me
+Of my Italian weeds, and drest myself
+As does a Briton peasant; so I've fought
+Against the part I came with; so I'll die
+For thee, O Imogen, even for whom my life
+Is every breath a death; and thus unknown,
+Pitied nor hated, to the face of peril
+Myself I'll dedicate.  Let me make men know
+More valour in me than my habits shew.
+Gods, put the strength o' the Leonati in me!
+To shame the guise o' the world, I'll begin
+The fashion, less without and more within.
+
+He is hurrying off when he is confronted with Iachimo, battle
+stained, hurrying in the opposite direction.  Seeing a British
+enemy he draws his sword.
+
+POSTHUMUS.  Iachimo!  Peace, man: 'tis I, Posthumus.
+
+IACHIMO.  Peace if you will.  The battle's lost and won.
+Pass on.
+
+POSTHUMUS.  Do you not know me?
+
+IACHIMO.  No.
+
+POSTHUMUS.  Look closer.
+You have some reason to remember me
+And I to hate you.  Yet we're sworn friends.
+
+IACHIMO.  By all the gods, Leonatus!
+
+POSTHUMUS.  At your service,
+Seducer of my wife.
+
+IACHIMO.  No more of that.
+Your wife, Posthumus, is a noble creature.
+I'll set your mind at rest upon that score.
+
+POSTHUMUS.  At rest!  Can you then raise her from the grave?
+Where she lies dead to expiate our crime?
+
+IACHIMO.  Dead!  How?  Why?  When?  And expiate!  What mean you?
+
+POSTHUMUS.  This only: I have had her murdered, I.
+And at my best am worser than her worst.
+
+IACHIMO.  We are damned for this.  [On guard]  Let's cut each
+other's throats.
+
+POSTHUMUS [drawing]  Ay, let us.
+
+They fight furiously.  Enter Cymbeline, Belarius, Guiderius,
+Arviragus, Pisiano, with Lucius and Imogen as Fidele: both of them
+prisoners guarded by British soldiers.
+
+BELARIUS [taking command instinctively]  Part them there.  Make
+  fast the Roman.
+
+Guiderius pounces on Iachimo and disarms him.  Arviragus pulls
+Posthumus back.
+
+ARVIRAGUS.  In the King's presence sheath your sword, you lout.
+
+IACHIMO.  In the King's presence I must yield perforce;
+But as a person of some quality
+By rank a gentleman, I claim to be
+Your royal highness's prisoner, not this lad's.
+
+LUCIUS.  His claim is valid, sir.  His blood is princely.
+
+POSTHUMUS.  'Tis so: he's noble.
+
+CYMBELINE.  What art thou?
+
+POSTHUMUS.  A murderer.
+
+IMOGEN.  His voice!  His voice!  Oh, let me see his face.
+[She rushes to Posthumus and puts her hand on his face].
+
+POSTHUMUS.  Shall's have a play with this?  There lies thy part [he
+knocks her down with a blow of his fist].
+
+GUIDERIUS.  Accursed churl: take that.  [He strikes Posthumus and
+brings him down on one knee].
+
+ARVIRAGUS.  You dog, how dare you [threatening him].
+
+POSTHUMUS.  Soft, soft, young sirs.  One at a time, an't please you.
+[He springs up and stands on the defensive].
+
+PISANIO [interposing]  Hands off my master!  He is kin to the king.
+
+POSTHUMUS [to Cymbeline]  Call off your bulldogs, sir.  Why all
+  this coil
+About a serving boy?
+
+CYMBELINE.  My son-in-law!
+
+PISANIO.  Oh, gentlemen, your help.  My Lord Posthumus:
+You ne'er killed Imogen till now.  Help! help!
+
+IMOGEN.  Oh, let me die.  I heard my husband's voice
+Whom I thought dead; and in my ecstasy,
+The wildest I shall ever feel again,
+He met me with a blow.
+
+POSTHUMUS.  Her voice.  'Tis Imogen.
+Oh, dearest heart, thou livest.  Oh, you gods,
+What sacrifice can pay you for this joy?
+
+IMOGEN.  You dare pretend you love me.
+
+POSTHUMUS.  Sweet, I dare
+Anything, everything.  Mountains of mortal guilt
+That crushed me are now lifted from my breast.
+I am in heaven that was but now in hell.
+You may betray me twenty times again.
+
+IMOGEN.  Again!  And pray, when have I e'er betrayed you?
+
+POSTHUMUS.  I had the proofs.  There stands your paramour.
+Shall's have him home?  I care not, since thou liv'st.
+
+IMOGEN.  My paramour!  [To Iachimo]  Oh, as you are a gentleman,
+Give him the lie.
+
+IACHIMO.  He knows no better, madam.
+We made a wager, he and I, in Italy
+That I should spend a night in your bedchamber.
+
+IMOGEN [to Posthumus]  You made this wager!  And I'm married to you!
+
+POSTHUMUS.  I did.  He won it.
+
+IMOGEN.  How?  He never came
+Within my bedchamber.
+
+IACHIMO.  I spent a night there.
+It was the most uncomfortable night
+I ever passed.
+
+IMOGEN.  You must be mad, signor.
+Or else the most audacious of all liars
+That ever swore away a woman's honor.
+
+IACHIMO.  I think, madam, you do forget that chest.
+
+IMOGEN.  I forget nothing.  At your earnest suit
+Your chest was safely housed in my chamber;
+But where were you?
+
+IACHIMO.  I?  I was in the chest [Hilarious sensation].
+And on one point I do confess a fault.
+I stole your bracelet while you were asleep.
+
+POSTHUMUS.  And cheated me out of my diamond ring!
+
+IACHIMO.  Both ring and bracelet had some magic in them
+That would not let me rest until I laid them
+On Mercury's altar.  He's the god of thieves.
+But I can make amends.  I'll pay for both
+At your own price, and add one bracelet more
+For the other arm.
+
+POSTHUMUS.  With ten thousand ducats
+Due to me for the wager you have lost.
+
+IMOGEN.  And this, you think, signors, makes good to me
+All you have done, you and my husband there!
+
+IACHIMO.  It remedies what can be remedied.
+As for the rest, it cannot be undone.
+We are a pitiable pair.  For all that
+You may go further and fare worse; for men
+Will do such things to women.
+
+IMOGEN.  You at least
+Have grace to know yourself for what you are.
+My husband thinks that all is settled now
+And this a happy ending!
+
+POSTHUMUS.  Well, my dearest,
+What could I think?  The fellow did describe
+The mole upon your breast.
+
+IMOGEN.  And thereupon
+You bade your servant kill me.
+
+POSTHUMUS.  It seemed natural.
+
+IMOGEN.  Strike me again; but do not say such things.
+
+GUIDERIUS.  An if you do, by Thor's great hammer stroke
+I'll kill you, were you fifty sons-in-law.
+
+BELARIUS.  Peace, boy: we're in the presence of the king.
+
+IMOGEN.  Oh, Cadwal, Cadwal, you and Polydore,
+My newfound brothers, are my truest friends.
+Would either of you, were I ten times faithless,
+Have sent a slave to kill me?
+
+GUIDERIUS [shuddering]  All the world
+Should die first.
+
+ARVIRAGUS.  Whiles we live, Fidele,
+Nothing shall harm you.
+
+POSTHUMUS.  Child: hear me out.
+Have I not told you that my guilty conscience
+Had almost driven me mad when heaven opened
+And you appeared?  But prithee, dearest wife,
+How did you come to think that I was dead?
+
+IMOGEN.  I cannot speak of it: it is too dreadful.
+I saw a headless man drest in your clothes.
+
+GUIDERIUS.  Pshaw!  That was Cloten: son, he said, to the king.
+I cut his head off.
+
+CYMBELINE.  Marry, the gods forefend!
+I would not thy good deeds should from my lips
+Pluck a hard sentence: prithee, valiant youth,
+Deny 't again.
+
+GUIDERIUS.  I have spoke it, and I did it.
+
+CYMBELINE.  He was a prince.
+
+GUIDERIUS.  A most incivil one: the wrongs he did me
+Were nothing prince-like; for he did provoke me
+With language that would make me spurn the sea
+If it could so roar to me.  I cut off 's head;
+And am right glad he is not standing here
+To tell this tale of mine.
+
+CYMBELINE.  I am sorry for thee:
+By thine own tongue thou art condemn'd, and must
+Endure our law: thou 'rt dead.  Bind the offender,
+And take him from our presence.
+
+BELARIUS.  Stay, sir king:
+This man is better than the man he slew,
+As well descended as thyself, and hath
+More of thee merited than a band of Clotens
+Had ever scar for.  [To the Guard]  Let his arms alone,
+They were not born for bondage.
+
+CYMBELINE.  Why, old soldier,
+Wilt thou undo the worth thou art unpaid for,
+By tasting of our wrath?  How of descent
+As good as we?
+
+GUIDERIUS.  In that he spake too far.
+
+CYMBELINE.  And thou shalt die for 't.
+
+BELARIUS.  We will die all three:
+But I will prove that two on 's are as good
+As I have given out him.
+
+CYMBELINE.  Take him away.
+The whole world shall not save him.
+
+BELARIUS.  Not so hot.
+First pay me for the nursing of thy sons;
+And let it be confiscate all so soon
+As I've received it.
+
+CYMBELINE.  Nursing of my sons!
+
+BELARIUS.  I am too blunt and saucy: here's my knee.
+Ere I arise I will prefer my sons.
+Then spare not the old father.  Mighty sir:
+These two young gentlemen that call me father,
+And think they are my sons, are none of mine.
+They are the issue of your loins, my liege,
+And blood of your begetting.
+
+CYMBELINE.  How? my issue?
+
+BELARIUS.  So sure as you your father's.  These your princes
+(For such and so they are) these twenty years
+Have I train'd up: those arts they have as I
+Could put into them; my breeding was, sir, as
+Your highness knows.  Come hither, boys, and pay
+Your loves and duties to your royal sire.
+
+GUIDERIUS.  We three are fullgrown men and perfect strangers.
+Can I change fathers as I'd change my shirt?
+
+CYMBELINE.  Unnatural whelp!  What doth thy brother say?
+
+ARVIRAGUS.  I, royal sir?  Well, we have reached an age
+When fathers' helps are felt as hindrances.
+I am tired of being preached at.
+
+CYMBELINE [to Belarius]  So, sir, this
+Is how you have bred my puppies.
+
+GUIDERIUS.  He has bred us
+To tell the truth and face it.
+
+BELARIUS.  Royal sir:
+I know not what to say: not you nor I
+Can tell our children's minds.  But pardon him.
+If he be overbold the fault is mine.
+
+GUIDERIUS.  The fault, if fault there be, is in my Maker.
+I am of no man's making.  I am I:
+Take me or leave me.
+
+IACHIMO [to Lucius] Mark well, Lucius, mark.
+There spake the future king of this rude island.
+
+GUIDERIUS.  With you, Sir Thief, to tutor me?  No, no:
+This kingly business has no charm for me.
+When I lived in a cave methought a palace
+Must be a glorious place, peopled with men
+Renowned as councillors, mighty as soldiers,
+As saints a pattern of holy living,
+And all at my command were I a prince.
+This was my dream.  I am awake today.
+I am to be, forsooth, another Cloten,
+Plagued by the chatter of his train of flatterers,
+Compelled to worship priest invented gods,
+Not free to wed the woman of my choice,
+Being stopped at every turn by some old fool
+Crying "You must not", or, still worse, "You must".
+Oh no, sir: give me back the dear old cave
+And my unflattering four footed friends.
+I abdicate, and pass the throne to Polydore.
+
+ARVIRAGUS.  Do you, by heavens?  Thank you for nothing, brother.
+
+CYMBELINE.  I'm glad you're not ambitious.  Seated monarchs
+Do rarely love their heirs.  Wisely, it seems.
+
+ARVIRAGUS.  Fear not, great sir: we two have never learnt
+To wait for dead men's shoes, much less their crowns.
+
+GUIDERIUS.  Enough of this.  Fidele: is it true
+Thou art a woman, and this man thy husband?
+
+IMOGEN.  I am a woman, and this man my husband.
+He would have slain me.
+
+POSTHUMUS.  Do not harp on that.
+
+CYMBELINE.  God's patience, man, take your wife home to bed.
+You're man and wife: nothing can alter that.
+Are there more plots to unravel?  Each one here,
+It seems, is someone else.  [To Imogen]  Go change your dress
+For one becoming to your sex and rank.  Have you no shame?
+
+IMOGEN.  None.
+
+CYMBELINE.  How?  None!
+
+IMOGEN.  All is lost.
+Shame, husband, happiness, and faith in Man.
+He is not even sorry.
+
+POSTHUMUS.  I'm too happy.
+
+IACHIMO.  Lady: a word.  When you arrived just now
+I, as you saw, was hot on killing him.
+Let him bear witness that I drew on him
+To avenge your death.
+
+IMOGEN.  Oh, do not make me laugh.
+Laughter dissolves too many just resentments,
+Pardons too many sins.
+
+IACHIMO.  And saves the world
+A many thousand murders.  Let me plead for him.
+He has his faults; but he must suffer yours.
+You are, I swear, a very worthy lady;
+But still, not quite an angel.
+
+IMOGEN.  No, not quite,
+Nor yet a worm.  Subtle Italian villain!
+I would that chest had smothered you.
+
+IACHIMO.  Dear lady
+It very nearly did.
+
+IMOGEN.  I will not laugh.
+I must go home and make the best of it
+As other women must.
+
+POSTHUMUS.  Thats all I ask.  [He clasps her].
+
+BELARIUS.  The fingers of the powers above do tune
+The harmony of this peace.
+
+LUCIUS.  Peace be it then.
+For by this gentleman's report and mine
+I hope imperial Cæsar will reknit
+His favour with the radiant Cymbeline,
+Which shines here in the west.
+
+CYMBELINE.  Laud we the gods.
+And let our crooked smokes climb to their nostrils
+From our blest altars.  Publish we this peace
+To all our subjects.  Set we forward: let
+A Roman and a British ensign wave
+Friendly together: so through Lud's town march,
+And in the temple of great Jupiter
+Our peace we'll ratify; seal it with feasts.
+Set on there!  Never was a war did cease,
+Ere bloody hands were wash'd, with such a peace.
+
+[Curtain
+
+
+
+THE END
+
+
+
+Project Gutenberg Australia
+
