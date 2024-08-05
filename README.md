@@ -1,3 +1,6 @@
+# 🔒🔒🔒 This branch is now locked in order to maintain all of the original data. You can clone it if needed or create a new branch. The cleaning of this data in branch  🗂️  **Gutenberg-Clean** 
+
+
 # 🌟 Scraping Project Gutenberg Australia for Training Southern Cross AI's Baby Joey Model 🌟
 
 I want to say thank you to the Gutenberg Australia volunteers for helping put these collections together, and a special thanks to the primary person behind the establishment of Project Gutenberg Australia, **Colin Choat**. He initiated the project in 1997, aiming to provide free access to a variety of literary works that are in the public domain in Australia. Without his hard work and years of commitment, this would not have been possible. 🙏😊
