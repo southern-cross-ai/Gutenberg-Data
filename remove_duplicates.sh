@@ -1,18 +1,22 @@
 #!/bin/bash
 
-# Directories
-HTML_DIR="./Data/html_files"
-TXT_DIR="./Data/txt_files"
+# Set the base directory
+BASE_DIR="/home/remote/u1138167/Gutenberg-Data/Data"
 
-# Loop through each HTML file
-for html_file in "$HTML_DIR"/*.html; do
-  # Get the base name of the HTML file (without the directory and extension)
-  base_name=$(basename "$html_file" .html)
+# Move to the base directory
+cd "$BASE_DIR" || exit
 
-  # Check if a corresponding TXT file exists
-  if [ -f "$TXT_DIR/$base_name.txt" ]; then
-    # Remove the TXT file
-    rm "$TXT_DIR/$base_name.txt"
-    echo "Removed: $TXT_DIR/$base_name.txt"
+# Loop through each subfolder in the base directory
+for subfolder in "$BASE_DIR"/*; do
+  if [ -d "$subfolder" ]; then
+    echo "Processing $subfolder..."
+    # Move all files from the subfolder to the base directory
+    mv "$subfolder"/* "$BASE_DIR"/
+    # Remove the empty subfolder
+    rmdir "$subfolder"
+    echo "$subfolder removed."
   fi
 done
+
+echo "All files have been moved to $BASE_DIR and subfolders have been removed."
+
